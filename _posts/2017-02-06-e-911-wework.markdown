@@ -1,0 +1,43 @@
+---
+layout: post
+title:  E-911
+date:   2017-02-06 11:00:00
+category: [wework]
+tags: [account, wework]
+---
+
+Every second is important in an emergency. It is important for the business address on file with Ooma be accurate. When you dial 911, this information is forwarded to emergency personnel to make sure that you are directed to the closest routing center and that first responders know where to find you.
+
+1. Table of Contents
+{:toc}
+* * *
+
+## Does 911 work accurately with Ooma Office?
+
+When you register your Ooma Office device, your business address is also used as your service. When you call 911, this information helps to route your call to the nearest response center. It is important that you keep your business address up to date.
+
+**Note:** If your physical location cannot be determined by your service address on file, you will be routed to a national call center to confirm your location so that your call can be forwarded to the appropriate local authority.
+
+**Important:** Ooma cannot provide 911 service without both power and a working broadband Internet connection. For more information, please click [here](http://ooma.com/911) (or [here](http://ca.ooma.com/911) for Canadian customers).
+
+## How can I update my business address?
+
+You can keep your business address up to date by following these instructions:
+
+1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to the "[Account](http://office.ooma.com/settings)" tab.
+2. Click "Edit" to edit your "Business Information" under the "Settings" tab, as shown below: \\
+   ![edit business info]({{ site.baseurl }}/assets/images/ooma_office_manager/business_info_edit.png)
+
+3. On the next screen, update your full business street address in the highlighted fields: \\
+   ![business address]]({{ site.baseurl }}/assets/images/ooma_office_manager/e911_address.png)
+
+4. Update your business address to ensure that your 911 calls will be routed correctly.
+5. Save your changes.
+
+## If the power is out, can I still call 911?
+
+Your Ooma Office system is dependent on power to function, so if there is no power you won't be able to use your office phone to place or receive calls including 911 calls.
+
+## If my Ooma Office device has no Internet connection, can I still call 911?
+
+Your Ooma Office system is dependent on power and Internet connection to function, so if either is down, you won't be able to use your office phone to place or receive calls, including 911 calls. In a situation such as this, you can still dial 911 from any cellular phone that has a charge in the event of an emergency.

@@ -1,0 +1,23 @@
+# Site settings
+title: Ooma Office for WeWork Support
+email: support@ooma.com
+description: "Support site for Ooma Office for WeWork"
+url: "http://wework-support.ooma.com"
+twitter_username: ooma
+github_username:  ooma-web
+permalink: /:categories/:title
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+
+collections:
+  home:
+    output: true
+    permalink: /telo/:path/
+  office:
+    output: true
+    permalink: /office/:path/
+  

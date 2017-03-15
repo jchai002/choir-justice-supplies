@@ -1,0 +1,62 @@
+<head>
+  {% case page.category.first %}
+	{% when "home" %}
+	  <meta class="swiftype" name="category" data-type="string" content="Ooma Telo" >
+		<meta class='swiftype' name='image' data-type='enum' content='http://support.ooma.com/assets/images/product_shots/telo_top_md.png' />
+		<title>{{ page.title }} | Ooma Telo | Support</title>
+	{% when "office" %}
+	  <meta class="swiftype" name="category" data-type="string" content="Ooma Office" >
+		<meta class='swiftype' name='image' data-type='enum' content='http://support.ooma.com/assets/images/product_shots/base_station_md.png' />
+		<title>{{ page.title }} | Ooma Office | Support</title>
+	{% else %}
+		<title>{{ page.title }} | Support</title>
+	{% endcase %}
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta class="swiftype" name="title" data-type="string" content="{{ page.title }}" >
+  {% for tag in page.tags %}
+  	<meta class="swiftype" name="tags" data-type="string" content="{{ tag | xml_escape }}" />
+  {% endfor %}
+
+	<!-- Fonts -->
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,300,600' rel='stylesheet' type='text/css'>
+	<!--[if lte IE 8]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" href="/assets/images/ooma_favicon.png" type="image/png">
+	<link rel="stylesheet" href="/assets/css/fast-fonts.css">	
+	<link rel="stylesheet" href="/assets/css/bootstrap.css">
+	<link rel="stylesheet" href="/assets/css/style.css">
+	<link rel="stylesheet" href="/assets/css/style.css">
+
+	<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+	<script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+	<script src="/assets/js/vendor/smartResize.js"></script>
+	<script src="/assets/js/vendor/pushy.min.js"></script>
+	<script src="/assets/js/vendor/jquery.ba-dotimeout.min.js"></script>
+	<script src="/assets/js/vendor/equalize.min.js"></script>
+	<script src="/assets/js/vendor/slick.min.js"></script>
+	<script src="/assets/js/layout.js"></script>
+	<script src="/assets/js/forms.js"></script>
+	<script src="/assets/js/equal.heights.js"></script>
+	<script src="/assets/js/plugins.js"></script>
+	<script src="/assets/js/main.js"></script>
+
+  <!-- Swiftype code -->
+	<script type="text/javascript">
+	  (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+	  (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+	  e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+	  })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
+
+	  _st('install','yZeUs5_g8EhSQ7sRoPLB','2.0.0');
+	</script>
+	<script src="/assets/js/vendor/jquery.swiftype.autocomplete.js"></script>
+
+	<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
