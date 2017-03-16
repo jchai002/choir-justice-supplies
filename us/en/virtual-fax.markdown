@@ -1,0 +1,51 @@
+---
+layout: post
+title:  Virtual fax
+date:   2017-02-06 16:45:00
+category: [wework]
+tags: [admin-features, end-user-features, wework]
+---
+
+Sending and receiving faxes is a necessity for most businesses. Ooma offers an alternative to a physical fax machine with virtual faxing. Since users can send and receive faxes right from the End User Portal, virtual faxing can give a small business the flexibility to allow its users to work from anywhere. 
+
+1. Table of Contents
+{:toc}
+* * *
+
+## What is virtual faxing?
+
+Virtual faxing is a process through which users can send and receive faxes through the Internet. Users can upload a PDF file and send it through the End User Portal. Incoming faxes are received as PDF sent to a direct phone number, received as PDF files, and sent to the user's email address.
+
+## What do I get with virtual fax?
+
+Each user extension can enable virtual fax, along with a dedicated phone number to receive faxes. Once virtual fax is configured, users will be able to use the Send Fax feature in the End User Portal to send faxes.
+
+## How much does virtual fax cost?
+
+Virtual fax is included in your Ooma Office subscription. 
+
+To learn more about our pricing structure for additional services and capacity, please visit our [pricing chart](/wework/ooma-office-pricing-chart-wework).
+
+## How do I sign up for virtual fax?
+
+You can sign up for virtual fax by following these instructions:
+
+1. Log into [https://office.ooma.com/](https://office.ooma.com/) as an administrator and navigate to the [Manage Extensions](https://office.ooma.com/extensions) screen.
+2. Click the name of the user on whose extension you will enable virtual fax.
+3. Follow the on-screen instructions to choose a dedicated faxing phone number.
+4. Click the Save button.
+
+## How do I send a virtual fax?
+
+To send a virtual fax, users can follow these instructions:
+
+1. Log into the End User Portal at [https://office.ooma.com/](https://office.ooma.com/)user and navigate to the [Send Fax](https://office.ooma.com/fax_send) option beneath the Home tab. 
+2. Enter the destination fax number and select the Ooma Office number from which your fax will be sent.
+3. Attach a PDF or TIFF file from your computer.
+4. Click on the Send Fax button.
+
+The file that was uploaded will be sent as a fax to the destination number.
+
+## How do I receive a virtual fax?
+
+Virtual faxes can only be received once virtual faxing has been activated on a user's extension. All incoming faxes will be sent to that user's email address as an attached PDF file. They are also available for the account administrator to download in the Ooma Office web portal.

@@ -159,17 +159,17 @@ input[type=radio] + label.checked {
         display: none; }
       #page .wrap header #logo {
         display: inline-block;
-        width: 22.35202%;
+        width: 35%;
         height: 100px;
         padding: 25px 0 0 5.06231%; }
         #page .wrap header #logo a {
           display: block;
           height: 48px;
-          background: url("/assets/images/logo-ooma.png") no-repeat 0px 0px; }
+          background: url("/assets/images/ooma_x_wework-logo.png") no-repeat 0px 0px; }
       #page .wrap header .toolbar {
         display: inline-block;
         vertical-align: top;
-        width: 25.77882%;
+        width: 30%;
         height: 100px; }
         #page .wrap header .toolbar ul {
           margin: 0;
@@ -236,7 +236,7 @@ input[type=radio] + label.checked {
                     color: #2eb5ec; }
       #page .wrap header nav {
         display: inline-block;
-        width: 51.86916%;
+        width: 35%;
         vertical-align: top;
         font-family: "Century Gothic W01", san-serif;
         height: 100%; }

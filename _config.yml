@@ -13,12 +13,4 @@ gems:
 
 # Build settings
 markdown: kramdown
-
-collections:
-  home:
-    output: true
-    permalink: /telo/:path/
-  office:
-    output: true
-    permalink: /office/:path/
   
