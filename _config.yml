@@ -2,7 +2,8 @@
 title: Ooma Office for WeWork Support
 email: support@ooma.com
 description: "Support site for Ooma Office for WeWork"
-url: "http://wework-support.ooma.com"
+# url: "http://wework-support.ooma.com"
+url: "http://ooma-web.github.io/wework-support
 twitter_username: ooma
 github_username:  ooma-web
 permalink: /:categories/:title
