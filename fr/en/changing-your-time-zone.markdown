@@ -26,4 +26,4 @@ You can check and update the time zone for your Ooma Office account by following
 
 ## What if my time zone is not on the menu?
 
-If you do not see your local time zone on the drop-down menu, please [contact our Customer Care team](/wework/contact us-wework).
+If you do not see your local time zone on the drop-down menu, please [contact our Customer Care team](/fr/en/contact us).

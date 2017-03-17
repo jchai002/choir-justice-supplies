@@ -32,7 +32,7 @@ A user can use multiple devices, but only one of each type. For example, you can
 
 ## How much does it cost to add a new user?
 
-Each new user costs $50 for US accounts, or CAD $60 for Canadian accounts. You can learn more about pricing for Ooma Office for WeWork by visiting our [pricing chart](/wework/ooma-office-pricing-chart-wework).
+Each new user costs $50 for US accounts, or CAD $60 for Canadian accounts. You can learn more about pricing for Ooma Office for WeWork by visiting our [pricing chart](/fr/en/ooma-office-pricing-chart).
 
 ## How can I see what devices are currently assigned to a user?
 

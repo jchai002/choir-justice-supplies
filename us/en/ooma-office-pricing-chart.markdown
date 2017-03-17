@@ -31,37 +31,37 @@ With Ooma Office for WeWork, you only need to pay for the services, capacity, an
 <td></td>
 </tr>
 <tr>
-<td class="indent"><a href="/wework/setting-up-extensions-wework">User extension</a> (includes IP phone rental, virtual fax, and a local phone number)</td>
+<td class="indent"><a href="/us/en/setting-up-extensions">User extension</a> (includes IP phone rental, virtual fax, and a local phone number)</td>
 <td style="text-align:center;">$50.00</td>
 <td style="text-align:center;">$60.00</td>
 <td style="text-align:center;">Monthly</td>
 </tr>
 <tr>
-<td class="indent"><a href="/wework/adding-additional-phone-numbers-wework">Local phone number</a></td>
+<td class="indent"><a href="/us/en/adding-additional-phone-numbers">Local phone number</a></td>
 <td style="text-align:center;">$9.95</td>
 <td style="text-align:center;">$14.95</td>
 <td style="text-align:center;">Monthly</td>
 </tr>
 <tr>
-<td class="indent"><a href="/wework/adding-additional-phone-numbers-wework">Toll free phone number</a> (includes 500 minutes, 3.4¢ per additional minute)</td>
+<td class="indent"><a href="/us/en/adding-additional-phone-numbers">Toll free phone number</a> (includes 500 minutes, 3.4¢ per additional minute)</td>
 <td style="text-align:center;">$9.95</td>
 <td style="text-align:center;">$14.95</td>
 <td style="text-align:center;">Monthly</td>
 </tr>
 <tr>
-<td class="indent"><a href="/wework/conference-server-wework">Conference bridge</a> (includes phone number)</td>
+<td class="indent"><a href="/us/en/conference-server">Conference bridge</a> (includes phone number)</td>
 <td style="text-align:center;">Free</td>
 <td style="text-align:center;">Free</td>
 <td style="text-align:center;">N/A</td>
 </tr>
 <tr>
-<td class="indent"><a href="/wework/ring-groups-wework">Ring groups</a></td>
+<td class="indent"><a href="/us/en/ring-groups">Ring groups</a></td>
 <td style="text-align:center;">Free</td>
 <td style="text-align:center;">Free</td>
 <td style="text-align:center;">N/A</td>
 </tr>
 <tr>
-<td class="indent"><a href="/wework/virtual-receptionist-wework">Virtual receptionist</a></td>
+<td class="indent"><a href="/us/en/virtual-receptionist">Virtual receptionist</a></td>
 <td style="text-align:center;">Free</td>
 <td style="text-align:center;">Free</td>
 <td style="text-align:center;">N/A</td>
@@ -73,7 +73,7 @@ With Ooma Office for WeWork, you only need to pay for the services, capacity, an
 <td></td>
 </tr>
 <tr>
-<td class="indent"><a href="/wework/porting-in-your-phone-numbers-wework">Number porting</a></td>
+<td class="indent"><a href="/us/en/porting-in-your-phone-numbers">Number porting</a></td>
 <td style="text-align:center;">Free*</td>
 <td style="text-align:center;">Free*</td>
 <td style="text-align:center;">N/A</td>
@@ -82,7 +82,7 @@ With Ooma Office for WeWork, you only need to pay for the services, capacity, an
 <td class="indent">International calling</td>
 <td style="text-align:center;">Varies by use</td>
 <td style="text-align:center;">Varies by use</td>
-<td style="text-align:center;">Deducted from <a href="/wework/setting-up-your-prepaid-account-wework">prepaid account</a> after each call</td>
+<td style="text-align:center;">Deducted from <a href="/us/en/setting-up-your-prepaid-account">prepaid account</a> after each call</td>
 </tr>
 </table>
 </p>

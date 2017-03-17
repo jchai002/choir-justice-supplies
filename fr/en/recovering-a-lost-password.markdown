@@ -13,4 +13,4 @@ If you have lost or forgotten your Ooma Office for WeWork password, it can be re
 
 2. Enter the Ooma Office phone number and the email address that is on file for the account administrator.
 3. A new password will be emailed to that address shortly.
-4. When access to the account is regained, don't forget to follow the "[Changing your account password](/wework/changing-your-account-password-wework)" instructions to update your Ooma Office password!
+4. When access to the account is regained, don't forget to follow the "[Changing your account password](/fr/en/changing-your-account-password)" instructions to update your Ooma Office password!

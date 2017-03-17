@@ -16,7 +16,7 @@ You can configure many of the settings for your virtual receptionist. You can le
 
 From there, you can configure the following settings and options:
 
-* Choose "update your text-to-speech greeting" or "upload an audio file." [Learn more](/wework/virtual-receptionist-greeting-options-wework).
-* Set up your business hours and holidays, and configure different greeting options for business hours and after-hours. [Learn more](/wework/configuring-business-and-holiday-hours-with-the-virtual-receptionist-wework).
-* Direct calls to a virtual extension, physical extension, ring group, or voicemail box through either "Key Press Assignments" or "Dial-By-Extension." [Learn more](/wework/directing-incoming-calls-with-the-virtual-receptionist-wework).
-* Check an extension's voicemail remotely. [Learn more](/wework/voicemail-wework).
+* Choose "update your text-to-speech greeting" or "upload an audio file." [Learn more](/us/en/virtual-receptionist-greeting-options).
+* Set up your business hours and holidays, and configure different greeting options for business hours and after-hours. [Learn more](/us/en/configuring-business-and-holiday-hours-with-the-virtual-receptionist).
+* Direct calls to a virtual extension, physical extension, ring group, or voicemail box through either "Key Press Assignments" or "Dial-By-Extension." [Learn more](/us/en/directing-incoming-calls-with-the-virtual-receptionist).
+* Check an extension's voicemail remotely. [Learn more](/us/en/voicemail).

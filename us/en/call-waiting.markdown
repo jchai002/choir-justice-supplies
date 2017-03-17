@@ -22,7 +22,7 @@ Yes, you should be able to see the call waiting caller-ID for the second incomin
 
 ## Can I conference the second call together with the first call?
 
-You can conference two calls together by following the instructions in our [IP phone user guide](office/yealink-user-guide#three-way-call-conferencing). You can learn more about conference calling with Ooma Office by [visiting our FAQ](/wework/three-way-call-conferencing-wework).
+You can conference two calls together by following the instructions in our [IP phone user guide](office/yealink-user-guide#three-way-call-conferencing). You can learn more about conference calling with Ooma Office by [visiting our FAQ](/us/en/three-way-call-conferencing).
 
 ## How can I disable call waiting on my extension?
 

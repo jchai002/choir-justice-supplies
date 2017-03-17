@@ -16,7 +16,7 @@ The Ooma Office for WeWork web portal is where you will go to administrate your 
 
 You can sign into the Ooma Office for WeWork web portal by visiting [https://office.ooma.com/](https://office.ooma.com/) with a web browser. Your username is your business's primary phone number, and the password is the one that you chose during account creation.
 
-If you cannot remember your Ooma Office web portal password, you can recover it by following the instructions in [this FAQ](/wework/recovering-a-lost-password-wework).
+If you cannot remember your Ooma Office web portal password, you can recover it by following the instructions in [this FAQ](/us/en/recovering-a-lost-password).
 
 ## What can I do under the Use tab?
 

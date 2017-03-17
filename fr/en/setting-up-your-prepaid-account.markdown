@@ -47,7 +47,7 @@ You can use your Prepaid Account to make international phone calls outside of th
 
 At this time, there is no way to undo a transaction of money into your Prepaid Account. If you find that you've accidentally added too much, you have two options:
 
-* You can contact [Customer Care](/wework/contact-us-wework) and request that the transfer be canceled.
+* You can contact [Customer Care](/fr/en/contact-us) and request that the transfer be canceled.
 * You can let the money remain in your Prepaid Account until you need it. Don't worry -- it won't expire and you'll never be charged a monthly fee.
 
 ## Does the money in my Prepaid Account ever expire?

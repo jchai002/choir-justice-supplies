@@ -24,7 +24,7 @@ Each user extension can enable virtual fax, along with a dedicated phone number 
 
 Virtual fax is included in your Ooma Office subscription. 
 
-To learn more about our pricing structure for additional services and capacity, please visit our [pricing chart](/wework/ooma-office-pricing-chart-wework).
+To learn more about our pricing structure for additional services and capacity, please visit our [pricing chart](/fr/en/ooma-office-pricing-chart).
 
 ## How do I sign up for virtual fax?
 

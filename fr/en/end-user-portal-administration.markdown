@@ -18,13 +18,13 @@ The Ooma Office for WeWork End User Portal gives Ooma Office users the ability t
 
 ## How do I create a user account for the End User Portal?
 
-An account for the End User Portal is automatically created when an extension is created for the user. To learn more about adding a new user extension, visit [this FAQ](/wework/setting-up-extensions-wework).
+An account for the End User Portal is automatically created when an extension is created for the user. To learn more about adding a new user extension, visit [this FAQ](/fr/en/setting-up-extensions).
 
 ## What information does a user need to log into the End User Portal?
 
 When a new user extension is created, the user will receive an automated email sent to the address that was entered during extension setup. This email will contain the user's extension number and temporary account password, both of which are necessary to log into the End User Portal.
 
-Once the user has this information, he or she can log into the End User Portal by visiting [office.ooma.com/user](https://office.ooma.com/user) and following the instructions in [this FAQ](/wework/ooma-end-user-portal-wework).
+Once the user has this information, he or she can log into the End User Portal by visiting [office.ooma.com/user](https://office.ooma.com/user) and following the instructions in [this FAQ](/fr/en/ooma-end-user-portal).
 
 ## How can I reset a user's password?
 
