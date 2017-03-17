@@ -10,15 +10,13 @@ With more than one business phone number, it becomes possible to fine-tune and c
 
 Ooma Office for WeWork comes with a complimentary phone number, and each user extension comes bundled with an additional phone number. Virtual fax extensions that are associated with a user extension and conference server extensions also each come with their own dedicated phone numbers. 
 
-If you find that you need additional numbers then you can add them for a monthly fee of just $9.95 for US users or CAD $14.95 for Canadian users, plus applicable tax and fees.
+If you find that you need additional numbers then you can add them for a monthly fee of just 9.95 €, which includes VAT.
 
 You can add new phone numbers to your Ooma Office setup by following these instructions:
 
 1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Numbers](http://office.ooma.com/#manage_phone_number)" under the "Setup" tab
-2. Click "+Add Number" and choose whether you wish to add a regular number or a toll-free number: \\
-   ![manage phone number]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png)
-
-3. If you are adding a regular number, choose the area code of the phone number to which you would like to assign the phone number. \\
+2. Click "+Add Number" and choose the option to add a regular number
+3. Choose the area code of the phone number to which you would like to assign the phone number. \\
    ![area code]({{ site.baseurl }}/assets/images/ooma_office_wework/add_number_wework_1.png)
 
 4. Select a city from the "Select a City drop-down menu," and then click "Search." \\

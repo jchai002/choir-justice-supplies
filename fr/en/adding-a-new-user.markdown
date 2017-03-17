@@ -23,16 +23,11 @@ You can set up a new user by following these instructions:
 3. Fill out the required information for the new extension, including selecting a new phone number and choosing a new extension number.
 4. Click "Proceed" to create your new user.
 
-Once your extension is set up, you can add direct access phone numbers and extension access methods. In addition to an IP phone, Ooma Office for WeWork supports two different devices that can be assigned to a user:
-
-* **Ooma Office mobile app:** A smartphone app that allows users to make and receive phone calls over their Wi-Fi or cellular data Internet connection.
-* **Remote number:** A cell phone or landline number where calls to the Ooma Office extension will be forwarded.
-
-A user can use multiple devices, but only one of each type. For example, you can set up a user so that calls will ring on their Mobile App and Ooma Linx simultaneously, but a user cannot have two Ooma Linx devices.
+Once your extension is set up, you can add direct access phone numbers and extension access methods. In addition to an IP phone, Ooma Office for WeWork can also forward to a remote number. This can be a cell phone or a landline number that will receive forwarded calls from the Ooma Office extension.
 
 ## How much does it cost to add a new user?
 
-Each new user costs $50 for US accounts, or CAD $60 for Canadian accounts. You can learn more about pricing for Ooma Office for WeWork by visiting our [pricing chart](/fr/en/ooma-office-pricing-chart).
+Each new user costs 50 €. You can learn more about pricing for Ooma Office for WeWork by visiting our [pricing chart](/fr/en/ooma-office-pricing-chart).
 
 ## How can I see what devices are currently assigned to a user?
 

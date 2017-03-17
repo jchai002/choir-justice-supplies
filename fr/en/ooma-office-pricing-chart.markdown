@@ -69,7 +69,7 @@ With Ooma Office for WeWork, you only need to pay for the services, capacity, an
 </tr>
 </table>
 </p>
-<p style="font-size: 75%;">* Phone number porting is complimentary for all regular France phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of 9.99 € for each number.</p>
+<p style="font-size: 75%;">* Phone number porting is complimentary for all regular France phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of 9.99 € (VAT included) for each number.</p>
 
 <style type="text/css">
 

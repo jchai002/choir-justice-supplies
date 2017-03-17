@@ -18,10 +18,6 @@ Ooma Office scales so that every employee can have his or her own extension, dir
 
 Whether you want several phone numbers in a single calling area or multiple numbers across many area codes, Ooma Office can accommodate your needs with additional phone numbers. [Learn more](/fr/en/adding-additional-phone-numbers).
 
-### Toll-free phone number
-
-Choose a toll-free number to give your small business a national footprint and make it easy for customers to reach you. [Learn more](/fr/en/adding-a-toll-free-number).
-
 ### Phone number mapping
 
 One or more phone numbers may be assigned to the virtual receptionist, a user, a ring group, or the conference service. [Learn more](/fr/en/mapping-phone-numbers).
@@ -69,10 +65,6 @@ Give your customers an informative or musical wait instead of the traditional ri
 ### End User Portal
 
 Each user has his or her own login to the End User Portal so that they can manage their extension preferences. [Learn more](/fr/en/ooma-end-user-portal).
-
-### Ooma Office mobile app
-
-The Ooma Office mobile app allows users to make and receive calls, manage their extension preferences, and more from their smart phone. [Learn more](/fr/en/ooma-office-mobile-app).
 
 ### Private voicemail
 

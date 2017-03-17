@@ -6,7 +6,7 @@ category: [wework]
 tags: [activation-and-setup, add-ons, account, wework]
 ---
 
-Once you have your Ooma Office set up, you can make unlimited calls to anywhere in the United States and Canada (excluding the 867 calling area) as part of your basic monthly plan. Your Prepaid Account provides funds to support international calling and calls to paid services such as 411. You can add funds to your Prepaid Account balance whenever you want, and with automatic balance refills you can guarantee that you will never run out of funds mid-call.
+Once you have your Ooma Office set up, you can make unlimited calls to landlines and cell phonles anywhere in France and to landlines in 12 European countries as part of your basic monthly plan. Your Prepaid Account provides funds to support international calling and calls to paid services. You can add funds to your Prepaid Account balance whenever you want, and with automatic balance refills you can guarantee that you will never run out of funds mid-call.
 
 1. Table of Contents
 {:toc}
@@ -41,7 +41,7 @@ You can set up automatic refills to ensure that your employees never run out of 
 
 ## What can I do with my Prepaid Account?
 
-You can use your Prepaid Account to make international phone calls outside of the U.S. and Canada. You can also use this account to pay for premium services such as directory assistance (411).
+You can use your Prepaid Account to make international phone calls outside of France and the other European countries included in your calling plan. You can also use this account to pay for premium services.
 
 ## I've accidentally added too much money to my Prepaid Account. What can I do?
 
@@ -53,3 +53,11 @@ At this time, there is no way to undo a transaction of money into your Prepaid A
 ## Does the money in my Prepaid Account ever expire?
 
 Money in your Prepaid Account never expires. You will never be charged monthly fees on your Prepaid Account, either.
+
+## How can I determine the rate I will pay for an international call?
+
+You can learn more about international calling rates to specific countries by following these instructions:
+
+1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Prepaid Account](https://office.ooma.com/#prepaid_account)" under the "Add-Ons" tab.
+2. Click "View rates" under "International Calling Rates."
+3. Select the country you wish to search for. You will see a list of all calling rates for that country.

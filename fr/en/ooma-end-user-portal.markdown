@@ -43,7 +43,7 @@ To use the Click to Call feature, enter any phone number that you want to call i
 
 Your Ooma Office extension will start to ring. Answer your extension to connect the call.
 
-You can dial internal extension numbers, US or Canada phone numbers (e.g., 650-555-1212), or international numbers (e.g., 011 followed by country code and phone number). Keep in mind that if you dial international numbers additional charges may apply.
+You can dial internal extension numbers, French phone numbers, or international numbers (e.g., 00 followed by country code and phone number). Keep in mind that if you dial international numbers additional charges may apply.
 
 ## Voicemail
 

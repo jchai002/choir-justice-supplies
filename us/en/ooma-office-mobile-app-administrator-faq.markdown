@@ -67,7 +67,3 @@ Users can make international calls with the Ooma Office mobile app. Internationa
 ## How many users can have the Ooma Office mobile app enabled simultaneously?
 
 The Ooma Office mobile app can be enabled for as many users as necessary.
-
-## Does the Ooma Office mobile app need to be assigned to a Base Station? Does it count as a wireless device?
-
-No. The Ooma Office mobile app does not need to be assigned to a Base Station and it does not count as a wireless device.

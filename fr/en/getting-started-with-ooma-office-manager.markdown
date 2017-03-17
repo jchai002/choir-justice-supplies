@@ -29,7 +29,7 @@ Your Ooma Office account allows you to personalize your Ooma Office for WeWork s
 
 You can sign in by visiting [https://office.ooma.com/](https://office.ooma.com/) with a web browser.
 
-Your Ooma Office username is your phone number (e.g. "6505551212").
+Your Ooma Office username is your phone number.
 
 ## What if I can't remember my Ooma Office password?
 
@@ -73,7 +73,7 @@ You can manage the following items in the "Settings" section:
 
 ## What settings are located under the Add-ons tab?
 
-If you are interested in buying accessories for your Ooma Office Base Station or adding additional service, you will visit the "Add-ons" tab. There you can do the following:
+If you are interested in adding additional service, you will visit the "Add-ons" tab. There you can do the following:
 
 * Rent additional [IP phones](https://office.ooma.com/ip_phones/yealink_t23g) that can help you grow your Ooma Office setup
 * Add funds to and manage your [Prepaid Account](https://office.ooma.com/#prepaid_account)

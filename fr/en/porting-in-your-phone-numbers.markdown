@@ -24,7 +24,7 @@ Phone number porting allows you to transfer your existing telephone number or nu
 
 ## How much does porting cost?
 
-Phone number porting is complimentary for all regular US and Canada phone numbers, and for any applicable toll-free numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of $9.95/month for US users, or CAD $14.95/month for Canadian users, for each number.
+Phone number porting is complimentary for all regular phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of 9.95 €/month (VAT included) for each number.
 
 ## How long does porting take?
 
@@ -45,6 +45,7 @@ Once you've decided to take the plunge and port your number, you'll need to foll
 1. Log into Ooma Office Manager and navigate to the Add-Ons tab. Select the "[Number Porting](https://office.ooma.com/number_porting)" option.
 2. Read the instructions carefully, and then click "Start Number Porting."
 3. Fill in the Number Port Request with the following account information:
+
    * The type of phone number you want to port (landline or cell phone)
    * Your current telephone service provider
    * Your current provider's account number
@@ -76,4 +77,4 @@ Once your number has been successfully ported to Ooma, it will replace your temp
 
 If you would like to keep your temporary number permanently, you can contact Customer Care by emailing <a href="mailto:loa@ooma.com">loa@ooma.com</a> at any time during the number porting process to request that your temporary number be assigned as a virtual number on your account.
 
-**Note:** One phone number is included in your monthly Ooma Office subscription. Each additional number will be billed at $9.99/month.
+**Note:** One phone number is included in your monthly Ooma Office subscription. Each additional number will be billed at 9.95 €/month (VAT included).
