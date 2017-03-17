@@ -10,6 +10,7 @@ Having trouble setting up or using a feature of Ooma Office for WeWork? No probl
 * * *
 
 ## Live Chat
+
 Online chat with our Customer Care agents is a convenient way to get your questions answered. Click the button below to get started.
 
 <!-- Start WebsiteAlive Button Code ID: 345 -->
@@ -17,4 +18,5 @@ Online chat with our Customer Care agents is a convenient way to get your questi
 <!-- End WebsiteAlive Button Code -->
 
 ## Phone
+
 Contact us at **1-855-803-2565** in the US, or at **1-855-803-2564** in Canada. Customer Care agents are available 24/7 if you need assistance.
