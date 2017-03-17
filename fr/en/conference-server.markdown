@@ -14,7 +14,7 @@ If you need to bring many parties together in a single phone call, an Ooma Offic
 
 ## How do I set up a conference server?
 
-You can add a conference server to your account by [viewing our video tutorial](https://youtu.be/apkA-5DlbQA), or by following the directions below:
+You can add a conference server to your account by following the directions below:
 
 1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Conferences](http://office.ooma.com/#conferences)" under the "Setup" tab, as shown in the following illustration: \\
    ![conference server tab]({{ site.baseurl }}/assets/images/ooma_office_manager/conference_server_tab.png)

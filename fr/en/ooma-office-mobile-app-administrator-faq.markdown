@@ -22,7 +22,7 @@ The Ooma Office mobile app can be added as a device for any user.
 
 ## How do I enable the Ooma Office mobile app for a user account?
 
-You can enable the mobile app for a user by following the instructions in the online web tutorial located [here](https://www.youtube.com/watch?v=kNUPwWJualM&feature=youtu.be), or by following the directions below:
+You can enable the mobile app for a user by following the directions below:
 
 1. Log into the Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
 2. Click on the user to whom you would like to add the Mobile App.

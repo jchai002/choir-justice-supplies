@@ -14,7 +14,7 @@ Once you have finished setting up a new user extension, he or she will have acce
 
 ## What is the Ooma End User Portal?
 
-The Ooma Office for WeWork End User Portal gives Ooma Office users the ability to manage their extension. Each user has his or her own individual login to manage and listen to voicemails, check call logs, and update extension preferences from within a web browser. [This video tutorial](https://youtu.be/_mHhrBbPX2s) contains an overview of the End User Portal and all of its functionality.
+The Ooma Office for WeWork End User Portal gives Ooma Office users the ability to manage their extension. Each user has his or her own individual login to manage and listen to voicemails, check call logs, and update extension preferences from within a web browser.
 
 ## How do I create a user account for the End User Portal?
 
