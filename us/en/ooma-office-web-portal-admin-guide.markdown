@@ -34,7 +34,6 @@ The Setup tab in the Ooma Office web portal is where you will do the following:
 * Add and manage your account's [phone numbers](https://office.ooma.com/phone_numbers)
 * Set up your included [virtual receptionist](https://office.ooma.com/virtual_receptionist)
 * Manage the [conference server](https://office.ooma.com/conferences) (if enabled)
-* Add expansion [Base Stations](https://office.ooma.com/base_stations) and manage existing hardware (if applicable)
 * Update your account [preferences](https://office.ooma.com/preferences)
 
 ## What can I do under the Account tab?
