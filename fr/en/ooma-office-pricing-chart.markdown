@@ -17,49 +17,69 @@ With Ooma Office for WeWork, you only need to pay for the services, capacity, an
 <th style="text-align:center;">Billing Frequency</th>
 </tr>
 </thead>
+<tr class="subheader">
+<th style="padding-left:3px;">User Type</th>
+<td></td>
+<td></td>
+</tr>
 <tr>
-<td class="indent">Ooma Office for WeWork base price (includes IP phone rental, a local phone number, unlimited calls to landlines and mobile phones in France, and unlimited calls to landlines in 12 countries)</td>
-<td style="text-align:center;">50.00 €</td>
+<td class="indent">Ooma Office for WeWork base price (includes admin account and first user with phone numbers)</td>
+<td style="text-align:center;">50,00 €</td>
+<td style="text-align:center;">Monthly</td>
+</tr>
+<tr>
+<td class="indent"><a href="/fr/en/setting-up-extensions">Additional user extension with local phone number</a></td>
+<td style="text-align:center;">50,00 €</td>
 <td style="text-align:center;">Monthly</td>
 </tr>
 <tr class="subheader">
-<th style="padding-left:3px;">Capacity</th>
+<th style="padding-left:3px;">Account Features</th>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td class="indent"><a href="/fr/en/setting-up-extensions">User extension</a> (includes IP phone rental, virtual fax, and a local phone number)</td>
-<td style="text-align:center;">50.00 €</td>
-<td style="text-align:center;">Monthly</td>
-</tr>
-<tr>
-<td class="indent"><a href="/fr/en/adding-additional-phone-numbers">Local phone number</a></td>
-<td style="text-align:center;">9.95 €</td>
-<td style="text-align:center;">Monthly</td>
 </tr>
 <tr>
 <td class="indent"><a href="/fr/en/conference-server">Conference bridge</a> (includes phone number)</td>
-<td style="text-align:center;">Free</td>
+<td style="text-align:center;">Included</td>
+<td style="text-align:center;">N/A</td>
+</tr>
+<tr>
+<td class="indent"><a href="/fr/en/virtual-fax">Virtual fax</a> (includes phone number)</td>
+<td style="text-align:center;">Included</td>
 <td style="text-align:center;">N/A</td>
 </tr>
 <tr>
 <td class="indent"><a href="/fr/en/ring-groups">Ring groups</a></td>
-<td style="text-align:center;">Free</td>
+<td style="text-align:center;">Included</td>
 <td style="text-align:center;">N/A</td>
 </tr>
 <tr>
 <td class="indent"><a href="/fr/en/virtual-receptionist">Virtual receptionist</a></td>
-<td style="text-align:center;">Free</td>
+<td style="text-align:center;">Included</td>
 <td style="text-align:center;">N/A</td>
 </tr>
 <tr class="subheader">
-<th style="padding-left:3px;">Services</th>
+<th style="padding-left:3px;">User Features</th>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td class="indent"><a href="/fr/en/adding-additional-phone-numbers">Additional local phone number</a></td>
+<td style="text-align:center;">10,00 €</td>
+<td style="text-align:center;">Monthly</td>
+</tr>
+<tr>
 <td class="indent"><a href="/fr/en/porting-in-your-phone-numbers">Number porting</a></td>
-<td style="text-align:center;">Free*</td>
+<td style="text-align:center;">Included*</td>
+<td style="text-align:center;">N/A</td>
+</tr>
+<tr>
+<td class="indent">Unlimited calls to cell phones and landlines in France</td>
+<td style="text-align:center;">Included</td>
+<td style="text-align:center;">N/A</td>
+</tr>
+<tr>
+<td class="indent">Unlimited calls to landlines in 12 European countries</td>
+<td style="text-align:center;">Included</td>
 <td style="text-align:center;">N/A</td>
 </tr>
 <tr>
@@ -69,7 +89,7 @@ With Ooma Office for WeWork, you only need to pay for the services, capacity, an
 </tr>
 </table>
 </p>
-<p style="font-size: 75%;">* Phone number porting is complimentary for all regular France phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of 9.99 € (VAT included) for each number.</p>
+<p style="font-size: 75%;">* Phone number porting is complimentary for all regular France phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of 10,00 € (VAT included) for each number.</p>
 
 <style type="text/css">
 

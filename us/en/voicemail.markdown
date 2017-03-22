@@ -16,9 +16,9 @@ One of the benefits of having your own extension is that it comes with personali
 
 If you have an extension mapped to your phone, then you have access to a Voicemail box that you can check and update as necessary. There are many ways to access your Voicemail, no matter where you are. To get started, decide which option below you would like to use and then follow the instructions.
 
-### From your Ooma Office phone
+### From your Ooma Office IP phone
 
-If you would like to check your voicemail, just pick up the phone and dial your own extension number.
+If you would like to check your voicemail, just pick up the phone and press the messages button or dial your own extension number.
 
 **Note:** The first time you access your voicemail, you will be prompted to select a new PIN during the initial setup process for your voicemail box.
 

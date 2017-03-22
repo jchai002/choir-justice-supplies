@@ -10,13 +10,21 @@ Ooma Office for WeWork includes a full suite of features to grow with your small
 
 ## Account features
 
+### Unlimited domestic calling
+
+Calls to cell phones and landlines in France are free. Ooma Office also includes calls to landlines in 12 other European countries: Austria, Belgium, Denmark, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, Switzerland, and United Kingdom.
+
+### IP phone included
+
+The monthly fee for each Ooma Office user includes an IP phone rental. IP phones are shipped directly to the WeWork facility of your choice, and are preconfigured with all of the user's information. All you need to do is plug the phone in at a WeWork facility.
+
 ### Support for multiple users
 
 Ooma Office scales so that every employee can have his or her own extension, direct phone number, fax line, and voicemail. [Learn more](/fr/en/setting-up-extensions).
 
 ### Additional phone numbers
 
-Whether you want several phone numbers in a single calling area or multiple numbers across many area codes, Ooma Office can accommodate your needs with additional phone numbers. [Learn more](/fr/en/adding-additional-phone-numbers).
+Ooma Office can accommodate your company's needs with additional phone numbers beyond what is included in your Ooma Office subscription. [Learn more](/fr/en/adding-additional-phone-numbers).
 
 ### Phone number mapping
 
@@ -29,14 +37,6 @@ Maintain your business's identity even after switching telephone carriers by por
 ### Unlimited lines
 
 Any user can make and receive calls at any time, regardless of whether there are other users currently on the phone. 
-
-### Conference server
-
-The conference server is able to host up to ten simultaneous conference rooms that can accommodate a maximum of ten participants each. [Learn more](/fr/en/conference-server).
-
-### Virtual fax
-
-Users can send faxes electronically using the Ooma Office web portal, and receive faxes to their own personal fax number as email attachments with virtual fax. [Learn more](/fr/en/virtual-fax). 
 
 ## Business features
 
@@ -51,6 +51,14 @@ Create a professional first impression with a virtual receptionist that can auto
 ### Ring groups
 
 Ring groups can help to route your calls by department or function. Phones can ring simultaneously or one at a time, and you can choose where the call goes next if no one in the ring group answers. [Learn more](/fr/en/ring-groups).
+
+### Conference server
+
+The conference server is able to host up to ten simultaneous conference rooms that can accommodate a maximum of ten participants each. [Learn more](/fr/en/conference-server).
+
+### Virtual fax
+
+Users can send faxes electronically using the Ooma Office web portal, and receive faxes to their own personal fax number as email attachments with virtual fax. [Learn more](/fr/en/virtual-fax). 
 
 ### Music on Hold
 

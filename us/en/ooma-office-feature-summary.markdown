@@ -10,6 +10,14 @@ Ooma Office for WeWork includes a full suite of features to grow with your small
 
 ## Account features
 
+### Unlimited domestic calling
+
+Unlimited calls to cell phones and landlines in the United States and Canada are free.
+
+### IP phone included
+
+The monthly fee for each Ooma Office user includes an IP phone rental. IP phones are shipped directly to the WeWork facility of your choice, and are preconfigured with all of the user's information. All you need to do is plug the phone in at a WeWork facility.
+
 ### Support for multiple users
 
 Ooma Office scales so that every employee can have his or her own extension, direct phone number, fax line, and voicemail. [Learn more](/us/en/setting-up-extensions).

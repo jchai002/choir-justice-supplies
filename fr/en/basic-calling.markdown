@@ -22,7 +22,13 @@ You can call another extension by dialing the extension number (2XXX). Calling a
 
 ## Dialing out
 
-You can make an external call by picking up your phone and dialing the outbound number as you normally would (0X XX XX XX XX). You do not need to dial "9" or any other special code to make an external phone call.
+You can make an external call by picking up your phone and dialing the outbound number as you normally would:
+
+* 0X XX XX XX XX for domestic calls
+* XX or XXX for emergency numbers
+* 00 XX ... XX for international calls
+
+You do not need to dial "0" or any other special code to make an external phone call.
 
 Calls to landlines and mobile phones in France are included in your regular plan. You can also make unlimited calls to landlines in the following countries:
 
@@ -46,7 +52,3 @@ In addition to the calling options listed above, your Account Administrator can 
 If there are sufficient funds in your Prepaid Account, you can take advantage of the low international calling rates that Ooma offers by dialing 00, followed by the country code and phone number.
 
 You will hear the Prepaid Account balance before your call is connected, letting you know that sufficient funds are available to complete your call.
-
-## 411 calling
-
-You can dial 411 and other similar services directly provided that there are sufficient funds available in your Prepaid Account. You will hear the Prepaid Account balance before your call is connected, letting you know that sufficient funds are available.

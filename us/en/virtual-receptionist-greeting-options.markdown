@@ -33,7 +33,7 @@ When you activate your Ooma Office account, your virtual receptionist will autom
 
 ## How long can my Text-to-speech greeting be?
 
-You can have up to 400 characters of text.
+You can have up to 150 words in your greeting.
 
 ## What types of audio files can I upload?
 

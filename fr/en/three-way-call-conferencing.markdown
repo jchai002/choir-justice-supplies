@@ -12,10 +12,16 @@ When you have two calls on the same line, it can sometimes be beneficial to incl
 {:toc}
 * * *
 
+## Conferencing two active calls together
+
+When you have two active calls on two separate lines, make sure that one of the two calls you would like to combine is active. Then, select the second call that you would like to conference with the arrow keys. Press the **Conf** softkey to combine the calls.
+
 ## Conferencing two calls together
 
-You can conference your current call and the call on hold together by dialing [*][3].
+Press the **Conf** softkey to place the active call on hold.
+
+Enter the second number that you wish to call and press Send. When the second party picks up, press the **Conf** softkey again to join the calls together.
 
 ## Breaking apart a conference call
 
-When you are finished with the conference part of your call, you can break the two parties into separate calls again by pressing [Flash]. One call will remain active, and the other will be placed on hold.
+When you are finished with the conference part of your call, you can break the two parties into separate calls again by selecting one of the combined calls. Press the **hold** softkey to place that call on hold. The other call will remain active.

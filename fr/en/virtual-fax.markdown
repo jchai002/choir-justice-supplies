@@ -39,7 +39,7 @@ You can sign up for virtual fax by following these instructions:
 
 To send a virtual fax, users can follow these instructions:
 
-1. Log into the End User Portal at [https://office.ooma.com/](https://office.ooma.com/)user and navigate to the [Send Fax](https://office.ooma.com/fax_send) option beneath the Home tab. 
+1. Log into the End User Portal at [https://office.ooma.com/](https://office.ooma.com/) and navigate to the [Send Fax](https://office.ooma.com/fax_send) option beneath the Home tab. 
 2. Enter the destination fax number and select the Ooma Office number from which your fax will be sent.
 3. Attach a PDF or TIFF file from your computer.
 4. Click on the Send Fax button.
