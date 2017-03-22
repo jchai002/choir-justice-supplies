@@ -12,7 +12,11 @@ Ooma Office for WeWork includes a full suite of features to grow with your small
 
 ### Unlimited domestic calling
 
-Calls to cell phones and landlines in France are free. Ooma Office also includes calls to landlines in 12 other European countries: Austria, Belgium, Denmark, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, Switzerland, and United Kingdom.
+Calls to French cell phones and landlines are free and unlimited.
+
+### Unlimited calls to 12 European countries
+
+Ooma Office includes unlimited calls to landlines in 12 other European countries: Austria, Belgium, Denmark, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, Switzerland, and United Kingdom.
 
 ### IP phone included
 

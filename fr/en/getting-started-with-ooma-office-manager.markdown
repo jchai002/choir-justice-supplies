@@ -29,13 +29,13 @@ Your Ooma Office account allows you to personalize your Ooma Office for WeWork s
 
 You can sign in by visiting [https://office.ooma.com/](https://office.ooma.com/) with a web browser.
 
-Your Ooma Office username is your phone number.
+Select the correct flag for your country from the dropdown, and then enter your Ooma Office phone number as your username.
 
 ## What if I can't remember my Ooma Office password?
 
-You can recover your Ooma Office password by clicking on the "password recovery" link at the bottom of the "Login" screen:
+You can recover your Ooma Office password by selecting the correct flag for your country and then clicking on the "password recovery" link at the bottom of the "Login" screen:
 
-<p align="center"><img alt="reset password" src="{{ site.baseurl }}/assets/images/ooma_office_manager/login_screen_reset_password.png" /></p>
+<p align="center"><img alt="reset password" src="{{ site.baseurl }}/assets/images/ooma_office_wework/login_screen_reset_password.png" /></p>
 
 Click "Reset It" to begin the password recovery process.
 
