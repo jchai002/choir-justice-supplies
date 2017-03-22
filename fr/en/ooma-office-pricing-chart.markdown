@@ -51,6 +51,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <tr>
 <td class="indent"><a href="/fr/en/virtual-receptionist">Virtual receptionist</a></td>
 <td style="text-align:center;">Included</td>
+</tr>
 <tr>
 <td class="indent"><a href="/fr/en/porting-in-your-phone-numbers">Number porting</a></td>
 <td style="text-align:center;">Included*</td>
