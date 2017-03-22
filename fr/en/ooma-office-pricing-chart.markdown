@@ -13,7 +13,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <thead>
 <tr>
 <td></td>
-<th style="text-align:center; width:115px;">Price (billed monthly)</th>
+<th style="text-align:center; width:150px;">Price (billed monthly)</th>
 </tr>
 </thead>
 <tr class="subheader">
