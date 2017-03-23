@@ -13,7 +13,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <thead>
 <tr>
 <td></td>
-<th style="text-align:center; width:150px;">Price (billed monthly)</th>
+<th style="text-align:center; width:150px;">Price per month</th>
 </tr>
 </thead>
 <tr class="subheader">
@@ -21,11 +21,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <td></td>
 </tr>
 <tr>
-<td class="indent">Ooma Office for WeWork base price (includes admin account and first user with phone numbers)</td>
-<td style="text-align:center;">50,00 €</td>
-</tr>
-<tr>
-<td class="indent"><a href="/fr/en/setting-up-extensions">Ooma Office for WeWork extension with local phone number</a></td>
+<td class="indent"><a href="/fr/en/setting-up-extensions">Ooma Office for WeWork user extension</a></td>
 <td style="text-align:center;">50,00 €</td>
 </tr>
 <tr class="subheader">
@@ -33,11 +29,23 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <td></td>
 </tr>
 <tr>
-<td class="indent"><a href="/fr/en/conference-server">Conference bridge</a> (includes phone number)</td>
+<td class="indent">IP phone rental</td>
 <td style="text-align:center;">Included</td>
 </tr>
 <tr>
-<td class="indent">IP phone rental</td>
+<td class="indent">Unlimited calls to cell phones and landlines in France</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent">Unlimited calls to landlines in Austria, Belgium, Denmark, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, Switzerland, and UK</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent">Other international calling destinations</td>
+<td style="text-align:center;"><a href="https://office.ooma.com/prepaid_account">View calling rates</a></td>
+</tr>
+<tr>
+<td class="indent"><a href="/fr/en/conference-server">Conference bridge</a> (includes phone number)</td>
 <td style="text-align:center;">Included</td>
 </tr>
 <tr>
@@ -55,18 +63,6 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <tr>
 <td class="indent"><a href="/fr/en/porting-in-your-phone-numbers">Number porting</a></td>
 <td style="text-align:center;">Included*</td>
-</tr>
-<tr>
-<td class="indent">Unlimited calls to cell phones and landlines in France</td>
-<td style="text-align:center;">Included</td>
-</tr>
-<tr>
-<td class="indent">Unlimited calls to landlines in Austria, Belgium, Denmark, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, Switzerland, and UK</td>
-<td style="text-align:center;">Included</td>
-</tr>
-<tr>
-<td class="indent">International calling</td>
-<td style="text-align:center;">Varies by use</td>
 </tr>
 <tr>
 <td class="indent"><a href="/fr/en/adding-additional-phone-numbers">Additional local phone number</a></td>
