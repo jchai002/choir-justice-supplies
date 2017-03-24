@@ -13,4 +13,8 @@ gems:
 
 # Build settings
 markdown: kramdown
-  
+
+office_link:
+  us: "http://office.ooma.com"
+  fr: "http://office.ooma.fr"
+      
