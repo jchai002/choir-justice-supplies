@@ -2,7 +2,6 @@
 layout: post
 title:  Contact Us
 date:   2016-12-13 14:00:00
-redirect_from: "/contact-us"
 ---
 
 Having trouble setting up or using a feature of Ooma Office for WeWork? No problem! We’re here to help.
