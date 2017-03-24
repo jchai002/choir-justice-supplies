@@ -16,7 +16,7 @@ Once you have your Ooma Office set up, you can make unlimited calls to landlines
 
 Your Prepaid Account will draw funds from the credit card that you added to your account during the activation process. You can add funds to your Prepaid Account by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Prepaid Account](https://office.ooma.com/#prepaid_account)" under the "Add-Ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Prepaid Account](https://office.ooma.com/#prepaid_account)" under the "Add-Ons" tab.
 2. Click on "Add Funds" under the "Balance" tab.
 3. Choose the amount that you would like to add from the drop-down menu and then click "Buy" to complete your purchase.
 
@@ -32,7 +32,7 @@ Anyone with access to the Ooma Office Manager portal can check the balance on th
 
 You can set up automatic refills to ensure that your employees never run out of funds in the middle of an important call. To get started, follow these steps:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to [Prepaid Account](https://office.ooma.com/#prepaid_account) under the "Add-ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to [Prepaid Account](https://office.ooma.com/#prepaid_account) under the "Add-ons" tab.
 2. Under "Settings," you can choose a preset dollar amount that will be added to your Prepaid Account whenever it drops below a certain level: \\
    ![add funds]({{ site.baseurl }}/assets/images/ooma_office_manager/prepaid_account_add_funds.png){:height="250px"}
 
@@ -58,6 +58,6 @@ Money in your Prepaid Account never expires. You will never be charged monthly f
 
 You can learn more about international calling rates to specific countries by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Prepaid Account](https://office.ooma.com/#prepaid_account)" under the "Add-Ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Prepaid Account](https://office.ooma.com/#prepaid_account)" under the "Add-Ons" tab.
 2. Click "View rates" under "International Calling Rates."
 3. Select the country you wish to search for. You will see a list of all calling rates for that country.

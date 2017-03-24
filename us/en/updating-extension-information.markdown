@@ -16,7 +16,7 @@ Since each extension has its own personal information, it is important to make s
 
 You can update the information for an extension by following these steps:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click the "Setup" button next to the extension whose number you wish to change: \\
    ![manage extensions]({{ site.baseurl }}/assets/images/ooma_office_wework/edit_extension_wework.png)
 

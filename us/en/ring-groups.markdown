@@ -18,7 +18,7 @@ When you have assembled a team of individuals to handle similar call types such 
 
 You can create a ring group by following these instructions:
 
-1. Go to the Extensions web page at [http://office.ooma.com/extensions](http://office.ooma.com/extensions).
+1. Go to the Extensions web page at [{{ site.office_link.us }}/extensions]({{ site.office_link.us }}/extensions).
 2. Click the "+Add Extension" button, as shown in the following illustration, and select "Add ring group" from the dropdown menu: \\
    ![add ring group]({{ site.baseurl }}/assets/images/ooma_office_wework/add_ring_group_wework.png){:height="400px"}
 
@@ -36,7 +36,7 @@ You can create a ring group by following these instructions:
 
 You can edit the members of a ring group by following these instructions:
 
-1. Go to the Extensions web page at [http://office.ooma.com/extensions](http://office.ooma.com/extensions).
+1. Go to the Extensions web page at [{{ site.office_link.us }}/extensions]({{ site.office_link.us }}/extensions).
 2. Click on the "Settings" ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) button for the ring group you would like to update.
 3. Under Select Extensions in the Basic tab, check all of the extensions you would like to include in your ring group.
 4. Save your changes.
@@ -45,7 +45,7 @@ You can edit the members of a ring group by following these instructions:
 
 You can remove a ring group by following these instructions:
 
-1. Go to the Extensions web page at [http://office.ooma.com/extensions](http://office.ooma.com/extensions).
+1. Go to the Extensions web page at [{{ site.office_link.us }}/extensions]({{ site.office_link.us }}/extensions).
 2. Click on the "Trash" ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png)) ) button for the ring group you would like to delete.
 3. Confirm that you wish to delete the ring group when you are prompted.
 
@@ -53,7 +53,7 @@ You can remove a ring group by following these instructions:
 
 If someone calls your ring group and no one is available to take the call, you may want it to direct to an alternate extension or have it roll to a Voicemail Inbox so that the call can be returned. You can change the settings of an unanswered call by following these instructions:
 
-1. Go to the Extensions web page at [http://office.ooma.com/extensions](http://office.ooma.com/extensions).
+1. Go to the Extensions web page at [{{ site.office_link.us }}/extensions]({{ site.office_link.us }}/extensions).
 2. Click on the "Settings" ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) button for the ring group you would like to update.
 3. Click on the "Advanced" tab to configure your ring group's advanced settings: \\
    ![advanced settings]({{ site.baseurl }}/assets/images/ooma_office_manager/ring_group_advanced_settings.png)
@@ -67,7 +67,7 @@ If someone calls your ring group and no one is available to take the call, you m
 
 Depending on the purpose of your ring group, you may want to have all of the phones in the group ring at once (simultaneous), or you may want to have the extensions ring one at a time until it reaches an extension where someone is available to answer (sequential). The default is simultaneous ringing, but you can update this option at any time by following these instructions:
 
-1. Go to the Extensions web page at [http://office.ooma.com/extensions](http://office.ooma.com/extensions).
+1. Go to the Extensions web page at [{{ site.office_link.us }}/extensions]({{ site.office_link.us }}/extensions).
 2. Click on the "Settings" ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) button for the ring group you would like to update.
 3. Set the "Extensions ringing type” to the appropriate value.
 4. Save your changes.
@@ -76,7 +76,7 @@ Depending on the purpose of your ring group, you may want to have all of the pho
 
 You can set up your ring group to ring for up to 60 seconds before the call either rolls to Voicemail or to the next extension. To update this setting, follow these directions:
 
-1. Go to the Extensions web page at [http://office.ooma.com/extensions](http://office.ooma.com/extensions).
+1. Go to the Extensions web page at [{{ site.office_link.us }}/extensions]({{ site.office_link.us }}/extensions).
 2. Click on the "Settings" ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) button for the ring group you would like to update.
 3. In the "Advanced" tab, set the Ring duration on each extension to the appropriate value.
 4. Save your changes.

@@ -20,7 +20,7 @@ To set up voicemail from an IP phone, simply pick up the phone and dial your own
 
 To set up voicemail from the Ooma Office web portal, follow these steps:
 
-1. Navigate to the Ooma Office web portal at [http://office.ooma.com](http://office.ooma.com/) and navigate to the "Extensions" option beneath the "Setup" tab.
+1. Navigate to the Ooma Office web portal at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to the "Extensions" option beneath the "Setup" tab.
 2. Click the "Setup" icon ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) next to the user extension whose voicemail you would like to configure.
 3. Under the "Voicemail" tab on the screen that is displayed, manually set a temporary PIN in the Voicemail properties if you are not the owner of the extension. Share that temporary PIN with the extension's owner.
 4. Have the extension owner dial [*][9][8] from any IP phone that is connected to the Ooma Office system and enter the temporary PIN when prompted.

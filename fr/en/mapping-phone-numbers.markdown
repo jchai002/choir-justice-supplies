@@ -20,7 +20,7 @@ You can update the default destination for all phone numbers with phone number m
 
 You can map a phone by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Phone Numbers](https://office.ooma.com/#manage_phone_number)" under the "Manage" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Phone Numbers](https://office.ooma.com/#manage_phone_number)" under the "Manage" tab.
 2. Scroll down to the "Phone Number Mapping" screen, where you will see a list of available phone numbers on your account: \\
    ![available numbers]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png)
 

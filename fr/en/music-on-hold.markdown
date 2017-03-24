@@ -16,7 +16,7 @@ Don't let your customers sit on hold in silence. The "Music on Hold" feature mak
 
 You can add Music on Hold to your Ooma Office setup by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Preferences](https://office.ooma.com/#preferences)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}) and navigate to "[Preferences](https://office.ooma.com/#preferences)" under the "Setup" tab.
 2. Click "Choose" beside Music on Hold: \\
    ![choose music]({{ site.baseurl }}/assets/images/ooma_office_manager/music_on_hold_choose.png)
 

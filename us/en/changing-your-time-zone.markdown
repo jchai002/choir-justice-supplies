@@ -16,7 +16,7 @@ It is important to make sure that the time zone is correct for your Ooma Office 
 
 You can check and update the time zone for your Ooma Office account by following these directions:
 
-1. Log in to your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Preferences](http://office.ooma.com/#preferences)" under the "Manage" tab, as shown in the following illustration. \\
+1. Log in to your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}/) and navigate to "[Preferences]({{ site.office_link.us }}/#preferences)" under the "Manage" tab, as shown in the following illustration. \\
    ![preferences tab]({{ site.baseurl }}/assets/images/ooma_office_manager/preferences_tab.png){:height="250px"}
 
 2. Select your appropriate local time zone from the drop-down menu, as shown in the following illustration. \\

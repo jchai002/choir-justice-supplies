@@ -16,7 +16,7 @@ If you need to bring many parties together in a single phone call, an Ooma Offic
 
 You can add a conference server to your account by following the directions below:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Conferences](http://office.ooma.com/#conferences)" under the "Setup" tab, as shown in the following illustration: \\
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Conferences]({{ site.office_link.fr }}/#conferences)" under the "Setup" tab, as shown in the following illustration: \\
    ![conference server tab]({{ site.baseurl }}/assets/images/ooma_office_manager/conference_server_tab.png)
 
 2. Click + Setup Conference". The following screen is displayed: \\
@@ -54,7 +54,7 @@ In a conference room, you can bring in up to ten participants.
 
 ## How do I delete the conference server?
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Conferences](http://office.ooma.com/#conferences)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Conferences]({{ site.office_link.fr }}/#conferences)" under the "Setup" tab.
 2. Remove all conference rooms by clicking the "Trash" ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) ) button next to each of them.
 3. Navigate to "Numbers". If a phone number is mapped to the Conference Server extension, unassign the number or map it to another extension.
 4. Navigate to "Extensions" and delete the conference server by clicking the "Trash" ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) ) button next to it.

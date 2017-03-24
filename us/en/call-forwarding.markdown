@@ -18,7 +18,7 @@ Call forwarding must be enabled or disabled for each extension. By default it is
 
 To enable call forwarding, follow these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click the "Settings" button next to the extension whose call forwarding options you wish to change: \\
    ![manage extensions settings]({{ site.baseurl }}/assets/images/ooma_office_wework/edit_extension_wework.png)
 
@@ -37,7 +37,7 @@ Keep in mind that when call forwarding is enabled your other devices such as you
 
 Yes. All of a user's devices will ring when they receive an incoming call. If a user wants to ring their desk phone and their cell phone whenever they receive an incoming call, you can add an external phone number as a device. To do this, follow these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Choose the user to which you would like to add the external phone number and click on the Settings icon.
 3. A window will appear. Select the Devices tab: \\
    ![add device]({{ site.baseurl }}/assets/images/ooma_office_wework/add_device_wework.png)

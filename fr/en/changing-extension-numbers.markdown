@@ -18,7 +18,7 @@ As you are setting up Ooma Office for WeWork, you may find that you wish to reco
 
 To change the number assigned to an existing extension, follow these instructions:
 
-1. Go to the Extensions web page at [http://office.ooma.com/extensions](http://office.ooma.com/extensions).
+1. Go to the Extensions web page at [{{ site.office_link.fr }}/extensions]({{ site.office_link.fr }}/extensions).
 2. Click the "Setup" icon next to the extension whose number you wish to change: \\
    ![manage extensions settings]({{ site.baseurl }}/assets/images/ooma_office_wework/edit_extension_wework.png)
 

@@ -16,7 +16,7 @@ Unlimited calls to the United States and Canada (except the 867 calling area and
 
 Your Prepaid Account will draw funds from the credit card that is on file in the "Billing" section of your Ooma Office Manager. You can check the credit card on file and update it if necessary by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Billing](http://office.ooma.com/#billing)" under the "Account" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}/) and navigate to "[Billing]({{ site.office_link.us }}/#billing)" under the "Account" tab.
 2. Review your credit card information under "Payment Information."
 3. If changes are necessary, click "Edit." Update your payment information and make sure that your billing address is correct.
 4. Save your changes.
@@ -25,13 +25,13 @@ Your Prepaid Account will draw funds from the credit card that is on file in the
 
 You can fund your Prepaid Account the first time by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Prepaid Account](http://office.ooma.com/#prepaid_account)" under the "Add-ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}/) and navigate to "[Prepaid Account]({{ site.office_link.us }}/#prepaid_account)" under the "Add-ons" tab.
 2. Click on "Add Funds" under the "Balance" tab.
 3. Choose the amount that you would like to add from the drop-down menu and then click "Buy" to complete your purchase.
 
 Once you have added funds to your Prepaid Account, it will automatically top off when the balance goes below a certain threshold. You can configure these settings by following these directions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Prepaid Account](http://office.ooma.com/#prepaid_account)" under the "Add-ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}/) and navigate to "[Prepaid Account]({{ site.office_link.us }}/#prepaid_account)" under the "Add-ons" tab.
 2. Select the appropriate option from the "Settings" drop-down menu.
 3. Save your changes.
 
@@ -43,5 +43,5 @@ At this time, any extension can tap into the funds from the Prepaid Account to m
 
 You can monitor your Prepaid Account activity by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Prepaid Account](http://office.ooma.com/#prepaid_account)" under the "Add-ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}/) and navigate to "[Prepaid Account]({{ site.office_link.us }}/#prepaid_account)" under the "Add-ons" tab.
 2. Click on the "Prepaid Activity" section of the "Prepaid Account" area.

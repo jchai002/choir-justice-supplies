@@ -18,7 +18,7 @@ Keep in mind that when you are opening the webpages indicated in this article yo
 
 You can set up a new user or ring group extension by following these instructions:
 
-1. Log in to your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Extensions](http://office.ooma.com/extensions)" under the "Manage" tab.
+1. Log in to your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}/) and navigate to "[Extensions]({{ site.office_link.us }}/extensions)" under the "Manage" tab.
 2. Click on the "+Add User" button or on the "+Add Ring Group" button depending on the type of extension you would like to add. 
 3. Fill out the required information for the new extension and choose an unused extension number. The requested information will be different depending on the type of extension you choose to create.
 4. Save your changes.

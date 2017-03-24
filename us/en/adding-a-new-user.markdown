@@ -18,7 +18,7 @@ Keep in mind that when you are opening the webpages indicated in this article yo
 
 You can set up a new user by following these instructions:
 
-1. Log in to your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log in to your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}/) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click on the "+Add User" button.
 3. Fill out the required information for the new extension, including selecting a new phone number and choosing a new extension number.
 4. Click "Proceed" to create your new user.
@@ -38,7 +38,7 @@ Each new user costs $50 for US accounts, or CAD $60 for Canadian accounts. You c
 
 You can check what devices are assigned to a user by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click on the user whose devices you would like to check.
 3. Click on the "Devices" tab in the pop-up to get a list of devices that are currently assigned to the user's profile: \\
    ![devices tab]({{ site.baseurl }}/assets/images/ooma_office_wework/user_devices_wework.png){:height="250px"}
@@ -47,7 +47,7 @@ You can check what devices are assigned to a user by following these instruction
 
 Each extension will have its own voicemail settings that can be configured to the user's preference. You can set up these preferences by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}/) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click on the Settings button in the row of the extension that you wish to modify.
 3. Click on the Voicemail tab and set up your voicemail preferences: \\
    ![voicemail tab]({{ site.baseurl }}/assets/images/ooma_office_wework/voicemail_tab_wework.png)
@@ -70,7 +70,7 @@ Each extension will have its own voicemail settings that can be configured to th
 
 Each user will have their own call forwarding settings that can be configured to the user's preference. You can set up call forwarding by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click on the Settings button in the row of the extension that you wish to modify.
 3. Click on the Call forward tab and set up your preferences: \\
    ![call forward tab]({{ site.baseurl }}/assets/images/ooma_office_wework/call_forward_tab_wework.png)
@@ -88,7 +88,7 @@ Keep in mind that when call forwarding is enabled it will override all of your o
 
 You can change the number that appears on an extension's outbound caller ID by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click on the Settings button in the row of the extension that you wish to modify.
 3. Click on the Advanced tab and set up your preferences.
 4. Select the number you would like from the dropdown menu.
@@ -98,7 +98,7 @@ You can change the number that appears on an extension's outbound caller ID by f
 
 You can assign or change the direct phone number(s) assigned to a user by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Phone Numbers](http://office.ooma.com/#extensions)" under the "Setup" tab. You will see a table like the one below with one entry for each of your business's phone numbers: \\
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Phone Numbers]({{ site.office_link.us }}/#extensions)" under the "Setup" tab. You will see a table like the one below with one entry for each of your business's phone numbers: \\
    ![manage phone numbers]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png){:height="250px"}
 
 2. You can change the extension that a phone number will connect to by selecting a new user from the dropdown menu under Extensions.

@@ -41,7 +41,7 @@ Ooma Office can be used to dial the following emergency services:
 
 You can keep your business address up to date by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/) and navigate to the "[Account](http://office.ooma.com/settings)" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to the "[Account]({{ site.office_link.fr }}/settings)" tab.
 2. Click "Edit" to edit your "Business Information" under the "Settings" tab, as shown below: \\
    ![edit business info]({{ site.baseurl }}/assets/images/ooma_office_manager/business_info_edit.png)
 

@@ -30,7 +30,7 @@ You can download the Ooma Office mobile app in the [iOS App Store](https://itune
 
 First, make your Ooma Office system administrator has enabled Mobile App on your extension. The administrator can enable the Mobile App by following the directions in the online tutorial located [here](https://www.youtube.com/watch?v=kNUPwWJualM&feature=youtu.be), or by following the steps outlined beolow:
 
-1. Log into the Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into the Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click on the user to whom you would like to add the Mobile App.
 3. Under the "Devices" tab, click on "Add device" and select "Mobile App" from the dropdown.
 4. Save your changes to make the Mobile App available for the affected user.

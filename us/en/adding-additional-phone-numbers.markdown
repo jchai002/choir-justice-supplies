@@ -14,7 +14,7 @@ If you find that you need additional numbers then you can add them for a monthly
 
 You can add new phone numbers to your Ooma Office setup by following these instructions:
 
-1. Log into your Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Numbers](http://office.ooma.com/#manage_phone_number)" under the "Setup" tab
+1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Numbers]({{ site.office_link.us }}/#manage_phone_number)" under the "Setup" tab
 2. Click "+Add Number" and choose whether you wish to add a regular number or a toll-free number: \\
    ![manage phone number]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png)
 

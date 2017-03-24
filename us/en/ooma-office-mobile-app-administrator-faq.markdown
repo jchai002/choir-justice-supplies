@@ -24,7 +24,7 @@ The Ooma Office mobile app can be added as a device for any user.
 
 You can enable the mobile app for a user by following the instructions in the online web tutorial located [here](https://www.youtube.com/watch?v=kNUPwWJualM&feature=youtu.be), or by following the directions below:
 
-1. Log into the Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into the Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click on the user to whom you would like to add the Mobile App.
 3. Under the "Devices" tab, click on "Add device" and select "Mobile App" from the dropdown.
 4. Save your changes to make the mobile app available for the affected user.
@@ -37,7 +37,7 @@ Users will need the same password that they use to log into the End User Portal 
 
 If a user cannot remember his password, you can reset it by following these instructions:
 
-1. Log into the Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com) and navigate to "[Extensions](http://office.ooma.com/#extensions)" under the "Setup" tab.
+1. Log into the Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Extensions]({{ site.office_link.us }}/#extensions)" under the "Setup" tab.
 2. Click on the user whose password needs to be resent.
 3. Under the "Basic" tab, you can reset the user's password manually or automatically: \\
    ![send password]({{ site.baseurl }}/assets/images/ooma_office_wework/extension_reset_password_wework.png)

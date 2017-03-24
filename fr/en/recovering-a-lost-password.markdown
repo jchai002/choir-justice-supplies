@@ -8,7 +8,7 @@ tags: [account, admin-features, user-management, wework]
 
 If you have lost or forgotten your Ooma Office for WeWork password, it can be recovered by the Account Administrator by following these steps:
 
-1. Visit the Ooma Office Manager at [http://office.ooma.com](http://office.ooma.com/), select the appropriate flag for your country from the dropdown, and then click the "password reset" link at the bottom: \\
+1. Visit the Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/), select the appropriate flag for your country from the dropdown, and then click the "password reset" link at the bottom: \\
    ![reset password]({{ site.baseurl }}/assets/images/ooma_office_wework/login_screen_reset_password.png)
 
 2. Enter the Ooma Office phone number and the email address that is on file for the account administrator.
