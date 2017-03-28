@@ -1,0 +1,39 @@
+---
+layout: post
+title:  Setting and Updating your Security Question
+date:   2017-02-06 15:00:00
+category: [wework]
+tags: [account, admin-features, wework]
+---
+
+When calling Ooma Customer Care, you may be asked to answer the security question you have set for yourself. The account security question is originally chosen during the activation process. It can be updated at any time by following these instructions:
+
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Settings]({{ site.office_link.fr }}/#settings)" under the "Account" tab, as shown in the following illustration: \\
+   ![account settings]({{ site.baseurl }}/assets/images/ooma_office_manager/account_settings.png){:width="600px"}
+
+2. Review the current security question. If you want to update the question or the answer, click the "Edit" button.
+3. Choose your new security question from the drop-down list and enter a new answer. \\
+   ![security settings]({{ site.baseurl }}/assets/images/ooma_office_manager/security_settings.png){:width="600px"}
+
+4. Save your changes.
+
+/////////////
+
+---
+layout: post
+title:  Setting and Updating your Security Question
+date:   2017-02-06 15:00:00
+category: [wework]
+tags: [account, admin-features, wework]
+---
+
+Lorsque vous appelez le Service Client d'Ooma, il se peut que vous soyez invité à répondre à la question de sécurité que vous avez définie lors du processus d'activation de votre compte. Elle peut être mise à jour à tout moment en suivant ces instructions:
+
+1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et consulter "[Settings]({{ site.office_link.fr }}/#settings)" sous l'onglet "Compte", comme indiqué dans l'illustration suivante: \\
+   ![account settings]({{ site.baseurl }}/assets/images/ooma_office_manager/account_settings.png){:width="600px"}
+
+2. Vérifier votre question de sécurité actuelle. Si vous souhaitez mettre à jour la question ou la réponse, cliquer sur le bouton "Editer".
+3. Sélectionner votre nouvelle question de sécurité dans la liste déroulante et saisir une nouvelle réponse. \\
+   ![security settings]({{ site.baseurl }}/assets/images/ooma_office_manager/security_settings.png){:width="600px"}
+
+4. Sauvegarder vos changements.

@@ -1,0 +1,62 @@
+---
+layout: post
+title: Changing your Caller ID Name
+date:   2017-02-06 08:30:00
+category: [wework]
+tags: [ooma-office-manager, admin-features, calling, wework]
+---
+
+The caller-ID name is configured during the account activation process. It will be displayed when calling another Ooma Office subscriber, an Ooma residential subscriber, and by other external destination phones (see note).
+
+Changing the caller-ID name through Ooma Office Manager, will change the caller-ID name shown when calling another Ooma Office subscriber or an Ooma residential subscriber, but it will not change what is shown to external destination phones. To change your caller-ID globally, please [call Ooma Office Customer Care](/fr/en/contact us) to request the change.
+
+To change the caller-ID name follow these instructions:
+
+1. Log in to your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}) and navigate to the Account tab.
+2. Click "Edit" to edit your Business Information under the "Settings" tab, as shown below: \\
+   ![business info]({{ site.baseurl }}/assets/images/ooma_office_manager/business_info_edit.png)
+
+   Click the "Edit" button to update your caller ID information.
+3. On the next screen, update the "Caller-ID Name" field, as shown below: \\
+   ![caller ID name]({{ site.baseurl }}/assets/images/ooma_office_manager/caller_id_name.png)
+
+   The "Caller-ID Name" field will be your business's new display name (up to 15 characters).
+4. Click "Save" to save your changes.
+
+**Note:** When you set your caller-ID name, that information is provisioned in a national database. Destination phones will always see your phone number, but they may not show your caller-ID name if they do not subscribe to the national database used by Ooma.
+
+
+/////////////////////
+
+---
+layout: post
+title: Changing your Caller ID Name
+date:   2017-02-06 08:30:00
+category: [wework]
+tags: [ooma-office-manager, admin-features, calling, wework]
+---
+
+
+
+
+Le nom d’dentification de l'appelant est configuré pendant le processus d'activation du compte. Il sera affiché lors d’appels d'abonnés Ooma Office, abonnés particuliers Ooma ou correspondants externes (cf. remarque).
+
+La modification du nom de l'identifiant de l'appelant via le Gestionnaire Ooma Office changera le nom de l'identifiant de l'appelant lors d’appels d'abonnés Ooma Office ou abonnés particulier Ooma, mais il ne modifiera pas ce qui est affiché pour les téléphones externes. Pour changer votre nom d’identifiant de l'appelant pour tous vos appels, veuillez [appeler le Service Client d’Ooma Office(/fr/en/nous contacter) pour demander le changement.
+
+Pour modifier le nom de l'appelant, veuillez suivre les étapes suivantes :
+
+1. Se connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr}}] ({{site.office_link.fr}}) et consulter l'Onglet Compte.
+2. Cliquer sur "Editer" pour modifier vos Informations Professionnelles sous l'onglet "Paramètres", comme indiqué ci-dessous: \\
+   ! [business Info]({{site.baseurl
+}}/assets/images/ooma_office_manager/business_info_edit.png)
+
+   Cliquer sur le bouton "Editer" pour mettre à jour vos informations d'identification de l'appelant.
+3. Sur l'écran suivant, mettre à jour le champ "Nom Identification de l’Appelant", comme indiqué ci-dessous :
+\\
+   ![caller ID name]({{ site.baseurl }}/assets/images/ooma_office_manager/caller_id_name.png)
+
+   Le champ "Nom Identification de l'Appelant" sera le nouveau nom affiché pour votre entreprise (jusqu'à 15 caractères).
+4. Cliquer sur "Sauvegarder" pour enregistrer vos modifications.
+
+**Remarque:** Lorsque vous définissez votre nom d'identifiant de l'appelant, cette information est placée dans une base de données nationale. Les téléphones de destination afficheront toujours votre numéro de téléphone, mais ils risquent de ne pas afficher votre nom d'appelant s'ils ne s'abonnent pas à la base de données nationale utilisée par Ooma.
+

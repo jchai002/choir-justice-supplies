@@ -1,0 +1,102 @@
+---
+layout: post
+title:  Prepaid Account
+date:   2017-02-06 13:30:00
+category: [wework]
+tags: [activation-and-setup, account, add-ons, admin-features, wework]
+---
+
+Unlimited calls to cell phones and landlines in France and to landlines in 12 other European countries are included as part of your Ooma Office basic monthly plan. When calls to premium services or to countries outside of your calling area are part of your business needs, the Prepaid Account that you set up during the account activation process will cover any expenses that are incurred.
+
+1. Table of Contents
+{:toc}
+* * *
+
+## How do I check or change the credit card associated with my Prepaid Account?
+
+Your Prepaid Account will draw funds from the credit card that is on file in the "Billing" section of your Ooma Office Manager. You can check the credit card on file and update it if necessary by following these instructions:
+
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Billing]({{ site.office_link.fr }}/#billing)" under the "Account" tab.
+2. Review your credit card information under "Payment Information."
+3. If changes are necessary, click "Edit." Update your payment information and make sure that your billing address is correct.
+4. Save your changes.
+
+## How do I add funds to my Prepaid Account?
+
+You can fund your Prepaid Account the first time by following these instructions:
+
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" under the "Add-ons" tab.
+2. Click on "Add Funds" under the "Balance" tab.
+3. Choose the amount that you would like to add from the drop-down menu and then click "Buy" to complete your purchase.
+
+Once you have added funds to your Prepaid Account, it will automatically top off when the balance goes below a certain threshold. You can configure these settings by following these directions:
+
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" under the "Add-ons" tab.
+2. Select the appropriate option from the "Settings" drop-down menu.
+3. Save your changes.
+
+## Can I restrict calling with the Prepaid Account to certain extensions?
+
+At this time, any extension can tap into the funds from the Prepaid Account to make international or premium calls. You can, however, monitor your Prepaid Account activity so that you know who is making calls.
+
+## How can I check my Prepaid Account activity?
+
+You can monitor your Prepaid Account activity by following these instructions:
+
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" under the "Add-ons" tab.
+2. Click on the "Prepaid Activity" section of the "Prepaid Account" area.
+
+
+////////////
+
+---
+layout: post
+title:  Prepaid Account
+date:   2017-02-06 13:30:00
+category: [wework]
+tags: [activation-and-setup, account, add-ons, admin-features, wework]
+---
+
+Des appels illimités vers les téléphones fixes et cellulaires en France et vers les lignes fixes de 12 pays européens sont inclus dans votre abonnement mensuel de base d’Ooma Office. Lorsque les appels vers des services payants ou des pays en dehors de votre abonnement font partie des besoins de votre entreprise, le compte prépayé que vous avez configuré pendant le processus d'activation du compte couvrira toutes les dépenses engagées.
+
+1. Table des Matières
+{:Toc}
+* * *
+
+## Comment puis-je vérifier ou modifier la carte bancaire associée à mon Compte Prépayé?
+
+Votre Compte Prépayé sera alimenté par les fonds de votre carte bancaire dans la section "Facturation" de votre Gestionnaire Ooma Office. Vous pouvez vérifier la carte bancaire et la mettre à jour si nécessaire en suivant ces instructions:
+
+1. Se Connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr}}] ({{site.office_link.fr}} /) et consulter "[Billing]({{ site.office_link.fr }}/#billing)" sous l'onglet "Compte".
+2. Vérifier les informations de votre carte bancaire sous "Informations Paiement".
+3. Si des changements sont nécessaires, cliquer sur "Editer". Mettre à jour vos informations de paiement et être sûr que votre adresse de facturation est correcte.
+4. Sauvegarder vos changements.
+
+
+## Comment puis-je ajouter des fonds sur mon Compte Prépayé?
+
+Pour financer votre Compte Prépayé pour la première fois, il faut suivre les instructions ci-dessous:
+
+1. Se connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr }}]({{site.office_link.fr}}/) et consulter votre "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" sous l'onglet "Extensions".
+2. Cliquer sur "Ajouter des Fonds" sous l'onglet "Solde".
+3. Choisir le montant que vous souhaitez ajouter dans le menu déroulant, puis cliquer sur "Acheter" pour terminer votre achat.
+
+
+Une fois que vous avez ajouté des fonds sur votre Compte Prépayé, celui-ci ne pourra plus émettre d’appel lorsque son solde sera inférieur à un certain seuil. Vous pouvez configurer ces paramètres en suivant ces instructions:
+
+1. Se Connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/)et consulter "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" sous l'onglet "Extensions".
+2. Sélectionner l'option appropriée dans le menu déroulant "Paramètres".
+3. Sauvegarder vos changements.
+
+## Puis-je restreindre les appels de certaines extensions avec le compte prépayé?
+
+À partir de cet instant, toutes les extensions téléphoniques peuvent utiliser les fonds du Compte Prépayé pour effectuer des appels internationaux ou premium. Cependant, vous pouvez surveiller l’activité du Compte Prépayé pour savoir qui effectue des appels.
+
+
+## Comment puis-je consulter l’activité de mon Compte Prépayé?
+
+Vous pouvez surveiller l’activité de votre Compte Prépayé en suivant les instructions ci-dessous:
+
+1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et consulter "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" sous l'onglet "Extensions".
+2. Cliquer sur la section "Activité Prépayé" de la section "Compte Prépayé".
+

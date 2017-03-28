@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Updating Administrator Information
+date:   2017-02-06 14:00:00
+category: [wework]
+tags: [activation-and-setup, account, add-ons, admin-features, wework]
+---
+
+The Account Administrator is the person whose contact information is on file for the Ooma Office account. This information can be reviewed and updated at any time by following these instructions:
+
+1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}) and navigate to "[Settings]({{ site.office_link.fr }}/#settings)" under the "Account" tab.
+2. Review the account administrator name and email address under the "Administrator Information" section. If you want to update it, click the "Edit" button.
+3. Enter the new name and email address.
+4. Save your changes.
+
+////////////////
+
+---
+layout: post
+title:  Updating Administrator Information
+date:   2017-02-06 14:00:00
+category: [wework]
+tags: [activation-and-setup, account, add-ons, admin-features, wework]
+---
+
+L'Administrateur du Compte est la personne dont les coordonnées figurent sur le compte Ooma Office. Ces informations peuvent être consultées et mises à jour à tout moment en suivant les instructions ci-dessous:
+
+1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}) et consulter "[Settings]({{ site.office_link.fr }}/#settings)" sous l'onglet "Compte".
+2. Vérifier le nom et l'adresse électronique de l'administrateur du compte sous la section "Informations Administrateur". Si vous souhaitez faire une mise à jour, cliquer sur le bouton "Editer".
+3. Saisir le nouveau nom et adresse e-mail.
+4. Sauvegarder vos changements.
