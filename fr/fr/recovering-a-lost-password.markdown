@@ -13,4 +13,4 @@ Si vous avez perdu ou oublié votre mot de passe Ooma Office for WeWork, il peut
 
 2. Saisir le numéro de téléphone Ooma Office et l'adresse e-mail qui est enregistré pour l'administrateur du compte.
 3. Un nouveau mot de passe sera envoyé très rapidement par courriel à cette adresse.
-4. Lorsque l'accès au compte est rétabli, n'oubliez pas de suivre les instructions "[Changing your account password](/fr/en/changing-your-account-password)" pour mettre à jour votre mot de passe Ooma Office!
+4. Lorsque l'accès au compte est rétabli, n'oubliez pas de suivre les instructions "[Changing your account password](/fr/fr/changing-your-account-password)" pour mettre à jour votre mot de passe Ooma Office!

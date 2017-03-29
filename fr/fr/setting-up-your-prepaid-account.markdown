@@ -48,7 +48,7 @@ Vous pouvez utiliser votre Compte Prépayé pour effectuer des appels internatio
 
 A partir de cet instant, il n'y a aucun moyen d'annuler une transaction d'argent sur votre compte prépayé. Si vous constatez que vous avez ajouté accidentellement un montant trop important, vous avez deux options:
 
-* Vous pouvez contacter le [Customer Care](/fr/en/contact-us) et demander que le transfert soit annulé.
+* Vous pouvez contacter le [Customer Care](/fr/fr/contact-us) et demander que le transfert soit annulé.
 * Vous pouvez laisser l'argent sur votre Compte Prépayé jusqu'à ce que vous en ayez besoin. Ne vous inquiétez pas – les fonds n’expirent pas et vous n’aurez aucun frais mensuel pour un solde restant.
 
 ## L'argent sur mon Compte Prépayé, peut-il expirer?

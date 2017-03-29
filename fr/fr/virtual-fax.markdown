@@ -24,7 +24,7 @@ Chaque poste utilisateur peut activer le fax virtuel ainsi qu'un numéro dédié
 
 Le fax virtuel est compris dans votre abonnement Ooma Office.
 
-Pour en savoir plus sur les tarifs des services supplémentaires et l'ajout de capacité, veuillez consulter notre [tableau des tarifs](/fr/en/ooma-office-pricing-chart).
+Pour en savoir plus sur les tarifs des services supplémentaires et l'ajout de capacité, veuillez consulter notre [tableau des tarifs](/fr/fr/ooma-office-pricing-chart).
 
 ## Comment puis-je m'inscrire au fax virtuel ?
 

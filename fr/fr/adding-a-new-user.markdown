@@ -25,7 +25,7 @@ Vous pouvez configurer un nouvel utilisateur en suivant les étapes suivantes :
 Une fois votre poste configuré, vous pouvez ajouter des numéros de téléphone à accès direct et des méthodes d'accès aux postes. En plus d'un téléphone IP, Ooma Office pour WeWork permet aussi le renvoi automatique vers un numéro distant. Un numéro de portable ou un numéro de fixe pourra recevoir les appels transférés depuis le poste Ooma Office.
 
 ## Quel est le coût d'ajouter un nouvel utilisateur ?
-Chaque utilisateur coûte 50 €. Pour en savoir plus sur les tarifs d'Ooma Office pour WeWork, rendez-vous sur notre [pricing chart](/fr/en/ooma-office-pricing-chart).
+Chaque utilisateur coûte 50 €. Pour en savoir plus sur les tarifs d'Ooma Office pour WeWork, rendez-vous sur notre [pricing chart](/fr/fr/ooma-office-pricing-chart).
 
 ## Comment puis-je savoir quels dispositifs sont actuellement attribués à un utilisateur ?
 

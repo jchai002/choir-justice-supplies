@@ -21,7 +21,7 @@ Avec Ooma Office pour WeWork, vous ne payez que ce que vous utilisez. Nous avons
 <td></td>
 </tr>
 <tr>
-<td class="indent"><a href="/fr/en/setting-up-extensions">Poste utilisateur Ooma Office pour WeWork</a></td>
+<td class="indent"><a href="/fr/fr/setting-up-extensions">Poste utilisateur Ooma Office pour WeWork</a></td>
 <td style="text-align:center;">50,00 €</td>
 </tr>
 <tr class="subheader">
@@ -45,27 +45,27 @@ Avec Ooma Office pour WeWork, vous ne payez que ce que vous utilisez. Nous avons
 <td style="text-align:center;"><a href="https://office.ooma.com/prepaid_account">Se reporter aux tarifs des appels</a></td>
 </tr>
 <tr>
-<td class="indent"><a href="/fr/en/conference-server">Pont de conférence</a> (comprend le numéro de téléphone)</td>
+<td class="indent"><a href="/fr/fr/conference-server">Pont de conférence</a> (comprend le numéro de téléphone)</td>
 <td style="text-align:center;">Inclus</td>
 </tr>
 <tr>
-<td class="indent"><a href="/fr/en/virtual-fax">Fax virtuel</a> (comprend le numéro de téléphone)</td>
+<td class="indent"><a href="/fr/fr/virtual-fax">Fax virtuel</a> (comprend le numéro de téléphone)</td>
 <td style="text-align:center;">Inclus</td>
 </tr>
 <tr>
-<td class="indent"><a href="/fr/en/ring-groups">Groupes d'appels</a></td>
+<td class="indent"><a href="/fr/fr/ring-groups">Groupes d'appels</a></td>
 <td style="text-align:center;">Inclus</td>
 </tr>
 <tr>
-<td class="indent"><a href="/fr/en/virtual-receptionist">Réceptionniste virtuel</a></td>
+<td class="indent"><a href="/fr/fr/virtual-receptionist">Réceptionniste virtuel</a></td>
 <td style="text-align:center;">Inclus</td>
 </tr>
 <tr>
-<td class="indent"><a href="/fr/en/porting-in-your-phone-numbers">Portage de numéro</a></td>
+<td class="indent"><a href="/fr/fr/porting-in-your-phone-numbers">Portage de numéro</a></td>
 <td style="text-align:center;">Inclus*</td>
 </tr>
 <tr>
-<td class="indent"><a href="/fr/en/adding-additional-phone-numbers">Numéro de téléphone local supplémentaire</a></td>
+<td class="indent"><a href="/fr/fr/adding-additional-phone-numbers">Numéro de téléphone local supplémentaire</a></td>
 <td style="text-align:center;">10,00 €</td>
 </tr>
 </table>
