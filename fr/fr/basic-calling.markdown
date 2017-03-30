@@ -6,7 +6,7 @@ category: [wework]
 tags: [end-user-features, calling, wework]
 ---
 
-Ooma Office pour le système WeWork dispose de plusieurs options d'appel différents à choisir. La présentation ci-dessous décrit chacun des différents types d'appels que vous pouvez effectuer et recevoir dans le cadre de votre abonnement Office Ooma de base et explique comment procéder pour chaque option.
+Ooma Office pour le systÃ¨me WeWork dispose de plusieurs options d'appel diffÃ©rents Ã  choisir. La prÃ©sentation ci-dessous dÃ©crit chacun des diffÃ©rents types d'appels que vous pouvez effectuer et recevoir dans le cadre de votre abonnement Office Ooma de base et explique comment procÃ©der pour chaque option.
 
 1. Sommaire
 {:toc}
@@ -14,23 +14,23 @@ Ooma Office pour le système WeWork dispose de plusieurs options d'appel différen
 
 ## Recevoir des appels entrants
 
-Une extension sonne lorsque le numéro qui lui a été attribué a été composé directement ou lorsque la Réceptionniste Virtuelle redirige un appel entrant vers cette extension. Vous pouvez répondre à un appel en décrochant le téléphone VoIP lorsqu'il sonne.
+Une extension sonne lorsque le numÃ©ro qui lui a Ã©tÃ© attribuÃ© a Ã©tÃ© composÃ© directement ou lorsque la RÃ©ceptionniste Virtuelle redirige un appel entrant vers cette extension. Vous pouvez rÃ©pondre Ã  un appel en dÃ©crochant le tÃ©lÃ©phone VoIP lorsqu'il sonne.
 
-## Composer des numéros internes
+## Composer des numÃ©ros internes
 
-Vous pouvez appeler une autre extension en composant son numéro d’extension(2XXX). L'appel d'une extension virtuelle place un appel sur le numéro de renvoi externe.
+Vous pouvez appeler une autre extension en composant son numÃ©ro dâ€™extension(2XXX). L'appel d'une extension virtuelle place un appel sur le numÃ©ro de renvoi externe.
 
-## Composer un numéro externe 
+## Composer un numÃ©ro externe 
 
-Vous pouvez passer un appel externe en décrochant votre téléphone et en composant le numéro du destinataire comme vous le feriez normalement:
+Vous pouvez passer un appel externe en dÃ©crochant votre tÃ©lÃ©phone et en composant le numÃ©ro du destinataire comme vous le feriez normalement:
 
 * 0X XX XX XX XX pour les appels en France
-* XX ou XXX pour les numéros d'urgence.
+* XX ou XXX pour les numÃ©ros d'urgence.
 * 00 XX ... XX pour les appels internationaux
 
-Vous n'avez pas besoin de composer le "0" ou tout autre code spécial pour effectuer un appel téléphonique externe.
+Vous n'avez pas besoin de composer le "0" ou tout autre code spÃ©cial pour effectuer un appel tÃ©lÃ©phonique externe.
 
-Les appels vers les téléphones fixes et mobiles en France sont inclus dans l’abonnement de base. Il est également possible d’effectuer des appels illimités vers les lignes fixes des pays suivants:
+Les appels vers les tÃ©lÃ©phones fixes et mobiles en France sont inclus dans lâ€™abonnement de base. Il est Ã©galement possible dâ€™effectuer des appels illimitÃ©s vers les lignes fixes des pays suivants:
 
 * Autriche
 * Belgique
@@ -45,10 +45,10 @@ Les appels vers les téléphones fixes et mobiles en France sont inclus dans l’abo
 * Suisse
 * Royaume-Uni
 
-En plus des options d'appel énumérées ci-dessus, votre Administrateur de Compte peut activer un Compte Prépayé qui permettra à tout votre personnel d’utiliser ce compte pour effectuer des appels vers des numéros internationaux et services d'annuaire.
+En plus des options d'appel Ã©numÃ©rÃ©es ci-dessus, votre Administrateur de Compte peut activer un Compte PrÃ©payÃ© qui permettra Ã  tout votre personnel dâ€™utiliser ce compte pour effectuer des appels vers des numÃ©ros internationaux et services d'annuaire.
 
-## Appeler des numéros internationaux
+## Appeler des numÃ©ros internationaux
 
-Si vous disposez de fonds suffisants sur votre Compte Prépayé, vous pouvez profiter de tarifs d'appels internationaux très bas proposés par Ooma en composant le 00, suivi du code du pays et du numéro de téléphone.
+Si vous disposez de fonds suffisants sur votre Compte PrÃ©payÃ©, vous pouvez profiter de tarifs d'appels internationaux trÃ¨s bas proposÃ©s par Ooma en composant le 00, suivi du code du pays et du numÃ©ro de tÃ©lÃ©phone.
 
-Vous entendrez le solde du Compte Prépayé avant que votre appel ne soit connecté, vous indiquant qu’il y a suffisamment de fonds pour passer votre appel.
+Vous entendrez le solde du Compte PrÃ©payÃ© avant que votre appel ne soit connectÃ©, vous indiquant quâ€™il y a suffisamment de fonds pour passer votre appel.
