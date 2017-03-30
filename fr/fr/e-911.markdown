@@ -24,11 +24,11 @@ Lorsque vous enregistrez votre appareil sur Ooma Office, votre adresse professio
 
 Ooma Office peut être utilisé pour contacter les services d'urgence suivants:
 
-* ** 15 **: SAMU
+* **15**: SAMU
 * ** 17 **: Police-Secours
 * ** 18 **: Pompier
-* ** 112 **: Appel d’urgence européen
-* ** 114 **: Numéro d’urgence pour les personnes sourdes et malentendantes
+* ** 112 **: Appel d'urgence européen
+* ** 114 **: Numéro d'urgence pour les personnes sourdes et malentendantes
 * ** 115 **: Samu social/ Secours aux sans abris
 * ** 116 000 **: SOS enfants disparus
 * ** 116 117 **: Médecins de garde
@@ -41,7 +41,7 @@ Ooma Office peut être utilisé pour contacter les services d'urgence suivants:
 
 Vous pouvez garder votre adresse professionnelle à jour en suivant les instructions ci-dessous:
 
-1. Se connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr}}]({{site.office_link.fr}}/) et consulter l’onglet "[Account]({{site.office_link.fr}} / Settings)".
+1. Se connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr}}]({{site.office_link.fr}}/) et consulter l'onglet "[Account]({{site.office_link.fr}} / Settings)".
 2. Cliquer sur "Editer" pour modifier vos "Informations Professionnelles" sous l'onglet "Paramètres", comme indiqué ci-dessous: \\
    ![edit business info]({{site.baseurl}}/assets/images/ooma_office_manager/business_info_edit.png)
 
@@ -51,10 +51,10 @@ Vous pouvez garder votre adresse professionnelle à jour en suivant les instruct
 4. Mettre à jour votre adresse professionnelle pour vous assurer que vos appels vers les numéros d'urgence seront correctement acheminés.
 5. Sauvegarder vos changements.
 
-## S’il y a une coupure d’électricité, puis-je toujours appeler les services d'urgence?
+## S'il y a une coupure d'électricité, puis-je toujours appeler les services d'urgence?
 
-Le système Ooma Office a besoin d’électricité pour fonctionner. Si vous ne disposez pas d'une source d’alimentation, vous ne pourrez pas utiliser votre téléphone de bureau pour effectuer ou recevoir des appels, y compris les appels aux services d'urgence.
+Le système Ooma Office a besoin d'électricité pour fonctionner. Si vous ne disposez pas d'une source d'alimentation, vous ne pourrez pas utiliser votre téléphone de bureau pour effectuer ou recevoir des appels, y compris les appels aux services d'urgence.
 
 ## Si mon appareil Ooma Office n'a aucune connexion Internet, puis-je appeler les services d'urgence?
 
-Le système Ooma Office a besoin d'électricité et d’une connexion Internet pour fonctionner. Si l'un ou l'autre ne fonctionne pas, vous ne pourrez pas utiliser votre téléphone de bureau pour passer ou recevoir des appels, y compris les appels aux services d'urgence. Dans une situation comme celle-ci, vous pouvez toujours contacter les services d'urgence à partir de n'importe quel téléphone cellulaire.
+Le système Ooma Office a besoin d'électricité et d'une connexion Internet pour fonctionner. Si l'un ou l'autre ne fonctionne pas, vous ne pourrez pas utiliser votre téléphone de bureau pour passer ou recevoir des appels, y compris les appels aux services d'urgence. Dans une situation comme celle-ci, vous pouvez toujours contacter les services d'urgence à partir de n'importe quel téléphone cellulaire.
