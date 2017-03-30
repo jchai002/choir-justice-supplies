@@ -12,9 +12,9 @@ La modification du nom de l'identifiant de l'appelant via le Gestionnaire Ooma O
 
 Pour modifier le nom de l'appelant, veuillez suivre les étapes suivantes :
 
-1. Se connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr}}] ({{site.office_link.fr}}) et consulter l'Onglet Compte.
+1. Se connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr}}]({{site.office_link.fr}}) et consulter l'Onglet Compte.
 2. Cliquer sur "Editer" pour modifier vos Informations Professionnelles sous l'onglet "Paramètres", comme indiqué ci-dessous: \\
-   ! [business Info]({{site.baseurl
+   ![business info]({{site.baseurl
 }}/assets/images/ooma_office_manager/business_info_edit.png)
 
    Cliquer sur le bouton "Editer" pour mettre à jour vos informations d'identification de l'appelant.

@@ -16,7 +16,7 @@ Des appels illimités vers les téléphones fixes et cellulaires en France et ve
 
 Votre Compte Prépayé sera alimenté par les fonds de votre carte bancaire dans la section "Facturation" de votre Gestionnaire Ooma Office. Vous pouvez vérifier la carte bancaire et la mettre à jour si nécessaire en suivant ces instructions:
 
-1. Se Connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr}}] ({{site.office_link.fr}} /) et consulter "[Billing]({{ site.office_link.fr }}/#billing)" sous l'onglet "Compte".
+1. Se Connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr}}]({{site.office_link.fr}}) et consulter "[Billing]({{ site.office_link.fr }}/#billing)" sous l'onglet "Compte".
 2. Vérifier les informations de votre carte bancaire sous "Informations Paiement".
 3. Si des changements sont nécessaires, cliquer sur "Editer". Mettre à jour vos informations de paiement et être sûr que votre adresse de facturation est correcte.
 4. Sauvegarder vos changements.
@@ -25,7 +25,7 @@ Votre Compte Prépayé sera alimenté par les fonds de votre carte bancaire dans
 
 Pour financer votre Compte Prépayé pour la première fois, il faut suivre les instructions ci-dessous:
 
-1. Se connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr }}]({{site.office_link.fr}}/) et consulter votre "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" sous l'onglet "Extensions".
+1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{site.office_link.fr}}/) et consulter votre "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" sous l'onglet "Extensions".
 2. Cliquer sur "Ajouter des Fonds" sous l'onglet "Solde".
 3. Choisir le montant que vous souhaitez ajouter dans le menu déroulant, puis cliquer sur "Acheter" pour terminer votre achat.
 

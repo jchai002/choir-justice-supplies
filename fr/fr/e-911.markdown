@@ -43,7 +43,7 @@ Vous pouvez garder votre adresse professionnelle à jour en suivant les instruct
 
 1. Se connecter à votre Gestionnaire Ooma Office [{{site.office_link.fr}}]({{site.office_link.fr}}/) et consulter l’onglet "[Account]({{site.office_link.fr}} / Settings)".
 2. Cliquer sur "Editer" pour modifier vos "Informations Professionnelles" sous l'onglet "Paramètres", comme indiqué ci-dessous: \\
-   ! [edit business info] ({{site.baseurl}}/assets/images/ooma_office_manager/business_info_edit.png)
+   ![edit business info]({{site.baseurl}}/assets/images/ooma_office_manager/business_info_edit.png)
 
 3. Sur l'écran suivant, mettre à jour votre adresse professionnelle complète dans les champs requis: \\
    ![business address]]({{ site.baseurl }}/assets/images/ooma_office_manager/eemergency services_address.png)

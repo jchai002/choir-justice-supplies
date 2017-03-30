@@ -34,7 +34,7 @@ Vous pouvez ajouter un serveur de conférences à votre compte en suivant les é
 
 Vous pouvez définir ou modifier l'ID de la conférence ou le code participant d'une salle de conférence en suivant les étapes suivantes :
 
-1. Cliquer sur le bouton ["Paramètres"] ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) situé à coté de la salle de conférence que vous souhaitez modifier.
+1. Cliquer sur le bouton "Paramètres" ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) situé à coté de la salle de conférence que vous souhaitez modifier.
 2. Entrer ou modifier l'ID de la conférence ou le code participant.
 3. Enregistrer vos modifications.
 
@@ -42,7 +42,7 @@ Vous pouvez définir ou modifier l'ID de la conférence ou le code participant d
 
 Pour supprimer une salle de conférences :
 
-1. Cliquer sur le bouton ["poubelle"] ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) ) situé à coté de la salle de conférence que vous souhaitez supprimer.
+1. Cliquer sur le bouton "Poubelle" ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) ) situé à coté de la salle de conférence que vous souhaitez supprimer.
 
 2. Confirmer que vous souhaitez bien supprimer la salle de conférence.
 
@@ -57,6 +57,6 @@ Vous pouvez avoir jusqu'à 10 participants dans une salle de conférence.
 ## Comment puis-je supprimer le serveur de conférences ?
 
 1. Se connecter au Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et se rendre sur "[Conferences]({{ site.office_link.fr }}/#conferences)" sous l'onglet ["Configuration"].
-2. Supprimer toutes les salles de conférences en cliquant sur le bouton ["Poubelle"] ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) ) situé à coté de chacune d'entre elles.
+2. Supprimer toutes les salles de conférences en cliquant sur le bouton "Poubelle" ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) ) situé à coté de chacune d'entre elles.
 3. Se rendre sur ["Numéros"]. Si un numéro de téléphone est mappé sur un poste du Serveur de conférences, supprimer l'attribution du numéro ou le mapper sur un autre poste.
-4. Se rendre sur ["Extensions"] et supprimer le Serveur de conférences en cliquant sur le bouton ["Poubelle"] ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) ) à coté.
+4. Se rendre sur ["Extensions"] et supprimer le Serveur de conférences en cliquant sur le bouton "Poubelle" ( ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) ) à coté.
