@@ -16,26 +16,26 @@ Chaque seconde est importante en cas d'urgence. Il est indispensable que l'adres
 
 Lorsque vous enregistrez votre appareil sur Ooma Office, votre adresse professionnelle est également utilisée comme adresse de service. Lorsque vous appelez les numéros d'urgence, cette information aide à acheminer votre appel vers le centre le plus proche. Il est important que votre adresse professionnelle soit à jour.
 
-**Remarque:** Si votre adresse physique ne peut pas être déterminée par votre adresse de service, vous serez dirigé vers un centre d'appels national pour confirmer votre emplacement afin que votre appel puisse être transmis à l'autorité locale compétente.
+**Remarque:**Si votre adresse physique ne peut pas être déterminée par votre adresse de service, vous serez dirigé vers un centre d'appels national pour confirmer votre emplacement afin que votre appel puisse être transmis à l'autorité locale compétente.
 
-**Important:** Ooma ne peut pas fournir des services d'urgence sans électricité et connexion Internet haut débit.
+**Important:**Ooma ne peut pas fournir des services d'urgence sans électricité et connexion Internet haut débit.
 
 ## Quels numéros d'urgence Ooma Office peut contacter?
 
 Ooma Office peut être utilisé pour contacter les services d'urgence suivants:
 
 * **15**: SAMU
-* ** 17 **: Police-Secours
-* ** 18 **: Pompier
-* ** 112 **: Appel d'urgence européen
-* ** 114 **: Numéro d'urgence pour les personnes sourdes et malentendantes
-* ** 115 **: Samu social/ Secours aux sans abris
-* ** 116 000 **: SOS enfants disparus
-* ** 116 117 **: Médecins de garde
-* ** 119 **: Enfance maltraitée
-* ** 191 **: Urgence aéronautique
-* ** 196 **: Secours en mer
-* ** 197 **: Alerte attentat et alerte enlèvement 
+* **17**: Police-Secours
+* **18**: Pompier
+* **112**: Appel d'urgence européen
+* **114**: Numéro d'urgence pour les personnes sourdes et malentendantes
+* **115**: Samu social/ Secours aux sans abris
+* **116 000**: SOS enfants disparus
+* **116 117**: Médecins de garde
+* **119**: Enfance maltraitée
+* **191**: Urgence aéronautique
+* **196**: Secours en mer
+* **197**: Alerte attentat et alerte enlèvement 
 
 ## Comment puis-je mettre à jour mon adresse professionnelle?
 

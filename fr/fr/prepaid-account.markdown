@@ -9,7 +9,7 @@ tags: [activation-and-setup, account, add-ons, admin-features, wework]
 Des appels illimités vers les téléphones fixes et cellulaires en France et vers les lignes fixes de 12 pays européens sont inclus dans votre abonnement mensuel de base d’Ooma Office. Lorsque les appels vers des services payants ou des pays en dehors de votre abonnement font partie des besoins de votre entreprise, le compte prépayé que vous avez configuré pendant le processus d'activation du compte couvrira toutes les dépenses engagées.
 
 1. Sommaire
-{:Toc}
+{:toc}
 * * *
 
 ## Comment puis-je vérifier ou modifier la carte bancaire associée à mon Compte Prépayé?

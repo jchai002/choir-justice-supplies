@@ -8,9 +8,8 @@ tags: [activation-and-setup, add-ons, account, wework]
 
 Une fois votre compte Ooma Office installé, vous pouvez effectuer des appels illimités vers des téléphones fixes et cellulaires en France et vers les lignes fixes de 12 pays européens dans le cadre de votre abonnement mensuel de base. Votre Compte Prépayé fournit des fonds pour passer des appels internationaux et vers des services payants. Vous pouvez ajouter des fonds au solde de votre Compte Prépayé lorsque vous le souhaitez, et avec les recharges automatiques, vous êtes certain de ne jamais manquer de fonds au cours d’un appel.
 
-
 1. Sommaire
-{: Toc}
+{:toc}
 * * *
 
 ## Comment puis-je ajouter des fonds à mon Compte Prépayé?
