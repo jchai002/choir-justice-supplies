@@ -1,26 +1,27 @@
+---
 layout: post
-title:  Conférences téléphoniques à trois
+title:  ConfÃ©rences tÃ©lÃ©phoniques Ã  trois
 date:   2017-02-07 09:00:00
 category: [wework]
 tags: [end-user-features, calling, wework]
 ---
 
-Lorsque vous avez deux appels avec la même ligne, il peut parfois être utile de les inclure dans la même conversation. Ensuite, quand vous avez terminé, vous pouvez reprendre les appels à part pour conclure chacun individuellement.
+Lorsque vous avez deux appels avec la mÃªme ligne, il peut parfois Ãªtre utile de les inclure dans la mÃªme conversation. Ensuite, quand vous avez terminÃ©, vous pouvez reprendre les appels Ã  part pour conclure chacun individuellement.
 
 1. Sommaire
 {:toc}
 * * *
 
-## Conférence de deux appels actifs ensembles
+## ConfÃ©rence de deux appels actifs ensembles
 
-Lorsque vous avez deux appels actifs sur deux lignes distinctes, assurez-vous que l'un des deux appels que vous souhaitez combiner est actif. Ensuite, sélectionner le deuxième appel que vous souhaitez mettre en conférence avec les touches fléchées. Appuyer sur la touche de fonction **Conf** pour combiner les appels.
+Lorsque vous avez deux appels actifs sur deux lignes distinctes, assurez-vous que l'un des deux appels que vous souhaitez combiner est actif. Ensuite, sÃ©lectionner le deuxiÃ¨me appel que vous souhaitez mettre en confÃ©rence avec les touches flÃ©chÃ©es. Appuyer sur la touche de fonction **Conf** pour combiner les appels.
 
-## Conférence de deux appels ensemble
+## ConfÃ©rence de deux appels ensemble
 
 Appuyer sur la touche de fonction **Conf** pour mettre l'appel actif en attente.
 
-Saisir le deuxième numéro que vous souhaitez appeler et appuyer sur Envoyer. Lorsque l’interlocuteur décroche, appuyer à nouveau sur la touche de fonction **Conf** pour raccorder les appels ensemble.
+Saisir le deuxiÃ¨me numÃ©ro que vous souhaitez appeler et appuyer sur Envoyer. Lorsque lâ€™interlocuteur dÃ©croche, appuyer Ã  nouveau sur la touche de fonction **Conf** pour raccorder les appels ensemble.
 
-## Arrêter une conférence téléphonique
+## ArrÃªter une confÃ©rence tÃ©lÃ©phonique
 
-Lorsque vous avez terminé la conférence, vous pouvez diviser les deux appels en appels distincts à nouveau en sélectionnant l'un des interlocuteurs. Appuyer sur la touche de fonction **Attente** pour mettre cet appel en attente. L'autre appel restera actif.
+Lorsque vous avez terminÃ© la confÃ©rence, vous pouvez diviser les deux appels en appels distincts Ã  nouveau en sÃ©lectionnant l'un des interlocuteurs. Appuyer sur la touche de fonction **Attente** pour mettre cet appel en attente. L'autre appel restera actif.

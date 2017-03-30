@@ -6,7 +6,7 @@ category: [wework]
 tags: [end-user-features, calling, wework]
 ---
 
-Avec Ooma Office, vous pouvez configurer une extension pour transférer des appels vers un téléphone portable ou téléphone fixe. Le transfert d'appel peut être configuré en ligne par un Administrateur de Compte et par le propriétaire de l'extension à l'aide des codes d'étoiles sur le téléphone d'extension.
+Avec Ooma Office, vous pouvez configurer une extension pour transfÃ©rer des appels vers un tÃ©lÃ©phone portable ou tÃ©lÃ©phone fixe. Le transfert d'appel peut Ãªtre configurÃ© en ligne par un Administrateur de Compte et par le propriÃ©taire de l'extension Ã  l'aide des codes d'Ã©toiles sur le tÃ©lÃ©phone d'extension.
 
 1. Sommaire
 {:toc}
@@ -14,18 +14,18 @@ Avec Ooma Office, vous pouvez configurer une extension pour transférer des appel
 
 ## Configurer transfert d'appel
 
-Pour activer ou désactiver le transfert d'appel à partir de votre téléphone VoIP, veuillez suivre les instructions ci-dessous:
+Pour activer ou dÃ©sactiver le transfert d'appel Ã  partir de votre tÃ©lÃ©phone VoIP, veuillez suivre les instructions ci-dessous:
 
 1. Appuyer sur la touche de fonction **Menu**
-2. Sélectionner **Fonctionnalités** (option 2)
-3. Sélectionner **Transfert d'Appel** (option 1)
+2. SÃ©lectionner **FonctionnalitÃ©s** (option 2)
+3. SÃ©lectionner **Transfert d'Appel** (option 1)
 
-Si le transfert d'appel a été préalablement configuré en ligne par un Administrateur de Compte, cela annulera le numéro de renvoi qui a été enregistré pour votre extension.
+Si le transfert d'appel a Ã©tÃ© prÃ©alablement configurÃ© en ligne par un Administrateur de Compte, cela annulera le numÃ©ro de renvoi qui a Ã©tÃ© enregistrÃ© pour votre extension.
 
 ## Options transfert d'appel
 
-Le transfert d'appel présente les options suivantes:
+Le transfert d'appel prÃ©sente les options suivantes:
 
-* *Toujours Transférer*: Les appels sont toujours envoyés au numéro que vous choisissez
-* *Transfert Occupé*: les appels sont transférés vers le numéro que vous choisissez lorsque le téléphone est occupé
-* *Transfert Pas de Réponse*: les appels sont transférés vers le numéro que vous choisissez lorsque personne ne répond au téléphone après un nombre de secondes spécifiées
+* *Toujours TransfÃ©rer*: Les appels sont toujours envoyÃ©s au numÃ©ro que vous choisissez
+* *Transfert OccupÃ©*: les appels sont transfÃ©rÃ©s vers le numÃ©ro que vous choisissez lorsque le tÃ©lÃ©phone est occupÃ©
+* *Transfert Pas de RÃ©ponse*: les appels sont transfÃ©rÃ©s vers le numÃ©ro que vous choisissez lorsque personne ne rÃ©pond au tÃ©lÃ©phone aprÃ¨s un nombre de secondes spÃ©cifiÃ©es

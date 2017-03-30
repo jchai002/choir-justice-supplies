@@ -1,31 +1,31 @@
 ---
 layout: post
-title:  Salle de conférence
+title:  Salle de confÃ©rence
 date:   2017-02-07 10:45:00
 category: [wework]
 tags: [end-user-features, calling, add-ons, wework]
 ---
 
-Une salle de conférence permet à de nombreuses parties d'utiliser leurs propres téléphones pour commencer à parler en groupe. Vous pouvez utiliser cette fonctionnalité pour planifier et organiser des réunions même lorsque les membres de votre équipe, clients et partenaires commerciaux sont à des endroits différents. L'utilisation d'une salle de conférence pour réunir de nombreuses personnes pour une conférence téléphonique est rapide et facile.
+Une salle de confÃ©rence permet Ã  de nombreuses parties d'utiliser leurs propres tÃ©lÃ©phones pour commencer Ã  parler en groupe. Vous pouvez utiliser cette fonctionnalitÃ© pour planifier et organiser des rÃ©unions mÃªme lorsque les membres de votre Ã©quipe, clients et partenaires commerciaux sont Ã  des endroits diffÃ©rents. L'utilisation d'une salle de confÃ©rence pour rÃ©unir de nombreuses personnes pour une confÃ©rence tÃ©lÃ©phonique est rapide et facile.
 
 1. Sommaire
 {:toc}
 * * *
 
-## Numéro à composer pour former une salle de conférence
+## NumÃ©ro Ã  composer pour former une salle de confÃ©rence
 
-Tout ce dont vous avez besoin pour commencer est le numéro d’extension et le code PIN de la salle de conférence qui a été configuré par votre Administrateur Réseau.
+Tout ce dont vous avez besoin pour commencer est le numÃ©ro dâ€™extension et le code PIN de la salle de confÃ©rence qui a Ã©tÃ© configurÃ© par votre Administrateur RÃ©seau.
 
-### Se connecter à partir d'une extension interne d’Ooma Office
+### Se connecter Ã  partir d'une extension interne dâ€™Ooma Office
 
-Pour vous connecter à une salle de conférence à partir d'une extension interne d’Ooma Office, il faut décrocher votre téléphone et composer l'extension attribuée à la salle. Lorsque vous êtes prêt, saisir l'identifiant de la conférence et le code PIN fourni par votre Administrateur Réseau pour vous connecter à l'appel de groupe.
+Pour vous connecter Ã  une salle de confÃ©rence Ã  partir d'une extension interne dâ€™Ooma Office, il faut dÃ©crocher votre tÃ©lÃ©phone et composer l'extension attribuÃ©e Ã  la salle. Lorsque vous Ãªtes prÃªt, saisir l'identifiant de la confÃ©rence et le code PIN fourni par votre Administrateur RÃ©seau pour vous connecter Ã  l'appel de groupe.
 
-### Se connecter depuis l'extérieur du système d’Ooma Office
+### Se connecter depuis l'extÃ©rieur du systÃ¨me dâ€™Ooma Office
 
-Vous pouvez vous connecter à une salle de conférence en appelant la Réceptionniste Virtuelle, puis en entrant l'extension qui a été affectée à cette salle. Lorsque vous êtes prêt, saisir l'identifiant de la conférence et le code PIN fourni par votre Administrateur Réseau pour vous connecter à l'appel de groupe.
+Vous pouvez vous connecter Ã  une salle de confÃ©rence en appelant la RÃ©ceptionniste Virtuelle, puis en entrant l'extension qui a Ã©tÃ© affectÃ©e Ã  cette salle. Lorsque vous Ãªtes prÃªt, saisir l'identifiant de la confÃ©rence et le code PIN fourni par votre Administrateur RÃ©seau pour vous connecter Ã  l'appel de groupe.
 
-Si votre Administrateur Système a attribué un numéro de téléphone direct à la salle de conférence, vous pourrez le composer de l'extérieur pour vous connecter à la salle de conférence et contourner la Réceptionniste Virtuelle. La connexion via une ligne directe est l'option la plus pratique pour vos clients.
+Si votre Administrateur SystÃ¨me a attribuÃ© un numÃ©ro de tÃ©lÃ©phone direct Ã  la salle de confÃ©rence, vous pourrez le composer de l'extÃ©rieur pour vous connecter Ã  la salle de confÃ©rence et contourner la RÃ©ceptionniste Virtuelle. La connexion via une ligne directe est l'option la plus pratique pour vos clients.
 
-## Comment puis-je savoir si un autre appelant est connecté à la salle de conférence?
+## Comment puis-je savoir si un autre appelant est connectÃ© Ã  la salle de confÃ©rence?
 
-Chaque fois qu'un nouvel appelant entre dans la salle de conférence, un bip retentit pour tous les participants ce qui les informent qu'il y a un nouvel arrivant.
+Chaque fois qu'un nouvel appelant entre dans la salle de confÃ©rence, un bip retentit pour tous les participants ce qui les informent qu'il y a un nouvel arrivant.

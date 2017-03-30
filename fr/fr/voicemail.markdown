@@ -6,52 +6,52 @@ category: [wework]
 tags: [end-user-features, calling, voicemail, wework]
 ---
 
-Un des avantages d'avoir votre propre extension est qu'elle dispose d’une messagerie vocale personnalisée. Vous pouvez enregistrer votre propre message d'accueil et vérifier vos messages de différentes manières.
+Un des avantages d'avoir votre propre extension est qu'elle dispose dâ€™une messagerie vocale personnalisÃ©e. Vous pouvez enregistrer votre propre message d'accueil et vÃ©rifier vos messages de diffÃ©rentes maniÃ¨res.
 
 1. Sommaire
 {:toc}
 * * *
 
-## Accès à votre messagerie vocale
+## AccÃ¨s Ã  votre messagerie vocale
 
-Si vous avez une extension liée à votre téléphone, vous avez accès à une messagerie vocale que vous pouvez consulter et mettre à jour selon vos besoins. Il existe de nombreuses façons d'accéder à votre messagerie vocale, où que vous soyez. Pour commencer, il faut sélectionner l'une des options ci-dessous que vous souhaitez utiliser, puis suivre les instructions.
+Si vous avez une extension liÃ©e Ã  votre tÃ©lÃ©phone, vous avez accÃ¨s Ã  une messagerie vocale que vous pouvez consulter et mettre Ã  jour selon vos besoins. Il existe de nombreuses faÃ§ons d'accÃ©der Ã  votre messagerie vocale, oÃ¹ que vous soyez. Pour commencer, il faut sÃ©lectionner l'une des options ci-dessous que vous souhaitez utiliser, puis suivre les instructions.
 
-### À partir de votre téléphone VoIP Office Ooma
+### Ã€ partir de votre tÃ©lÃ©phone VoIP Office Ooma
 
-Si vous souhaitez consulter votre messagerie vocale, il suffit de décrocher le téléphone, appuyer sur le bouton message ou composer votre numéro d’extension.
+Si vous souhaitez consulter votre messagerie vocale, il suffit de dÃ©crocher le tÃ©lÃ©phone, appuyer sur le bouton message ou composer votre numÃ©ro dâ€™extension.
 
-**Remarque:** La première fois que vous accédez à votre messagerie vocale, vous serez invité à sélectionner un nouveau code PIN lors de la configuration initiale de celle-ci.
+**Remarque:** La premiÃ¨re fois que vous accÃ©dez Ã  votre messagerie vocale, vous serez invitÃ© Ã  sÃ©lectionner un nouveau code PIN lors de la configuration initiale de celle-ci.
 
-### D'un autre téléphone Ooma Office ou d'une ligne téléphonique externe
+### D'un autre tÃ©lÃ©phone Ooma Office ou d'une ligne tÃ©lÃ©phonique externe
 
-Il faut attendre que l'appel se termine sur la messagerie vocale, puis appuyer sur [*] et saisir votre code PIN. Si c'est la première fois que vous accédez à votre messagerie vocale, vous aurez besoin du code PIN qui vous a été envoyé par courriel lorsque votre extension a été créée. Si vous ne possédez pas ce code PIN, veuillez contacter votre Administrateur Système pour lui demander de définir un nouveau code PIN afin que vous puissiez vous connecter pour la première fois.
+Il faut attendre que l'appel se termine sur la messagerie vocale, puis appuyer sur [*] et saisir votre code PIN. Si c'est la premiÃ¨re fois que vous accÃ©dez Ã  votre messagerie vocale, vous aurez besoin du code PIN qui vous a Ã©tÃ© envoyÃ© par courriel lorsque votre extension a Ã©tÃ© crÃ©Ã©e. Si vous ne possÃ©dez pas ce code PIN, veuillez contacter votre Administrateur SystÃ¨me pour lui demander de dÃ©finir un nouveau code PIN afin que vous puissiez vous connecter pour la premiÃ¨re fois.
 
-### Composer un numéro via la réceptionniste virtuelle
+### Composer un numÃ©ro via la rÃ©ceptionniste virtuelle
 
-Si vous êtes à l’extérieur de votre bureau et que vous n'avez pas de numéro de téléphone direct pour accéder à votre poste, vous pouvez composer votre messagerie vocale grâce à la Réceptionniste Virtuelle. Il suffit d'appeler le numéro d’Ooma Office auquel la Réceptionniste Virtuelle répond et d’appuyer sur [*] lorsque l'appel se connecte. Ensuite, composer votre numéro de poste, puis saisir votre code PIN.
+Si vous Ãªtes Ã  lâ€™extÃ©rieur de votre bureau et que vous n'avez pas de numÃ©ro de tÃ©lÃ©phone direct pour accÃ©der Ã  votre poste, vous pouvez composer votre messagerie vocale grÃ¢ce Ã  la RÃ©ceptionniste Virtuelle. Il suffit d'appeler le numÃ©ro dâ€™Ooma Office auquel la RÃ©ceptionniste Virtuelle rÃ©pond et dâ€™appuyer sur [*] lorsque l'appel se connecte. Ensuite, composer votre numÃ©ro de poste, puis saisir votre code PIN.
 
-**Remarque:** Cette fonctionnalité peut avoir été désactivée par l’Administrateur de votre Compte Ooma Office pour WeWork s'il n'y a aucun message vocal après avoir appuyé sur [*].
+**Remarque:** Cette fonctionnalitÃ© peut avoir Ã©tÃ© dÃ©sactivÃ©e par lâ€™Administrateur de votre Compte Ooma Office pour WeWork s'il n'y a aucun message vocal aprÃ¨s avoir appuyÃ© sur [*].
 
-### Écoute via courriel
+### Ã‰coute via courriel
 
-Vos nouveaux messages vocaux seront automatiquement transmis à votre adresse courriel afin que vous puissiez les écouter n'importe où. Le message audio sera envoyé en fichier joint au format .mp3, vous pouvez donc les écouter sur la plupart des navigateurs Web et clients de messagerie.
+Vos nouveaux messages vocaux seront automatiquement transmis Ã  votre adresse courriel afin que vous puissiez les Ã©couter n'importe oÃ¹. Le message audio sera envoyÃ© en fichier joint au format .mp3, vous pouvez donc les Ã©couter sur la plupart des navigateurs Web et clients de messagerie.
 
-Si vous devez modifier l'adresse courriel à laquelle vos messages sont envoyés, vous devez fournir votre nouvelle adresse courriel à votre Administrateur de Compte afin qu'il puisse effectuer la modification demandée.
+Si vous devez modifier l'adresse courriel Ã  laquelle vos messages sont envoyÃ©s, vous devez fournir votre nouvelle adresse courriel Ã  votre Administrateur de Compte afin qu'il puisse effectuer la modification demandÃ©e.
 
-## Mettre à jour vos options de messagerie vocale
+## Mettre Ã  jour vos options de messagerie vocale
 
-Votre messagerie vocale personnelle peut être personnalisée autant ou aussi peu que vous le souhaitez. Les options ci-dessous décrivent les changements que vous pouvez apporter et vous expliquent comment faire.
+Votre messagerie vocale personnelle peut Ãªtre personnalisÃ©e autant ou aussi peu que vous le souhaitez. Les options ci-dessous dÃ©crivent les changements que vous pouvez apporter et vous expliquent comment faire.
 
-### Enregistrer ou mettre à jour un message d'accueil personnel
+### Enregistrer ou mettre Ã  jour un message d'accueil personnel
 
-La première fois que vous vous connectez à votre messagerie vocale, vous serez invité à enregistrer un message d'accueil pour votre extension.
+La premiÃ¨re fois que vous vous connectez Ã  votre messagerie vocale, vous serez invitÃ© Ã  enregistrer un message d'accueil pour votre extension.
 
-Vous pouvez mettre à jour votre message d'accueil à tout moment en sélectionnant **option 5** dans le menu principal de la messagerie vocale. Sélectionner **option 1** dans le sous-menu.
+Vous pouvez mettre Ã  jour votre message d'accueil Ã  tout moment en sÃ©lectionnant **option 5** dans le menu principal de la messagerie vocale. SÃ©lectionner **option 1** dans le sous-menu.
 
-### Enregistrer ou mettre à jour votre nom
+### Enregistrer ou mettre Ã  jour votre nom
 
-Vous pouvez choisir d'utiliser un message vocal informatisé avec seulement votre nom enregistré au lieu d'un message d'accueil. Pour ce faire, sélectionner **option 5** dans le menu principal de la messagerie vocale. Sélectionner **option 2** dans le sous-menu.
+Vous pouvez choisir d'utiliser un message vocal informatisÃ© avec seulement votre nom enregistrÃ© au lieu d'un message d'accueil. Pour ce faire, sÃ©lectionner **option 5** dans le menu principal de la messagerie vocale. SÃ©lectionner **option 2** dans le sous-menu.
 
 ### Modifier votre Code PIN
 
-Une fois votre compte de messagerie vocale configuré, vous pouvez mettre à jour votre code NIP à tout moment. Pour ce faire, sélectionner **option 5** dans le menu principal de la messagerie vocale. Sélectionner **option 3** dans le sous-menu.
+Une fois votre compte de messagerie vocale configurÃ©, vous pouvez mettre Ã  jour votre code NIP Ã  tout moment. Pour ce faire, sÃ©lectionner **option 5** dans le menu principal de la messagerie vocale. SÃ©lectionner **option 3** dans le sous-menu.

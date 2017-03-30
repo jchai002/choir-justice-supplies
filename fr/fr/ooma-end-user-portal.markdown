@@ -6,153 +6,153 @@ category: [wework]
 tags: [end-user-features, end-user-portal, voicemail, account, wework]
 ---
 
-Le Portail d'Utilisateur Final d'Ooma vous permet d'écouter votre messagerie vocale, vérifier vos journaux d'appels et mettre à jour les préférences de votre extension Ooma Office, tout cela à partir de votre navigateur Web. Vous pouvez même envoyer des fax et passer des appels téléphoniques directement depuis le portail pour améliorer votre productivité.
+Le Portail d'Utilisateur Final d'Ooma vous permet d'Ã©couter votre messagerie vocale, vÃ©rifier vos journaux d'appels et mettre Ã  jour les prÃ©fÃ©rences de votre extension Ooma Office, tout cela Ã  partir de votre navigateur Web. Vous pouvez mÃªme envoyer des fax et passer des appels tÃ©lÃ©phoniques directement depuis le portail pour amÃ©liorer votre productivitÃ©.
 
 1. Sommaire
 {:toc}
 * * *
 
-## Accès au Portail Utilisateur
+## AccÃ¨s au Portail Utilisateur
 
 ### Se Connecter
 
-Pour vous connecter, aller à [office.ooma.com]({{ site.office_link.fr }}/), et suivre les étapes ci-dessous pour accéder à votre compte:
+Pour vous connecter, aller Ã  [office.ooma.com]({{ site.office_link.fr }}/), et suivre les Ã©tapes ci-dessous pour accÃ©der Ã  votre compte:
 
-1. Cliquer sur "Pour Utilisateurs" pour afficher l'écran ci-dessous:\\
+1. Cliquer sur "Pour Utilisateurs" pour afficher l'Ã©cran ci-dessous:\\
 
    ![End User Portal Login]({{ site.baseurl }}/assets/images/end_user_portal/login_screen.png)
 
-2. Saisir le numéro de téléphone principal de votre entreprise dans le champ "Numéro de téléphone"
+2. Saisir le numÃ©ro de tÃ©lÃ©phone principal de votre entreprise dans le champ "NumÃ©ro de tÃ©lÃ©phone"
 
-3. Saisir votre numéro d’extension dans le champ "Numéro d’extension"
+3. Saisir votre numÃ©ro dâ€™extension dans le champ "NumÃ©ro dâ€™extension"
 
 4. Saisir votre mot de passe dans le champ "Mot de passe"
 
 5. Cliquer sur "Se connecter" pour vous connecter
 
-Une fois connecté, l'écran Messagerie Vocale s'affichera comme page de présentation:
+Une fois connectÃ©, l'Ã©cran Messagerie Vocale s'affichera comme page de prÃ©sentation:
 
 <p align="center"><img alt="voicemail tab" src="{{ site.baseurl }}/assets/images/end_user_portal/voicemail_tab.png" /></p>
 
-### Se Déconnecter
+### Se DÃ©connecter
 
-Pour vous déconnecter, il faut cliquer sur votre nom d'utilisateur dans le coin supérieur droit, puis sélectionner Déconnexion dans le menu déroulant.
+Pour vous dÃ©connecter, il faut cliquer sur votre nom d'utilisateur dans le coin supÃ©rieur droit, puis sÃ©lectionner DÃ©connexion dans le menu dÃ©roulant.
 
 <p align="center"><img alt="logout" src="{{ site.baseurl }}/assets/images/end_user_portal/logout.png" /></p>
 
 ### Passer un appel
 
-Pour utiliser la fonctionnalité Cliquer sur Appeler, saisir le numéro de téléphone que vous voulez appeler dans la zone de texte en haut de l'écran à côté de votre nom d'utilisateur, puis cliquer sur le bouton Appeler.
+Pour utiliser la fonctionnalitÃ© Cliquer sur Appeler, saisir le numÃ©ro de tÃ©lÃ©phone que vous voulez appeler dans la zone de texte en haut de l'Ã©cran Ã  cÃ´tÃ© de votre nom d'utilisateur, puis cliquer sur le bouton Appeler.
 
 <p align="center"><img alt="call out" src="{{ site.baseurl }}/assets/images/end_user_portal/callout.png" /></p>
 
-Votre extension Ooma Office commencera à sonner et il suffira de répondre depuis votre poste pour connecter l'appel.
+Votre extension Ooma Office commencera Ã  sonner et il suffira de rÃ©pondre depuis votre poste pour connecter l'appel.
 
-Vous pouvez composer des numéros d’extensions internes, numéros téléphoniques français ou numéros internationaux (par exemple, 00 suivi du code du pays et du numéro de téléphone). Veuillez garder à l’esprit que si vous appelez des numéros internationaux, des frais supplémentaires peuvent s'appliquer.
+Vous pouvez composer des numÃ©ros dâ€™extensions internes, numÃ©ros tÃ©lÃ©phoniques franÃ§ais ou numÃ©ros internationaux (par exemple, 00 suivi du code du pays et du numÃ©ro de tÃ©lÃ©phone). Veuillez garder Ã  lâ€™esprit que si vous appelez des numÃ©ros internationaux, des frais supplÃ©mentaires peuvent s'appliquer.
 
 ## Messagerie vocale
 
-### Écouter la messagerie vocale
+### Ã‰couter la messagerie vocale
 
-Pour écouter un message vocal, il faut aller à la page Messagerie Vocale en cliquant sur le bouton Accueil.
+Pour Ã©couter un message vocal, il faut aller Ã  la page Messagerie Vocale en cliquant sur le bouton Accueil.
 
-Les nouveaux messages sont marqués avec ![nouveau message]({{ site.baseurl }}/assets/images/end_user_portal/new_message.png). Cliquer sur le bouton Lecture ( ![play]({{ site.baseurl }}/assets/images/end_user_portal/play.png) ) à côté du message que vous souhaitez écouter. Le message sera audible grâce aux haut-parleurs de votre ordinateur.
+Les nouveaux messages sont marquÃ©s avec ![nouveau message]({{ site.baseurl }}/assets/images/end_user_portal/new_message.png). Cliquer sur le bouton Lecture ( ![play]({{ site.baseurl }}/assets/images/end_user_portal/play.png) ) Ã  cÃ´tÃ© du message que vous souhaitez Ã©couter. Le message sera audible grÃ¢ce aux haut-parleurs de votre ordinateur.
 
 <p align="center"><img alt="voicemail tab" src="{{ site.baseurl }}/assets/images/end_user_portal/voicemail_tab.png" /></p>
 
-Une fois le message écouté, vous pouvez:
+Une fois le message Ã©coutÃ©, vous pouvez:
 
 * Cliquer sur [nouveau message]({{ site.baseurl }}/assets/images/end_user_portal/new_message.png) pour marquer le message comme nouveau
 * Cliquer sur [appeler]({{ site.baseurl }}/assets/images/end_user_portal/call_return.png) pour rappeler le correspondant
-* Cliquer sur [télécharger]({{ site.baseurl }}/assets/images/end_user_portal/message_download.png) pour télécharger le message
+* Cliquer sur [tÃ©lÃ©charger]({{ site.baseurl }}/assets/images/end_user_portal/message_download.png) pour tÃ©lÃ©charger le message
 * Cliquez sur [corbeille]({{ site.baseurl }}/assets/images/end_user_portal/trash.png) pour supprimer le message
-Lorsque vous téléchargez un message, il sera enregistré sur votre ordinateur au format MP3.
+Lorsque vous tÃ©lÃ©chargez un message, il sera enregistrÃ© sur votre ordinateur au format MP3.
 
 ## Journal des Appels
 
 ### Afficher Votre Journal des Appels
 
-Pour afficher l’historique de vos d'appels, il faut aller dans l'option Journal des Appels sous l'onglet Accueil.
+Pour afficher lâ€™historique de vos d'appels, il faut aller dans l'option Journal des Appels sous l'onglet Accueil.
 
-Par défaut, vous verrez l’historique de vos appels de la dernière semaine.
+Par dÃ©faut, vous verrez lâ€™historique de vos appels de la derniÃ¨re semaine.
 
 <p align="center"><img alt="call logs" src="{{ site.baseurl }}/assets/images/end_user_portal/call_logs.png" /></p>
 
-Vous pouvez effectuer les opérations suivantes à partir de l'interface Journal des Appels:
+Vous pouvez effectuer les opÃ©rations suivantes Ã  partir de l'interface Journal des Appels:
 
-* Cliquer sur [entrant]({{ site.baseurl }}/assets/images/end_user_portal/incoming.png) pour afficher l’historique de vos appels entrants.
-* Cliquer sur [sortant]({{ site.baseurl }}/assets/images/end_user_portal/outgoing.png) pour afficher l’historique de vos appels sortants.
-* Cliquer sur [manqué]({{ site.baseurl }}/assets/images/end_user_portal/missed.png) pour afficher l’historique de vos appels manqués. Saisir une période de temps avec les champs Du et À, puis cliquer sur Rechercher, pour afficher une liste d’historique des appels pour cette période.
-* Pour exporter vos journaux d'appels, il faut cliquer sur le bouton Exporter. Vos journaux d'appels seront enregistrés sur votre ordinateur sous la forme d'un fichier CSV (qui peut être ouvert dans Microsoft Excel et d'autres programmes de tableur)
+* Cliquer sur [entrant]({{ site.baseurl }}/assets/images/end_user_portal/incoming.png) pour afficher lâ€™historique de vos appels entrants.
+* Cliquer sur [sortant]({{ site.baseurl }}/assets/images/end_user_portal/outgoing.png) pour afficher lâ€™historique de vos appels sortants.
+* Cliquer sur [manquÃ©]({{ site.baseurl }}/assets/images/end_user_portal/missed.png) pour afficher lâ€™historique de vos appels manquÃ©s. Saisir une pÃ©riode de temps avec les champs Du et Ã€, puis cliquer sur Rechercher, pour afficher une liste dâ€™historique des appels pour cette pÃ©riode.
+* Pour exporter vos journaux d'appels, il faut cliquer sur le bouton Exporter. Vos journaux d'appels seront enregistrÃ©s sur votre ordinateur sous la forme d'un fichier CSV (qui peut Ãªtre ouvert dans Microsoft Excel et d'autres programmes de tableur)
 
 ## Fax
 
 ### Envoyer un fax
 
-Pour envoyer un fax, aller à l'option Fax sous l'onglet Accueil, puis cliquer sur l'option "Envoyer Fax".
+Pour envoyer un fax, aller Ã  l'option Fax sous l'onglet Accueil, puis cliquer sur l'option "Envoyer Fax".
 
 <p align="center"><img alt="send fax" src="{{ site.baseurl }}/assets/images/end_user_portal/fax_send_fax.png" /></p>
 
-1. Saisir le numéro de fax de destination dans le champ Numéro de fax de destination.
-2. Cliquer sur Choisir et sélectionner le fichier que vous souhaitez télécharger depuis votre ordinateur. Vous pouvez envoyer des fichiers au format PDF ou TIFF. \\
+1. Saisir le numÃ©ro de fax de destination dans le champ NumÃ©ro de fax de destination.
+2. Cliquer sur Choisir et sÃ©lectionner le fichier que vous souhaitez tÃ©lÃ©charger depuis votre ordinateur. Vous pouvez envoyer des fichiers au format PDF ou TIFF. \\
    ![choose file]({{ site.baseurl }}/assets/images/end_user_portal/fax_choose_file.png){:height="300px"}
 3. Cliquer sur "Envoyer fax".
 
-## Préférences
+## PrÃ©fÃ©rences
 
-### Préférences Messagerie Vocale
+### PrÃ©fÃ©rences Messagerie Vocale
 
-Pour accéder aux préférences de votre messagerie vocale, aller à l'option Messagerie Vocale sous l'onglet Préférences.
+Pour accÃ©der aux prÃ©fÃ©rences de votre messagerie vocale, aller Ã  l'option Messagerie Vocale sous l'onglet PrÃ©fÃ©rences.
 
 <p align="center"><img alt="voicemail preferences" src="{{ site.baseurl }}/assets/images/end_user_portal/voicemail_preference.png" /></p>
 
-À partir de l'interface Préférences Messagerie Vocale, suivre les instructions ci-dessous:
+Ã€ partir de l'interface PrÃ©fÃ©rences Messagerie Vocale, suivre les instructions ci-dessous:
 
-* Décocher la case Messagerie Vocale si vous souhaitez désactiver la messagerie vocale de votre extension.
-* Ajuster la durée pendant laquelle vous souhaitez que votre extension sonne avant que la messagerie vocale s’active.
-* Modifier votre code PIN de messagerie vocale en entrant un code de 4 à 8 chiffres. Ce code PIN est utilisé lorsque vous accédez à votre messagerie vocale à distance.
+* DÃ©cocher la case Messagerie Vocale si vous souhaitez dÃ©sactiver la messagerie vocale de votre extension.
+* Ajuster la durÃ©e pendant laquelle vous souhaitez que votre extension sonne avant que la messagerie vocale sâ€™active.
+* Modifier votre code PIN de messagerie vocale en entrant un code de 4 Ã  8 chiffres. Ce code PIN est utilisÃ© lorsque vous accÃ©dez Ã  votre messagerie vocale Ã  distance.
 * Cocher la case "Inclure fichier audio dans la notification de la messagerie vocale" pour joindre un fichier audio MP3 de chaque message de messagerie vocale aux courriels de notifications de la messagerie vocale.
 
-Cliquer sur le bouton Sauvegarder pour enregistrer vos paramètres.
+Cliquer sur le bouton Sauvegarder pour enregistrer vos paramÃ¨tres.
 
-### Préférences Transfert d'Appel
+### PrÃ©fÃ©rences Transfert d'Appel
 
-Pour configurer vos préférences de transferts d'appel, aller à l'option Transfert d'appel sous l'onglet Préférences.
+Pour configurer vos prÃ©fÃ©rences de transferts d'appel, aller Ã  l'option Transfert d'appel sous l'onglet PrÃ©fÃ©rences.
 
 <p align="center"><img alt="call forwarding" src="{{ site.baseurl }}/assets/images/end_user_portal/call_forwarding_preferences.png" /></p>
 
-Dans l'interface Préférences Transfert d'Appel, suivre les instructions suivantes:
+Dans l'interface PrÃ©fÃ©rences Transfert d'Appel, suivre les instructions suivantes:
 
 * Cocher la case Activer le Transfert d'Appel si vous souhaitez activer le renvoi d'appel pour votre extension.
-* Saisir le numéro de téléphone auquel les appels seront transférés dans le champ Numéro de Transfert. Vous devez fournir un numéro de téléphone pour activer le renvoi d'appel.
-* Cocher la case Simultané pour que votre extension de bureau et votre numéro de transfert sonnent en même temps lorsque vous recevez un appel. Vous pouvez répondre à partir de n'importe quel de ces deux téléphones lorsque cette option est activée.
-* Cocher appuyer sur la touche Requise si vous voulez avoir la possibilité d’appuyer sur 1 pour répondre à un appel transféré. Le fait d'activer cette option empêche vos appels d'être envoyés à la messagerie vocale de votre téléphone portable si vous ne répondez pas, si votre téléphone portable est éteint ou si vous n'avez pas de signal.
+* Saisir le numÃ©ro de tÃ©lÃ©phone auquel les appels seront transfÃ©rÃ©s dans le champ NumÃ©ro de Transfert. Vous devez fournir un numÃ©ro de tÃ©lÃ©phone pour activer le renvoi d'appel.
+* Cocher la case SimultanÃ© pour que votre extension de bureau et votre numÃ©ro de transfert sonnent en mÃªme temps lorsque vous recevez un appel. Vous pouvez rÃ©pondre Ã  partir de n'importe quel de ces deux tÃ©lÃ©phones lorsque cette option est activÃ©e.
+* Cocher appuyer sur la touche Requise si vous voulez avoir la possibilitÃ© dâ€™appuyer sur 1 pour rÃ©pondre Ã  un appel transfÃ©rÃ©. Le fait d'activer cette option empÃªche vos appels d'Ãªtre envoyÃ©s Ã  la messagerie vocale de votre tÃ©lÃ©phone portable si vous ne rÃ©pondez pas, si votre tÃ©lÃ©phone portable est Ã©teint ou si vous n'avez pas de signal.
 
-Cliquer sur le bouton Sauvegarder pour enregistrer vos paramètres.
+Cliquer sur le bouton Sauvegarder pour enregistrer vos paramÃ¨tres.
 
-### Préférences Identification de l'Appelant
+### PrÃ©fÃ©rences Identification de l'Appelant
 
-Si votre extension peut être appelée en composant plusieurs numéros de téléphone, vous pouvez donc gérer vos préférences d'identification de l'appelant en vous rendant à l'option Identifiant de l’Appelant sous l'onglet Préférences.
+Si votre extension peut Ãªtre appelÃ©e en composant plusieurs numÃ©ros de tÃ©lÃ©phone, vous pouvez donc gÃ©rer vos prÃ©fÃ©rences d'identification de l'appelant en vous rendant Ã  l'option Identifiant de lâ€™Appelant sous l'onglet PrÃ©fÃ©rences.
 
 <p align="center"><img alt="caller ID preferences" src="{{ site.baseurl }}/assets/images/end_user_portal/caller_id_preference.png" /></p>
 
-À partir de cette interface, vous pouvez sélectionner le numéro de téléphone que vous souhaitez utiliser comme identifiant de l'appelant sortant dans la liste du menu déroulant "Identifiant Appelant Sortant". C'est le numéro de téléphone que les personnes verront quand vous les appelez.
+Ã€ partir de cette interface, vous pouvez sÃ©lectionner le numÃ©ro de tÃ©lÃ©phone que vous souhaitez utiliser comme identifiant de l'appelant sortant dans la liste du menu dÃ©roulant "Identifiant Appelant Sortant". C'est le numÃ©ro de tÃ©lÃ©phone que les personnes verront quand vous les appelez.
 
-Lorsque vous avez terminé, cliquer sur le bouton Sauvegarder pour enregistrer vos paramètres.
+Lorsque vous avez terminÃ©, cliquer sur le bouton Sauvegarder pour enregistrer vos paramÃ¨tres.
 
 ## Profil
 
-### Changement des paramètres de votre profil
+### Changement des paramÃ¨tres de votre profil
 
-Pour mettre à jour votre profil utilisateur, sélectionner l'option Profil dans la barre de menus.
+Pour mettre Ã  jour votre profil utilisateur, sÃ©lectionner l'option Profil dans la barre de menus.
 
-**Remarque:** Seul votre Administrateur peut modifier votre Nom ou Numéro d’Extension.
+**Remarque:** Seul votre Administrateur peut modifier votre Nom ou NumÃ©ro dâ€™Extension.
 
 <p align="center"><img alt="profile" src="{{ site.baseurl }}/assets/images/end_user_portal/profile_tab.png" /></p>
 
-À partir de l'interface Profil, vous pouvez effectuer les opérations suivantes:
+Ã€ partir de l'interface Profil, vous pouvez effectuer les opÃ©rations suivantes:
 
-* Saisir l'adresse courriel associée à votre extension dans le champ "Adresse courriel". Cette adresse courriel sera utilisée pour les courriels de Notifications de Messagerie Vocale.
-* Si vous souhaitez mettre à jour votre mot de passe, le saisir dans les champs Mot de Passe et Confirmer Mot de Passe.
+* Saisir l'adresse courriel associÃ©e Ã  votre extension dans le champ "Adresse courriel". Cette adresse courriel sera utilisÃ©e pour les courriels de Notifications de Messagerie Vocale.
+* Si vous souhaitez mettre Ã  jour votre mot de passe, le saisir dans les champs Mot de Passe et Confirmer Mot de Passe.
 
-Cliquer sur le bouton Sauvegarder pour enregistrer vos paramètres.
+Cliquer sur le bouton Sauvegarder pour enregistrer vos paramÃ¨tres.
