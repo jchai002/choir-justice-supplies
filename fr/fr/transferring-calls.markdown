@@ -41,4 +41,5 @@ Pour réaliser un transfert direct vers la messagerie vocale d'une extension, il
 1. Appuyer sur [*][8].
 2. Composer le numéro du poste.
 3. Raccrocher.
-{% Endcomment %}
+
+{% endcomment %}
