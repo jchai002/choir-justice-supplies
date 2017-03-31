@@ -57,6 +57,8 @@ Une fois que vous avez décidé de sauter le pas et porter votre numéro, vous a
 5. Pour la prochaine étape, vous devrez remplir l'adresse de votre service téléphonique et le prénom et nom du détenteur du compte. Cette information doit correspondre à ce qui est indiqué sur votre facture téléphonique.
 6. Enfin, vous devrez sélectionner votre numéro principal Ooma puis confirmer que vous comprenez les modalités du portage de numéro et signer avec une signature numérique.
 
+{% comment %}
+
 ## Comment puis-je vérifier où en est mon portage ?
 
 Une fois le portage de votre numéro lancé, vous pouvez connaître son statut à tout moment en vous rendant l'onglet "[Statut du portage](https://office.ooma.com/number_porting)" dans le Gestionnaire Ooma Office, tel que montré ci-dessous :
@@ -64,6 +66,8 @@ Une fois le portage de votre numéro lancé, vous pouvez connaître son statut �
 <p align="center"><img alt="statut du portage" src="{{ site.baseurl }}/assets/images/ooma_office_manager/porting_status.png" /></p>
  
 Utiliser l'onglet [Statut du portage] pour vérifier où en est le portage de votre numéro de téléphone.
+
+{% endcomment %}
 
 ## Que se passe-t-il une fois que j'ai initié un portage de numéro de téléphone ?
 

@@ -57,6 +57,8 @@ Once you've decided to take the plunge and port your number, you'll need to foll
 5. For the next step, you will need to fill in your phone's service address and the first and last name of the account holder. This information must match the information on your phone bill.
 6. Finally, you will need to select your primary Ooma phone number, and then confirm that you understand the terms and conditions of the number port and sign with a digital signature.
 
+{% comment %}
+
 ## How can I check on my porting status?
 
 When your number port has been initiated, you can check the porting status at any time by visiting the "[Porting status](https://office.ooma.com/number_porting)" tab in Ooma Office Manager, as shown below:
@@ -64,6 +66,8 @@ When your number port has been initiated, you can check the porting status at an
 <p align="center"><img alt="call forwarding preferences" src="{{ site.baseurl }}/assets/images/ooma_office_manager/porting_status.png" /></p>
  
 Use the Porting status tab to check the progress of your phone number port.
+
+{% endcomment %}
 
 ## What happens once I've initiated a phone number port?
 
