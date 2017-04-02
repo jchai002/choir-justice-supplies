@@ -6,7 +6,7 @@ category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, wework]
 ---
 
-The virtual receptionist can answer incoming calls and direct them to the appropriate location. This versitile tool has a variety of greeting options so that you can choose exactly what your customers hear when they call.
+The virtual receptionist can answer incoming calls and direct them to the appropriate location. This versatile tool has a variety of greeting options so that you can choose exactly what your customers hear when they call.
 
 1. Table of Contents
 {:toc}
