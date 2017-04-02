@@ -17,7 +17,7 @@ Ne laissez pas vos clients attendre en silence. La fonction "Musique en Attente"
 Vous pouvez ajouter Musique en Attente dans vos paramètres Ooma Office en suivant ces instructions:
 
 1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}) et aller à "[Préférences](https://office.ooma.com/#preferences)" sous l'onglet "Paramètres".
-2. Cliquer sur "Sélectionner" à côté de Musique en Attente: \\
+2. Cliquer sur "Sélectionner" à côté de Musique en Attente: 
 
    ![choose music]({{ site.baseurl }}/assets/images/ooma_office_manager/music_on_hold_choose.png)
 
