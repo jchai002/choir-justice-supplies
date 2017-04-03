@@ -38,7 +38,7 @@ Si un utilisateur doit réinitialiser manuellement son mot de passe, vous pouvez
 4. Si vous choisissez de remplacer manuellement le mot de passe, saisir le nouveau mot de passe de l'utilisateur dans le champ "Mot de Passe", puis le saisir à nouveau dans le champ "Confirmer Mot de Passe".
 5. Sauvegarder vos modifications. Un courriel sera envoyé à l'utilisateur avec son nouveau mot de passe.
 
-{% Comment%}
+{% comment %}
 
        ## Comment puis-je supprimer le compte d'un utilisateur?
 
