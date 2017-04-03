@@ -6,69 +6,69 @@ category: [wework]
 tags: [ooma-office-manager, wework]
 ---
 
-Le portail Web d’Ooma Office pour WeWork est l'endroit où vous allez administrer votre compte Ooma Office. Puisque tous vos paramètres sont accessibles en ligne, vous pouvez gérer votre compte depuis n'importe quel endroit où il y a une connexion Internet disponible et à tout moment. Il n'y a pas de menu pour naviguer; simplement une interface facile à utiliser qui vous permettra de mettre à jour vos préférences, ajouter de nouveaux utilisateurs et plus en quelques clics.
+Le portail Web d'Ooma Office pour WeWork est l'endroit oÃ¹ vous allez administrer votre compte Ooma Office. Puisque tous vos paramÃ¨tres sont accessibles en ligne, vous pouvez gÃ©rer votre compte depuis n'importe quel endroit oÃ¹ il y a une connexion Internet disponible et Ã  tout moment. Il n'y a pas de menu pour naviguer; simplement une interface facile Ã  utiliser qui vous permettra de mettre Ã  jour vos prÃ©fÃ©rences, ajouter de nouveaux utilisateurs et plus en quelques clics.
 
 1. Sommaire
 {:toc}
 * * *
 
-## Comment puis-je me connecter au portail Web d’Ooma Office?
+## Comment puis-je me connecter au portail Web d'Ooma Office?
 
-Vous pouvez vous connecter au portail Web Ooma Office pour WeWork en consultant [https://office.ooma.com/](https://office.ooma.com/) avec un navigateur Web. Votre nom d'utilisateur est le numéro de téléphone principal de votre entreprise et le mot de passe est celui que vous avez défini lors de la création du compte.
+Vous pouvez vous connecter au portail Web Ooma Office pour WeWork en consultant [https://office.ooma.com/](https://office.ooma.com/) avec un navigateur Web. Votre nom d'utilisateur est le numÃ©ro de tÃ©lÃ©phone principal de votre entreprise et le mot de passe est celui que vous avez dÃ©fini lors de la crÃ©ation du compte.
 
-Si vous ne vous souvenez pas du mot de passe de votre portail Web Ooma Office, vous pouvez le récupérer en suivant les instructions de [ce FAQ](/fr/fr/recovering-a-lost-password).
+Si vous ne vous souvenez pas du mot de passe de votre portail Web Ooma Office, vous pouvez le rÃ©cupÃ©rer en suivant les instructions de [ce FAQ](/fr/fr/recovering-a-lost-password).
 
 ## Que puis-je faire sous l'onglet Utiliser?
 
-L'onglet Utiliser dans le portail Web d’Ooma Office vous permet de faire les actions suivantes :
+L'onglet Utiliser dans le portail Web d'Ooma Office vous permet de faire les actions suivantesÂ :
 
-* Consulter les appels entrants, sortants et internes de votre compte [Journal d’Appels](https://office.ooma.com/call_logs)
-* Consulter les entrées et sorties de votre compte [journaux de fax](https://office.ooma.com/fax_logs)
-* Activer le serveur de conférence
+* Consulter les appels entrants, sortants et internes de votre compte [Journal d'Appels](https://office.ooma.com/call_logs)
+* Consulter les entrÃ©es et sorties de votre compte [journaux de fax](https://office.ooma.com/fax_logs)
+* Activer le serveur de confÃ©rence
 
-## Que puis-je faire sous l'onglet Paramètres?
+## Que puis-je faire sous l'onglet ParamÃ¨tres?
 
-L'onglet Paramètre du portail Web d’Ooma Office vous permet d'effectuer les opérations suivantes:
+L'onglet ParamÃ¨tre du portail Web d'Ooma Office vous permet d'effectuer les opÃ©rations suivantes:
 
-* Ajouter et gérer les [extensions] de votre compte (https://office.ooma.com/extensions)
-* Ajouter et gérer les [numéros de téléphone] de votre compte (https://office.ooma.com/phone_numbers)
-* Configurer votre [réceptionniste virtuel] inclus (https://office.ooma.com/virtual_receptionist)
-* Gérer le [serveur de conférence](https://office.ooma.com/conferences) (si activé)
-* Mettre à jour votre compte [préférences](https://office.ooma.com/preferences)
+* Ajouter et gÃ©rer les [extensions] de votre compte (https://office.ooma.com/extensions)
+* Ajouter et gÃ©rer les [numÃ©ros de tÃ©lÃ©phone] de votre compte (https://office.ooma.com/phone_numbers)
+* Configurer votre [rÃ©ceptionniste virtuel] inclus (https://office.ooma.com/virtual_receptionist)
+* GÃ©rer le [serveur de confÃ©rence](https://office.ooma.com/conferences) (si activÃ©)
+* Mettre Ã  jour votre compte [prÃ©fÃ©rences](https://office.ooma.com/preferences)
 
 ## Que puis-je faire sous l'onglet Compte?
 
-L'onglet Compte dans le portail Web d’Ooma Office vous permet de faire ce qui suit:
+L'onglet Compte dans le portail Web d'Ooma Office vous permet de faire ce qui suit:
 
-* Afficher et mettre à jour vos [paramètres de compte](https://office.ooma.com/settings)
-* Consulter l'historique de facturation de votre compte et mettre à jour vos [informations de facturation](https://office.ooma.com/billing)
-* Vérifier l'état de tous les [numéros de ports](https://office.ooma.com/porting_status) 
+* Afficher et mettre Ã  jour vos [paramÃ¨tres de compte](https://office.ooma.com/settings)
+* Consulter l'historique de facturation de votre compte et mettre Ã  jour vos [informations de facturation](https://office.ooma.com/billing)
+* VÃ©rifier l'Ã©tat de tous les [numÃ©ros de ports](https://office.ooma.com/porting_status) 
 
 ## Que puis-je faire sous l'onglet Extensions?
 
-L'onglet Extensions du portail Web d’Ooma Office vous permet de faire ce qui suit:
+L'onglet Extensions du portail Web d'Ooma Office vous permet de faire ce qui suit:
 
-* Acheter [téléphones VoIP](https://office.ooma.com/ip_phones pour Ooma Office
-* Initier le [processus de portage](https://office.ooma.com/number_porting) pour un ou plusieurs numéros de téléphone
-* Consulter l'activité de votre [compte prépayé](https://office.ooma.com/prepaid_account) et ajouter des fonds si nécessaire
+* Acheter [tÃ©lÃ©phones VoIP](https://office.ooma.com/ip_phones pour Ooma Office
+* Initier le [processus de portage](https://office.ooma.com/number_porting) pour un ou plusieurs numÃ©ros de tÃ©lÃ©phone
+* Consulter l'activitÃ© de votre [compte prÃ©payÃ©](https://office.ooma.com/prepaid_account) et ajouter des fonds si nÃ©cessaire
 
 ## Que puis-je faire sous l'onglet Assistant?
 
-L'onglet Assistance dans le portail Web d’Ooma Office vous redirigera vers l'Assistant d'Installation Rapide où vous pourrez configurer plusieurs fonctionnalités.
+L'onglet Assistance dans le portail Web d'Ooma Office vous redirigera vers l'Assistant d'Installation Rapide oÃ¹ vous pourrez configurer plusieurs fonctionnalitÃ©s.
 
-## Comment puis-je me déconnecter du portail Web d’Ooma Office?
+## Comment puis-je me dÃ©connecter du portail Web d'Ooma Office?
 
-Vous pouvez vous déconnecter du portail Web d’Ooma Office en cliquant sur votre nom en haut à droite. Sélectionner "Se déconnecter" dans le menu déroulant:
+Vous pouvez vous dÃ©connecter du portail Web d'Ooma Office en cliquant sur votre nom en haut Ã  droite. SÃ©lectionner "Se dÃ©connecter" dans le menu dÃ©roulant:
 
 <center><img alt="sign out" src="{{ site.baseurl }}/assets/images/ooma_office_manager/sign_out.png" /></center>
 
-## Quels navigateurs sont pris en charge pour le portail Web d’Ooma Office?
+## Quels navigateurs sont pris en charge pour le portail Web d'Ooma Office?
 
-Pour une meilleure expérience avec le portail Web d’Ooma Office, il est conseillé d’utiliser l'un des navigateurs Internet suivants:
+Pour une meilleure expÃ©rience avec le portail Web d'Ooma Office, il est conseillÃ© d'utiliser l'un des navigateurs Internet suivants:
 
-* Internet Explorer 11 ou supérieur
-* Firefox 30 ou supérieur
-* Safari 7 ou supérieur
-* Chrome 30 ou supérieur
+* Internet Explorer 11 ou supÃ©rieur
+* Firefox 30 ou supÃ©rieur
+* Safari 7 ou supÃ©rieur
+* Chrome 30 ou supÃ©rieur
 
-Bien qu'il soit possible d'accéder à votre portail Web d’Ooma Office à partir d'autres navigateurs Web, Ooma ne peut pas garantir que toutes ses fonctionnalités seront prises en charge.
+Bien qu'il soit possible d'accÃ©der Ã  votre portail Web d'Ooma Office Ã  partir d'autres navigateurs Web, Ooma ne peut pas garantir que toutes ses fonctionnalitÃ©s seront prises en charge.

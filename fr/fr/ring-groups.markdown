@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Groupes d'appel
 date:   2017-02-07 09:30:00
@@ -6,7 +6,7 @@ category: [wework]
 tags: [user-management, admin-features, calling, wework]
 ---
 
-Lorsque vous avez réuni une équipe d'individus pour gérer des types d'appels similaires, comme un groupe d’assistance ou de comptabilité, il est idéal d'avoir un moyen de composer un numéro et de pouvoir atteindre tous les membres du groupe en même temps ou successivement. Grâce aux groupes de sonnerie avec Ooma Office pour WeWork, vous pouvez configurer votre système pour sonner plusieurs numéros à partir d’un numéro de téléphone direct ou extension.
+Lorsque vous avez réuni une équipe d'individus pour gérer des types d'appels similaires, comme un groupe d'assistance ou de comptabilité, il est idéal d'avoir un moyen de composer un numéro et de pouvoir atteindre tous les membres du groupe en même temps ou successivement. Grâce aux groupes de sonnerie avec Ooma Office pour WeWork, vous pouvez configurer votre système pour sonner plusieurs numéros à partir d'un numéro de téléphone direct ou extension.
 
 **Remarque:** Vous connecter en tant qu'administrateur lors de l'ouverture des pages Web indiquées dans les FAQ suivants.
 
@@ -32,7 +32,7 @@ Vous pouvez créer un groupe de sonnerie en suivant ces instructions:
 5. Remplir le nom du groupe de sonneries et choisir la façon dont vous souhaitez que les extensions du groupe sonnent. Vous pouvez choisir entre les options suivantes:
 
    * ** Simultanément:** Les téléphones de tous les utilisateurs du groupe de sonneries sonneront simultanément jusqu'à ce que quelqu'un réponde.
-   * ** Consécutivement:** Les téléphones des utilisateurs du groupe de sonneries sonneront l’un après l’autre jusqu'à ce que quelqu’un réponde.
+   * ** Consécutivement:** Les téléphones des utilisateurs du groupe de sonneries sonneront l'un après l'autre jusqu'à ce que quelqu'un réponde.
 6. Sauvegarder vos modifications pour terminer la configuration du groupe de sonnerie.
 
 ## Comment puis-je modifier les membres d'un groupe de sonnerie?
@@ -78,7 +78,7 @@ Selon le but de votre groupe de sonnerie, vous voudrez peut-être que tous les t
 
 ## Comment puis-je changer la durée du groupe de sonnerie avant que l'appel ne soit transférer vers l'extension suivante ou la messagerie vocale?
 
-Vous pouvez configurer la durée de votre groupe de sonnerie jusqu’à 60 secondes avant que l'appel ne soit transmis à la messagerie vocale ou à l'extension suivante. Pour mettre à jour ce paramètre, suivre les instructions ci-dessous:
+Vous pouvez configurer la durée de votre groupe de sonnerie jusqu'à 60 secondes avant que l'appel ne soit transmis à la messagerie vocale ou à l'extension suivante. Pour mettre à jour ce paramètre, suivre les instructions ci-dessous:
 
 1. Consulter la page Web Extensions à [{{ site.office_link.fr }}/extensions]({{ site.office_link.fr }}/extensions).
 2. Cliquer sur le bouton "Paramètres" (! [Paramètres]( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) pour le groupe de sonneries que vous souhaitez mettre à jour.

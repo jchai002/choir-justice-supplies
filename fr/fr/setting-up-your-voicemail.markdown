@@ -6,34 +6,34 @@ category: [wework]
 tags: [user-management, admin-features, voicemail, wework]
 ---
 
-Il existe deux façons différentes de configurer votre messagerie vocale, selon que vous choisissez d'utiliser votre téléphone VoIP ou si vous choisissez de terminer votre configuration à partir du portail Web d'Ooma Office. Pour commencer, il faut suivre les instructions d'installation ci-dessous qui s'appliquent le mieux à l'extension que vous configurez.
+Il existe deux faÃ§ons diffÃ©rentes de configurer votre messagerie vocale, selon que vous choisissez d'utiliser votre tÃ©lÃ©phone VoIP ou si vous choisissez de terminer votre configuration Ã  partir du portail Web d'Ooma Office. Pour commencer, il faut suivre les instructions d'installation ci-dessous qui s'appliquent le mieux Ã  l'extension que vous configurez.
 
 1. Sommaire
 {:toc}
 * * *
 
-## Téléphone VoIP
+## TÃ©lÃ©phone VoIP
 
-Pour configurer la messagerie vocale à partir d'un téléphone VoIP, il suffit de décrocher le téléphone et composer votre propre numéro de poste. La première fois que vous faites cela, vous serez invité à configurer votre messagerie vocale.
+Pour configurer la messagerie vocale Ã  partir d'un tÃ©lÃ©phone VoIP, il suffit de dÃ©crocher le tÃ©lÃ©phone et composer votre propre numÃ©ro de poste. La premiÃ¨re fois que vous faites cela, vous serez invitÃ© Ã  configurer votre messagerie vocale.
 
 ## Portail Web d'Ooma Office
 
-Pour configurer la messagerie vocale à partir du portail Web d'Ooma Office, suivre les instructions ci-dessous:
+Pour configurer la messagerie vocale Ã  partir du portail Web d'Ooma Office, suivre les instructions ci-dessous:
 
-1. Consulter le portail Web d'Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et aller à l'option "Extensions" sous l'onglet "Configuration".
-2. Cliquer sur l'icône "Configuration" ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) à côté de l'extension utilisateur dont vous souhaitez configurer la messagerie vocale.
-3. Sous l'onglet "Messagerie vocale" de l'écran qui s'affiche, définir manuellement un code PIN temporaire dans les propriétés de la messagerie vocale si vous n'êtes pas le propriétaire de l'extension. Partager ce code PIN temporaire avec le propriétaire de l'extension.
-4. Demander au titulaire de l'extension de composer le [*][9][8] à partir de n'importe quel téléphone VoIP qui est connecté au système d'Ooma Office et saisir le code PIN temporaire lorsque vous y êtes invité.
-5. Le propriétaire de l'extension pourra maintenant suivre les instructions pour configurer sa messagerie vocale, y compris la sélection d'un nouveau code PIN.
+1. Consulter le portail Web d'Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et aller Ã  l'option "Extensions" sous l'onglet "Configuration".
+2. Cliquer sur l'icÃ´ne "Configuration" ( ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) ) Ã  cÃ´tÃ© de l'extension utilisateur dont vous souhaitez configurer la messagerie vocale.
+3. Sous l'onglet "Messagerie vocale" de l'Ã©cran qui s'affiche, dÃ©finir manuellement un code PIN temporaire dans les propriÃ©tÃ©s de la messagerie vocale si vous n'Ãªtes pas le propriÃ©taire de l'extension. Partager ce code PIN temporaire avec le propriÃ©taire de l'extension.
+4. Demander au titulaire de l'extension de composer le [*][9][8] Ã  partir de n'importe quel tÃ©lÃ©phone VoIP qui est connectÃ© au systÃ¨me d'Ooma Office et saisir le code PIN temporaire lorsque vous y Ãªtes invitÃ©.
+5. Le propriÃ©taire de l'extension pourra maintenant suivre les instructions pour configurer sa messagerie vocale, y compris la sÃ©lection d'un nouveau code PIN.
 
 {% comment %}
 
-       ## Écoute depuis n'importe quel téléphone VoIP d'Ooma Office
+       ## Ã‰coute depuis n'importe quel tÃ©lÃ©phone VoIP d'Ooma Office
 
-       Vous pouvez consulter votre messagerie vocale Ooma Office à partir de n'importe quel téléphone VoIP. Il suffit de décrocher n'importe quel téléphone approprié, composer le [\*][9][8], puis le numéro de l'extension dont vous souhaitez vérifier la boîte vocale. Lorsque l'appel sera dirigé vers votre boîte vocale, appuyer sur [*], puis suivre les instructions vocales.
+       Vous pouvez consulter votre messagerie vocale Ooma Office Ã  partir de n'importe quel tÃ©lÃ©phone VoIP. Il suffit de dÃ©crocher n'importe quel tÃ©lÃ©phone appropriÃ©, composer le [\*][9][8], puis le numÃ©ro de l'extension dont vous souhaitez vÃ©rifier la boÃ®te vocale. Lorsque l'appel sera dirigÃ© vers votre boÃ®te vocale, appuyer sur [*], puis suivre les instructions vocales.
 
 {% endcomment %}
 
-## Écoute depuis n'importe quel téléphone
+## Ã‰coute depuis n'importe quel tÃ©lÃ©phone
 
-Vous pouvez consulter votre messagerie vocale Ooma Office depuis n'importe quel téléphone. Composer votre extension via la réceptionniste virtuelle ou en appelant votre propre numéro. Attendre jusqu'à ce que l'appel soit dirigé vers votre messagerie vocale Ooma Office, puis appuyer sur [*] et suivre les instructions vocales.
+Vous pouvez consulter votre messagerie vocale Ooma Office depuis n'importe quel tÃ©lÃ©phone. Composer votre extension via la rÃ©ceptionniste virtuelle ou en appelant votre propre numÃ©ro. Attendre jusqu'Ã  ce que l'appel soit dirigÃ© vers votre messagerie vocale Ooma Office, puis appuyer sur [*] et suivre les instructions vocales.
