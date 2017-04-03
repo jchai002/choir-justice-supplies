@@ -14,7 +14,7 @@ Le portail Web d'Ooma Office pour WeWork est l'endroit où vous allez administre
 
 ## Comment puis-je me connecter au portail Web d'Ooma Office?
 
-Vous pouvez vous connecter au portail Web Ooma Office pour WeWork en consultant [https://office.ooma.com/](https://office.ooma.com/) avec un navigateur Web. Votre nom d'utilisateur est le numéro de téléphone principal de votre entreprise et le mot de passe est celui que vous avez défini lors de la création du compte.
+Vous pouvez vous connecter au portail Web Ooma Office pour WeWork en consultant [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) avec un navigateur Web. Votre nom d'utilisateur est le numéro de téléphone principal de votre entreprise et le mot de passe est celui que vous avez défini lors de la création du compte.
 
 Si vous ne vous souvenez pas du mot de passe de votre portail Web Ooma Office, vous pouvez le récupérer en suivant les instructions de [ce FAQ](/fr/fr/recovering-a-lost-password).
 
@@ -22,35 +22,35 @@ Si vous ne vous souvenez pas du mot de passe de votre portail Web Ooma Office, v
 
 L'onglet Utiliser dans le portail Web d'Ooma Office vous permet de faire les actions suivantes :
 
-* Consulter les appels entrants, sortants et internes de votre compte [Journal d'Appels](https://office.ooma.com/call_logs)
-* Consulter les entrées et sorties de votre compte [journaux de fax](https://office.ooma.com/fax_logs)
+* Consulter les appels entrants, sortants et internes de votre compte [Journal d'Appels]({{ site.office_link.fr }}/call_logs)
+* Consulter les entrées et sorties de votre compte [journaux de fax]({{ site.office_link.fr }}/fax_logs)
 * Activer le serveur de conférence
 
 ## Que puis-je faire sous l'onglet Paramètres?
 
 L'onglet Paramètre du portail Web d'Ooma Office vous permet d'effectuer les opérations suivantes:
 
-* Ajouter et gérer les [extensions] de votre compte (https://office.ooma.com/extensions)
-* Ajouter et gérer les [numéros de téléphone] de votre compte (https://office.ooma.com/phone_numbers)
-* Configurer votre [réceptionniste virtuel] inclus (https://office.ooma.com/virtual_receptionist)
-* Gérer le [serveur de conférence](https://office.ooma.com/conferences) (si activé)
-* Mettre à jour votre compte [préférences](https://office.ooma.com/preferences)
+* Ajouter et gérer les [extensions] de votre compte 
+* Ajouter et gérer les [numéros de téléphone]({{ site.office_link.fr }}/phone_numbers) de votre compte 
+* Configurer votre [réceptionniste virtuel]({{ site.office_link.fr }}/virtual_receptionist) inclus 
+* Gérer le [serveur de conférence]({{ site.office_link.fr }}/conferences) (si activé)
+* Mettre à jour votre compte [préférences]({{ site.office_link.fr }}/preferences)
 
 ## Que puis-je faire sous l'onglet Compte?
 
 L'onglet Compte dans le portail Web d'Ooma Office vous permet de faire ce qui suit:
 
-* Afficher et mettre à jour vos [paramètres de compte](https://office.ooma.com/settings)
-* Consulter l'historique de facturation de votre compte et mettre à jour vos [informations de facturation](https://office.ooma.com/billing)
-* Vérifier l'état de tous les [numéros de ports](https://office.ooma.com/porting_status) 
+* Afficher et mettre à jour vos [paramètres de compte]({{ site.office_link.fr }}/settings)
+* Consulter l'historique de facturation de votre compte et mettre à jour vos [informations de facturation]({{ site.office_link.fr }}/billing)
+* Vérifier l'état de tous les [numéros de ports]({{ site.office_link.fr }}/porting_status) 
 
 ## Que puis-je faire sous l'onglet Extensions?
 
 L'onglet Extensions du portail Web d'Ooma Office vous permet de faire ce qui suit:
 
-* Acheter [téléphones VoIP](https://office.ooma.com/ip_phones pour Ooma Office
-* Initier le [processus de portage](https://office.ooma.com/number_porting) pour un ou plusieurs numéros de téléphone
-* Consulter l'activité de votre [compte prépayé](https://office.ooma.com/prepaid_account) et ajouter des fonds si nécessaire
+* Acheter [téléphones VoIP]({{ site.office_link.fr }}/ip_phones) pour Ooma Office
+* Initier le [processus de portage]({{ site.office_link.fr }}/number_porting) pour un ou plusieurs numéros de téléphone
+* Consulter l'activité de votre [compte prépayé]({{ site.office_link.fr }}/prepaid_account) et ajouter des fonds si nécessaire
 
 ## Que puis-je faire sous l'onglet Assistant?
 
