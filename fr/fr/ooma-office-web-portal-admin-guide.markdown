@@ -30,7 +30,7 @@ L'onglet Utiliser dans le portail Web d'Ooma Office vous permet de faire les act
 
 L'onglet Paramètre du portail Web d'Ooma Office vous permet d'effectuer les opérations suivantes:
 
-* Ajouter et gérer les [extensions] de votre compte 
+* Ajouter et gérer les [extensions]({{ site.office_link.fr }}/extensions) de votre compte 
 * Ajouter et gérer les [numéros de téléphone]({{ site.office_link.fr }}/phone_numbers) de votre compte 
 * Configurer votre [réceptionniste virtuel]({{ site.office_link.fr }}/virtual_receptionist) inclus 
 * Gérer le [serveur de conférence]({{ site.office_link.fr }}/conferences) (si activé)
