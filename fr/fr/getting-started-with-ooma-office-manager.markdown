@@ -27,7 +27,7 @@ Votre compte Ooma Office vous permet de personnaliser la configuration de votre 
 
 ## Comment puis-je me connecter à mon compte Ooma Office ?
 
-Vous pouvez vous connecter en vous rendant sur [https://office.ooma.com/](https://office.ooma.com/) avec un navigateur.
+Vous pouvez vous connecter en vous rendant sur [{{ site.office_link.fr }}/]({{ site.office_link.fr }}/) avec un navigateur.
 
 Sélectionner le drapeau de votre pays dans la liste déroulante puis entrer votre numéro de téléphone Ooma Office en tant qu'[identifiant].
 
@@ -51,19 +51,19 @@ L'onglet ["Utilisation"] est l'endroit où vous pourrez trouver toutes les infor
 
 L'onglet ["Configuration"] est au cœur de l'administration du compte. Utilisez cet onglet pour configurer votre Réceptionniste virtuelle, gérer vos lignes téléphoniques et vos numéros de téléphone et plus encore. Cet onglet vous donne accès à :
 
-* [Extensions](https://office.ooma.com/#extensions)
-* [Numbers](https://office.ooma.com/#manage_phone_number)
-* [Receptionist](https://office.ooma.com/#virtual_receptionist)
-* [Conferences](https://office.ooma.com/#conferences)
-* [Preferences](https://office.ooma.com/#preferences)
+* [Extensions]({{ site.office_link.fr }}/#extensions)
+* [Numbers]({{ site.office_link.fr }}/#manage_phone_number)
+* [Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)
+* [Conferences]({{ site.office_link.fr }}/#conferences)
+* [Preferences]({{ site.office_link.fr }}/#preferences)
 
 ## Quels sont les paramètres correspondants à l'onglet ["Compte"] ?
 
 L'onglet ["Compte"] vous donne accès à : la gestion de votre compte et tous ses paramètres, y compris :
 
-* [Settings](https://office.ooma.com/settings)
-* [Billing](https://office.ooma.com/billing)
-* [Porting Status](https://office.ooma.com/porting_status)
+* [Settings]({{ site.office_link.fr }}/settings)
+* [Billing]({{ site.office_link.fr }}/billing)
+* [Porting Status]({{ site.office_link.fr }}/porting_status)
 
 Vous pouvez y gérer les éléments suivants dans la partie ["Paramètres"] : 
 
@@ -75,9 +75,9 @@ Vous pouvez y gérer les éléments suivants dans la partie ["Paramètres"] :
 
 Si vous souhaitez ajouter un service supplémentaire, il vous faudra vous rendre dans l'onglet ["Extensions"]. Vous pourrez y :
 
-* Louer d'autres [IP phones](https://office.ooma.com/ip_phones/yealink_t23g) qui vous permettront de faire croître votre configuration Ooma Office
-* Ajouter des fonds et gérer votre [Prepaid Account](https://office.ooma.com/#prepaid_account)
-* Créer et vérifier l'état d'un [Phone Number Port](https://office.ooma.com/#number_porting)
+* Louer d'autres [IP phones]({{ site.office_link.fr }}/ip_phones/yealink_t23g) qui vous permettront de faire croître votre configuration Ooma Office
+* Ajouter des fonds et gérer votre [Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)
+* Créer et vérifier l'état d'un [Phone Number Port]({{ site.office_link.fr }}/#number_porting)
 
 ## Dans combien de temps mes modifications réalisées dans Ooma Office prendront-elles effet ?
 

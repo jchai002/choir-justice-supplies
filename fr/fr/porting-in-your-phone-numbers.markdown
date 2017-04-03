@@ -42,7 +42,7 @@ Le processus de portage de votre numéro depuis votre opérateur actuel vers Oom
 
 Une fois que vous avez décidé de sauter le pas et porter votre numéro, vous aurez besoin de suivre les étapes suivantes :
 
-1. Se connecter au Gestionnaire Ooma Office et se rendre sur l'onglet [Postes]. Sélectionner l'option "[Portage de numéro](https://office.ooma.com/number_porting)" option.
+1. Se connecter au Gestionnaire Ooma Office et se rendre sur l'onglet [Postes]. Sélectionner l'option "[Portage de numéro]({{ site.office_link.fr }}/number_porting)" option.
 2. Lire les instructions soigneusement puis cliquer sur ["Démarrer portage du numéro".]
 3. Remplir la Demande de portage de numéro avec les informations de compte suivantes :
 
@@ -61,7 +61,7 @@ Une fois que vous avez décidé de sauter le pas et porter votre numéro, vous a
 
 ## Comment puis-je vérifier où en est mon portage ?
 
-Une fois le portage de votre numéro lancé, vous pouvez connaître son statut à tout moment en vous rendant l'onglet "[Statut du portage](https://office.ooma.com/number_porting)" dans le Gestionnaire Ooma Office, tel que montré ci-dessous :
+Une fois le portage de votre numéro lancé, vous pouvez connaître son statut à tout moment en vous rendant l'onglet "[Statut du portage]({{ site.office_link.fr }}/number_porting)" dans le Gestionnaire Ooma Office, tel que montré ci-dessous :
 
 <p align="center"><img alt="statut du portage" src="{{ site.baseurl }}/assets/images/ooma_office_manager/porting_status.png" /></p>
  

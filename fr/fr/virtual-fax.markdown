@@ -30,7 +30,7 @@ Pour en savoir plus sur les tarifs des services supplémentaires et l'ajout de c
 
 Vous pouvez vous inscrire en suivant les étapes suivantes :
 
-1. Se connecter à [https://office.ooma.com/](https://office.ooma.com/) en tant qu'administrateur et se rendre sur l'écran [Gérer postes](https://office.ooma.com/extensions).
+1. Se connecter à [{{ site.office_link.fr }}/]({{ site.office_link.fr }}/) en tant qu'administrateur et se rendre sur l'écran [Gérer postes]({{ site.office_link.fr }}/extensions).
 2. Cliquer sur le nom de l'utilisateur sur le poste duquel vous souhaitez activer le fax virtuel.
 3. Suivre les instructions indiquées sur l'écran et choisir un numéro de fax dédié.
 4. Cliquer sur le bouton [Enregistrer].
@@ -38,7 +38,7 @@ Vous pouvez vous inscrire en suivant les étapes suivantes :
 ## Comment puis-je envoyer un fax virtuel ?
 Pour envoyer un fax virtuel, les utilisateurs doivent suivre les étapes suivantes :
 
-1. Se connecter à [https://office.ooma.com/](https://office.ooma.com/) et se rendre sur l'option [Envoyer Fax](https://office.ooma.com/fax_send) située sous l'onglet [Accueil]. 
+1. Se connecter à [{{ site.office_link.fr }}/]({{ site.office_link.fr }}/) et se rendre sur l'option [Envoyer Fax]({{ site.office_link.fr }}/fax_send) située sous l'onglet [Accueil]. 
 2. Saisir le numéro de fax de destination et sélectionner le numéro Ooma Office depuis lequel votre fax doit être envoyé
 3. Attacher un fichier PDF ou TIFF depuis votre ordinateur.
 4. Cliquer sur le bouton [Envoyer Fax].

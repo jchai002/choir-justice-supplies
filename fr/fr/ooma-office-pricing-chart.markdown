@@ -42,7 +42,7 @@ Avec Ooma Office pour WeWork, vous ne payez que ce que vous utilisez. Nous avons
 </tr>
 <tr>
 <td class="indent">Autres destinations internationales</td>
-<td style="text-align:center;"><a href="https://office.ooma.com/prepaid_account">Se reporter aux tarifs des appels</a></td>
+<td style="text-align:center;"><a href="{{ site.office_link.fr }}/prepaid_account">Se reporter aux tarifs des appels</a></td>
 </tr>
 <tr>
 <td class="indent"><a href="/fr/fr/conference-server">Pont de conférence</a> (comprend le numéro de téléphone)</td>

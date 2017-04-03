@@ -23,7 +23,7 @@ Pour configurer un nouveau poste utilisateur ou un nouveau groupe d'appels, il v
 3. Remplir tous les renseignements demandés pour le nouveau poste et sélectionner un numéro de poste disponible. Les renseignements demandés varieront selon le type de poste créé.
 4. Enregistrer vos modifications.
 
-Si vous souhaitez mettre en place un poste de conférence, rendez-vous sur [https://office.ooma.com/conferences](https://office.ooma.com/conferences) et cliquez sur le bouton ["Configurer le serveur de conférences"].
+Si vous souhaitez mettre en place un poste de conférence, rendez-vous sur [{{ site.office_link.fr }}/conferences]({{ site.office_link.fr }}/conferences) et cliquez sur le bouton ["Configurer le serveur de conférences"].
 
 ## Quels types de postes puis-je mettre en place ?
 

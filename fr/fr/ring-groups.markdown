@@ -89,7 +89,7 @@ Vous pouvez configurer la durée de votre groupe de sonnerie jusqu'à 60 seconde
 
 Vous pouvez attribuer un ou plusieurs numéros de téléphone direct pour donner un accès direct à un groupe de sonnerie en suivant ces instructions:
 
-1. Consulter la page Web Numéros de téléphone [https://office.ooma.com/#manage_phone_number](https://office.ooma.com/#manage_phone_number).
+1. Consulter la page Web Numéros de téléphone [{{ site.office_link.fr }}/#manage_phone_number]({{ site.office_link.fr }}/#manage_phone_number).
 2. Vous verrez un tableau comme celui ci-dessous avec une entrée pour chacun des numéros de téléphone de votre entreprise:
 
    ! [administrer numéros de téléphone]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png)

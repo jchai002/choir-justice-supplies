@@ -12,7 +12,7 @@ Le réceptionniste virtuel est un outil polyvalent qui peut tout faire, depuis r
 
 Lorsque vous activez votre compte Ooma Office, votre réceptionniste virtuel sera créé et configuré automatiquement. Votre configuration par défaut comprend un message d'accueil personnalisé converti en parole depuis du texte avec le nom de votre entreprise. Vous pouvez appuyer sur 0 pour connecter votre premier poste Ooma Office.
 
-Vous pouvez configurer de nombreux paramètres pour votre réceptionniste virtuel. Pour démarrer la configuration de votre compte, connectez-vous à votre portail de gestion Ooma Office et rendez-vous sur "[Réceptioniste](https://office.ooma.com/#virtual_receptionist)" sous l'onglet "Gestion".
+Vous pouvez configurer de nombreux paramètres pour votre réceptionniste virtuel. Pour démarrer la configuration de votre compte, connectez-vous à votre portail de gestion Ooma Office et rendez-vous sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Gestion".
 
 À partir de là, vous pouvez configurer les paramètres et options suivants :
 

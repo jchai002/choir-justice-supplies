@@ -16,13 +16,13 @@ Une fois votre compte Ooma Office installé, vous pouvez effectuer des appels il
 
 Votre Compte Prépayé sera alimenté par les fonds de votre carte bancaire que vous avez enregistré lors du processus d’activation. Vous pouvez ajouter des fonds à votre Compte Prépayé en suivant les instructions ci-dessous:
 
-1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et consulter "[Prepaid Account](https://office.ooma.com/#prepaid_account)" sous l'onglet "Extensions".
+1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et consulter "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" sous l'onglet "Extensions".
 2. Cliquer sur "Ajouter Fonds" sous l'onglet "Solde".
 3. Sélectionner le montant que vous souhaitez ajouter dans le menu déroulant, puis cliquer sur "Acheter" pour terminer votre achat.
 
 ## Comment puis-je vérifier le solde de mon Compte Prépayé?
 
-Vous pouvez vérifier le solde de votre Compte Prépayé à tout moment en visitant "[Prepaid Account](https://office.ooma.com/#prepaid_account)" sous l'onglet "Extensions" dans Gestionnaire Ooma Office.
+Vous pouvez vérifier le solde de votre Compte Prépayé à tout moment en visitant "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" sous l'onglet "Extensions" dans Gestionnaire Ooma Office.
 
 ## Qui peut vérifier le solde du Compte Prépayé?
 
@@ -32,7 +32,7 @@ Toute personne ayant accès au portail Gestionnaire Ooma Office peut vérifier l
 
 Vous pouvez définir des recharges automatiques pour vous assurer que vos employés auront toujours les fonds nécessaires au cours d'un appel important. Pour commencer, il faut suivre les instructions ci-dessous:
 
-1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et consulter [Prepaid Account](https://office.ooma.com/#prepaid_account)  sous l'onglet "Extensions".
+1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et consulter [Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)  sous l'onglet "Extensions".
 2. Sous "Paramètres", vous pouvez choisir un montant prédéfini qui sera ajouté à votre compte prépayé chaque fois qu'il passera en dessous d'un certain niveau: \\
    ![add funds]({{ site.baseurl }}/assets/images/ooma_office_manager/prepaid_account_add_funds.png){:height="250px"}
 
@@ -58,6 +58,6 @@ L'argent sur votre compte prépayé n'expire jamais. Vous ne serez jamais factur
 
 Vous pouvez en apprendre davantage sur les tarifs des appels internationaux vers des pays spécifiques en suivant les instructions ci-dessous :
 
-1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et consulter "[Prepaid Account](https://office.ooma.com/#prepaid_account)" sous l'onglet "Extensions".
+1. Se connecter à votre Gestionnaire Ooma Office [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et consulter "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" sous l'onglet "Extensions".
 2. Cliquer sur "Voir Tarif" sous "Tarifs Appels Internationaux".
 3. Sélectionner le pays que vous souhaitez rechercher. Vous verrez une liste de tous les tarifs pour téléphoner dans ce pays.

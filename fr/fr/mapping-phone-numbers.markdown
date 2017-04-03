@@ -10,7 +10,7 @@ Le package Basic Ooma Office pour WeWork vient avec un numéro de téléphone pa
 
 Vous pouvez mapper un téléphone en suivant les étapes suivantes :
 
-1. Se connecter au Gestionnaire Ooma Office à  [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et se rendre sur "[Numéros de téléphone](https://office.ooma.com/#manage_phone_number)" sous l'onglet "Configuration".
+1. Se connecter au Gestionnaire Ooma Office à  [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) et se rendre sur "[Numéros de téléphone]({{ site.office_link.fr }}/#manage_phone_number)" sous l'onglet "Configuration".
 2. Faire défiler jusqu'à l'écran du ["Mapping du numéro de téléphone"] où vous verrez s'afficher une liste des numéros de téléphone disponibles sur votre compte : \\
    ![available numbers]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png)
 
