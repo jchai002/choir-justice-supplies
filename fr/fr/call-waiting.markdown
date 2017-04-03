@@ -22,7 +22,7 @@ Oui, vous devriez être en mesure de voir l’identifiant de l’appelant du deu
 
 ## Puis-je mettre en conférence le deuxième appel avec le premier appel?
 
-Vous pouvez mettre en conférence deux appels ensemble en suivant les instructions de notre [Guide de l'utilisateur du téléphone VoIP](office/yealink-user-guide#three-way-call-conferencing). Vous pouvez en savoir plus sur la conférence téléphonique avec Ooma Office [en visitant notre FAQ](/fr/fr/three-way-call-conferencing).
+Vous pouvez mettre en conférence deux appels ensemble en suivant les instructions de notre [Guide de l'utilisateur du téléphone VoIP](office/yealink-user-guide#conférence-téléphonique-à-trois). Vous pouvez en savoir plus sur la conférence téléphonique avec Ooma Office [en visitant notre FAQ](/fr/fr/three-way-call-conferencing).
 
 ## Comment désactiver l'appel en attente pour mon extension ?
 
