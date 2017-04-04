@@ -8,7 +8,7 @@ tags: [activation-and-setup, getting-started, phone-number, porting, wework]
 
 If you have already established your business identity using an existing telephone number, it can be inconvenient to change to a new number when you change carriers. With Ooma Office, you have the option to keep your existing phone number or numbers when you say goodbye to your old carrier. Best of all, porting is free for Ooma Office customers.
 
-**Important:** Please note that it takes an average of three to four weeks to complete the porting process. Number porting is supported in most calling areas. You can check whether your current phone number can be ported to Ooma by visiting [http://www.ooma.com/business-choose-number/](http://www.ooma.com/business-choose-number). 
+**Important:** Please note that it takes an average of three to four weeks to complete the porting process. Number porting is supported in the Paris calling area. We cannot guarantee that numbers from outside of the Paris calling area will work at this time. 
 
 If you have DSL Internet service, please keep in mind that porting your number may disrupt your DSL service.
 
