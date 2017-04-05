@@ -8,7 +8,7 @@ tags: [activation-and-setup, getting-started, phone-number, porting, wework]
 
 Si vous avez déjà établi l'identité de votre entreprise avec un numéro de téléphone existant, il peut être gênant de passer à un nouveau numéro de téléphone lorsque que vous changez d'opérateur téléphonique. Ooma Office vous permet de conserver votre numéro de téléphone lorsque vous quittez votre ancien opérateur. Et mieux encore, le portage est gratuit pour les clients Ooma Office.
 
-**Important :** Veuillez noter qu'il faut compter en moyenne trois à quatre semaines pour le portage. Le portage de numéro est supporté dans la plupart des zones d'appels. Vous pouvez vérifier si votre numéro de téléphone actuel peut être porté vers Ooma en visitant [http://www.ooma.com/business-choose-number/](http://www.ooma.com/business-choose-number). 
+** Important: ** Veuillez noter qu'il faut en moyenne trois à quatre semaines pour compléter le processus de portage. Le portage est supporté pour les numéros dans la région d'appel des alentours de Paris. Nous ne pouvons pas garantir que les numéros provenant d'ailleurs peuvent être portés en ce moment.
 
 Si vous avez un service Internet ADSL, il se peut que le portage de votre numéro perturbe ce service.
 
