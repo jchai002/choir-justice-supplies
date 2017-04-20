@@ -6,83 +6,79 @@ category: [wework]
 tags: [add-ons, basic-setup, personalization, phone-number, porting, wework]
 ---
 
-With Ooma Office for WeWork, you only need to pay for the services, capacity, and equipment that you use. We've created the chart below to outline the prices for each product and service that can be added on so that you can make informed decisions as you customize and grow your business telephone setup.
+With Ooma Office for WeWork, you only need to pay for the capacity that you use. We've created the chart below to help you understand our pricing structure so that you can make informed decisions. All prices include VAT.
 
 <p style="width:700px; margin-left:auto; margin-right:auto">
 <table id="pricingTable">
 <thead>
 <tr>
 <td></td>
-<th style="text-align:center; width:115px;">USD Price</th>
-<th style="text-align:center; width:115px;">CAD Price</th>
-<th style="text-align:center;">Billing Frequency</th>
+<th style="text-align:center; width:150px;">USD price per month</th>
+<th style="text-align:center; width:150px;">CAD price per month</th>
 </tr>
 </thead>
+<tr class="subheader">
+<th style="padding-left:3px;">User Type</th>
+<td></td>
+</tr>
 <tr>
-<td class="indent">Ooma Office for WeWork base price (includes IP phone rental and a local phone number)</td>
+<td class="indent"><a href="/us/en/setting-up-extensions">Ooma Office for WeWork user extension</a></td>
 <td style="text-align:center;">$50.00</td>
-<td style="text-align:center;">$60.00</td>
-<td style="text-align:center;">Monthly</td>
+<td style="text-align:center;">$50.00</td>
 </tr>
 <tr class="subheader">
-<th style="padding-left:3px;">Capacity</th>
-<td></td>
-<td></td>
+<th style="padding-left:3px;">Features</th>
 <td></td>
 </tr>
 <tr>
-<td class="indent"><a href="/us/en/setting-up-extensions">User extension</a> (includes IP phone rental, virtual fax, and a local phone number)</td>
-<td style="text-align:center;">$50.00</td>
-<td style="text-align:center;">$60.00</td>
-<td style="text-align:center;">Monthly</td>
+<td class="indent">IP phone rental</td>
+<td style="text-align:center;">Included</td>
+<td style="text-align:center;">Included</td>
 </tr>
 <tr>
-<td class="indent"><a href="/us/en/adding-additional-phone-numbers">Local phone number</a></td>
+<td class="indent">Unlimited calls to cell phones and landlines in the US and Canada</td>
+<td style="text-align:center;">Included</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent">Other international calling destinations</td>
+<td style="text-align:center;"><a href="https://office.ooma.com/prepaid_account">View calling rates</a></td>
+<td style="text-align:center;"><a href="https://office.ooma.com/prepaid_account">View calling rates</a></td>
+</tr>
+<tr>
+<td class="indent"><a href="/us/en/conference-server">Conference bridge</a> (includes phone number)</td>
+<td style="text-align:center;">Included</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent"><a href="/us/en/virtual-fax">Virtual fax</a> (includes phone number)</td>
+<td style="text-align:center;">Included</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent"><a href="/us/en/ring-groups">Ring groups</a></td>
+<td style="text-align:center;">Included</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent"><a href="/us/en/virtual-receptionist">Virtual receptionist</a></td>
+<td style="text-align:center;">Included</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent"><a href="/us/en/porting-in-your-phone-numbers">Number porting</a></td>
+<td style="text-align:center;">Included*</td>
+<td style="text-align:center;">Included*</td>
+</tr>
+<tr>
+<td class="indent"><a href="/us/en/adding-additional-phone-numbers">Additional local phone number</a></td>
 <td style="text-align:center;">$9.95</td>
 <td style="text-align:center;">$14.95</td>
-<td style="text-align:center;">Monthly</td>
 </tr>
 <tr>
 <td class="indent"><a href="/us/en/adding-additional-phone-numbers">Toll free phone number</a> (includes 500 minutes, 3.4¢ per additional minute)</td>
 <td style="text-align:center;">$9.95</td>
 <td style="text-align:center;">$14.95</td>
-<td style="text-align:center;">Monthly</td>
-</tr>
-<tr>
-<td class="indent"><a href="/us/en/conference-server">Conference bridge</a> (includes phone number)</td>
-<td style="text-align:center;">Free</td>
-<td style="text-align:center;">Free</td>
-<td style="text-align:center;">N/A</td>
-</tr>
-<tr>
-<td class="indent"><a href="/us/en/ring-groups">Ring groups</a></td>
-<td style="text-align:center;">Free</td>
-<td style="text-align:center;">Free</td>
-<td style="text-align:center;">N/A</td>
-</tr>
-<tr>
-<td class="indent"><a href="/us/en/virtual-receptionist">Virtual receptionist</a></td>
-<td style="text-align:center;">Free</td>
-<td style="text-align:center;">Free</td>
-<td style="text-align:center;">N/A</td>
-</tr>
-<tr class="subheader">
-<th style="padding-left:3px;">Services</th>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td class="indent"><a href="/us/en/porting-in-your-phone-numbers">Number porting</a></td>
-<td style="text-align:center;">Free*</td>
-<td style="text-align:center;">Free*</td>
-<td style="text-align:center;">N/A</td>
-</tr>
-<tr>
-<td class="indent">International calling</td>
-<td style="text-align:center;">Varies by use</td>
-<td style="text-align:center;">Varies by use</td>
-<td style="text-align:center;">Deducted from <a href="/us/en/setting-up-your-prepaid-account">prepaid account</a> after each call</td>
 </tr>
 </table>
 </p>
