@@ -6,7 +6,7 @@ category: [wework]
 tags: [add-ons, basic-setup, personalization, phone-number, porting, wework]
 ---
 
-With Ooma Office for WeWork, you only need to pay for the capacity that you use. We've created the chart below to help you understand our pricing structure so that you can make informed decisions. All prices include VAT.
+With Ooma Office for WeWork, you only need to pay for the capacity that you use. We've created the chart below to help you understand our pricing structure so that you can make informed decisions.
 
 <p style="width:700px; margin-left:auto; margin-right:auto">
 <table id="pricingTable">
