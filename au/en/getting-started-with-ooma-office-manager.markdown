@@ -27,7 +27,7 @@ Your Ooma Office account allows you to personalize your Ooma Office for WeWork s
 
 ## How do I sign into my Ooma Office account?
 
-You can sign in by visiting [{{ site.office_link.fr }}/]({{ site.office_link.fr }}/) with a web browser.
+You can sign in by visiting [{{ site.office_link.au }}/]({{ site.office_link.au }}/) with a web browser.
 
 Select the correct flag for your country from the dropdown, and then enter your Ooma Office phone number as your username.
 
@@ -51,19 +51,19 @@ The "Use" tab is where you will review information about your account's usage. U
 
 The "Setup" tab is the heart of your account administration. Use this tab to set up your Virtual Receptionist, manage your phone lines and phone numbers, and more. Through the "Setup" tab, you will have access to:
 
-* [Extensions]({{ site.office_link.fr }}/#extensions)
-* [Numbers]({{ site.office_link.fr }}/#manage_phone_number)
-* [Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)
-* [Conferences]({{ site.office_link.fr }}/#conferences)
-* [Preferences]({{ site.office_link.fr }}/#preferences)
+* [Extensions]({{ site.office_link.au }}/#extensions)
+* [Numbers]({{ site.office_link.au }}/#manage_phone_number)
+* [Receptionist]({{ site.office_link.au }}/#virtual_receptionist)
+* [Conferences]({{ site.office_link.au }}/#conferences)
+* [Preferences]({{ site.office_link.au }}/#preferences)
 
 ## What settings are located under the Account tab?
 
 The "Account" tab is where you will have access to: manage your account and its settings, including:
 
-* [Settings]({{ site.office_link.fr }}/settings)
-* [Billing]({{ site.office_link.fr }}/billing)
-* [Porting Status]({{ site.office_link.fr }}/porting_status)
+* [Settings]({{ site.office_link.au }}/settings)
+* [Billing]({{ site.office_link.au }}/billing)
+* [Porting Status]({{ site.office_link.au }}/porting_status)
 
 You can manage the following items in the "Settings" section:
 
@@ -75,9 +75,9 @@ You can manage the following items in the "Settings" section:
 
 If you are interested in adding additional service, you will visit the "Add-ons" tab. There you can do the following:
 
-* Rent additional [IP phones]({{ site.office_link.fr }}/ip_phones/yealink_t23g) that can help you grow your Ooma Office setup
-* Add funds to and manage your [Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)
-* Initiate and check the status of a [Phone Number Port]({{ site.office_link.fr }}/#number_porting)
+* Rent additional [IP phones]({{ site.office_link.au }}/ip_phones/yealink_t23g) that can help you grow your Ooma Office setup
+* Add funds to and manage your [Prepaid Account]({{ site.office_link.au }}/#prepaid_account)
+* Initiate and check the status of a [Phone Number Port]({{ site.office_link.au }}/#number_porting)
 
 ## How long will it take for my changes in Ooma Office to take effect?
 

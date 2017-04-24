@@ -16,13 +16,13 @@ Once you have your Ooma Office set up, you can make unlimited calls to landlines
 
 Your Prepaid Account will draw funds from the credit card that you added to your account during the activation process. You can add funds to your Prepaid Account by following these instructions:
 
-1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" under the "Add-Ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}/) and navigate to "[Prepaid Account]({{ site.office_link.au }}/#prepaid_account)" under the "Add-Ons" tab.
 2. Click on "Add Funds" under the "Balance" tab.
 3. Choose the amount that you would like to add from the drop-down menu and then click "Buy" to complete your purchase.
 
 ## How can I check my Prepaid Account balance?
 
-You can check your Prepaid Account balance at any time by visiting "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" under the "Add-ons" tab in Ooma Office Manager.
+You can check your Prepaid Account balance at any time by visiting "[Prepaid Account]({{ site.office_link.au }}/#prepaid_account)" under the "Add-ons" tab in Ooma Office Manager.
 
 ## Who can check the balance of the Prepaid Account?
 
@@ -32,7 +32,7 @@ Anyone with access to the Ooma Office Manager portal can check the balance on th
 
 You can set up automatic refills to ensure that your employees never run out of funds in the middle of an important call. To get started, follow these steps:
 
-1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to [Prepaid Account]({{ site.office_link.fr }}/#prepaid_account) under the "Add-ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}/) and navigate to [Prepaid Account]({{ site.office_link.au }}/#prepaid_account) under the "Add-ons" tab.
 2. Under "Settings," you can choose a preset dollar amount that will be added to your Prepaid Account whenever it drops below a certain level: \\
    ![add funds]({{ site.baseurl }}/assets/images/ooma_office_manager/prepaid_account_add_funds.png){:height="250px"}
 
@@ -47,7 +47,7 @@ You can use your Prepaid Account to make international phone calls outside of Fr
 
 At this time, there is no way to undo a transaction of money into your Prepaid Account. If you find that you've accidentally added too much, you have two options:
 
-* You can contact [Customer Care](/fr/en/contact-us) and request that the transfer be canceled.
+* You can contact [Customer Care](/au/en/contact-us) and request that the transfer be canceled.
 * You can let the money remain in your Prepaid Account until you need it. Don't worry -- it won't expire and you'll never be charged a monthly fee.
 
 ## Does the money in my Prepaid Account ever expire?
@@ -58,6 +58,6 @@ Money in your Prepaid Account never expires. You will never be charged monthly f
 
 You can learn more about international calling rates to specific countries by following these instructions:
 
-1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Prepaid Account]({{ site.office_link.fr }}/#prepaid_account)" under the "Add-Ons" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}/) and navigate to "[Prepaid Account]({{ site.office_link.au }}/#prepaid_account)" under the "Add-Ons" tab.
 2. Click "View rates" under "International Calling Rates."
 3. Select the country you wish to search for. You will see a list of all calling rates for that country.

@@ -24,13 +24,13 @@ Each user extension can enable virtual fax, along with a dedicated phone number 
 
 Virtual fax is included in your Ooma Office subscription. 
 
-To learn more about our pricing structure for additional services and capacity, please visit our [pricing chart](/fr/en/ooma-office-pricing-chart).
+To learn more about our pricing structure for additional services and capacity, please visit our [pricing chart](/au/en/ooma-office-pricing-chart).
 
 ## How do I sign up for virtual fax?
 
 You can sign up for virtual fax by following these instructions:
 
-1. Log into [{{ site.office_link.fr }}/]({{ site.office_link.fr }}/) as an administrator and navigate to the [Manage Extensions]({{ site.office_link.fr }}/extensions) screen.
+1. Log into [{{ site.office_link.au }}/]({{ site.office_link.au }}/) as an administrator and navigate to the [Manage Extensions]({{ site.office_link.au }}/extensions) screen.
 2. Click the name of the user on whose extension you will enable virtual fax.
 3. Follow the on-screen instructions to choose a dedicated faxing phone number.
 4. Click the Save button.
@@ -39,7 +39,7 @@ You can sign up for virtual fax by following these instructions:
 
 To send a virtual fax, users can follow these instructions:
 
-1. Log into the End User Portal at [{{ site.office_link.fr }}/]({{ site.office_link.fr }}/) and navigate to the [Send Fax]({{ site.office_link.fr }}/fax_send) option beneath the Home tab. 
+1. Log into the End User Portal at [{{ site.office_link.au }}/]({{ site.office_link.au }}/) and navigate to the [Send Fax]({{ site.office_link.au }}/fax_send) option beneath the Home tab. 
 2. Enter the destination fax number and select the Ooma Office number from which your fax will be sent.
 3. Attach a PDF or TIFF file from your computer.
 4. Click on the Send Fax button.

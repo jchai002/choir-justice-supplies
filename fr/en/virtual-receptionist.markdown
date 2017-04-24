@@ -12,7 +12,7 @@ The virtual receptionist is a versatile tool that can do everything from directi
 
 When you activate your Ooma Office account, your virtual receptionist will be created and set up automatically. Your default setup includes a text-to-speech voice greeting personalized with your company's name. You can press 0 to connect to your first Ooma Office extension.
 
-You can configure many of the settings for your virtual receptionist. To get started setting up your account, log into your Ooma Office Manager portal and visit "[Receptionist](https://office.ooma.com/#virtual_receptionist)" under the "Manage" tab.
+You can configure many of the settings for your virtual receptionist. To get started setting up your account, log into your Ooma Office Manager portal and visit "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Manage" tab.
 
 From there, you can configure the following settings and options:
 

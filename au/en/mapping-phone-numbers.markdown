@@ -20,7 +20,7 @@ You can update the default destination for all phone numbers with phone number m
 
 You can map a phone by following these instructions:
 
-1. Log into your Ooma Office Manager at [{{ site.office_link.fr }}]({{ site.office_link.fr }}/) and navigate to "[Phone Numbers]({{ site.office_link.fr }}/#manage_phone_number)" under the "Manage" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}/) and navigate to "[Phone Numbers]({{ site.office_link.au }}/#manage_phone_number)" under the "Manage" tab.
 2. Scroll down to the "Phone Number Mapping" screen, where you will see a list of available phone numbers on your account: \\
    ![available numbers]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png)
 
@@ -30,11 +30,11 @@ You can map a phone by following these instructions:
 
 ## How can I purchase additional phone numbers?
 
-You can purchase additional phone numbers by following the instructions in our [adding phone numbers FAQ](/fr/en//adding-additional-phone-numbers).
+You can purchase additional phone numbers by following the instructions in our [adding phone numbers FAQ](/au/en//adding-additional-phone-numbers).
 
 ## Can I map a phone number to ring multiple extensions?
 
-You can map a single phone number to ring multiple extensions by setting up a ring group containing all of the numbers that you would like to have ring. You can learn more by visiting our [ring groups FAQ](/fr/en//ring-groups).
+You can map a single phone number to ring multiple extensions by setting up a ring group containing all of the numbers that you would like to have ring. You can learn more by visiting our [ring groups FAQ](/au/en//ring-groups).
 
 ## Can I map multiple phone numbers to one extension?
 
