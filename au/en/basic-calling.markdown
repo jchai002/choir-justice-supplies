@@ -30,20 +30,7 @@ You can make an external call by picking up your phone and dialing the outbound 
 
 You do not need to dial "0" or any other special code to make an external phone call.
 
-Calls to landlines and mobile phones in France are included in your regular plan. You can also make unlimited calls to landlines in the following countries:
-
-* Austria
-* Belgium
-* Denmark
-* Germany
-* Italy
-* Ireland
-* Luxembourg
-* Netherlands
-* Portugal
-* Spain
-* Switzerland
-* United Kingdom
+Calls to landlines and mobile phones in Australia are included in your regular plan. 
 
 In addition to the calling options listed above, your Account Administrator can activate a Prepaid Account that will allow all end user employees to draw upon that account to make calls to international numbers and to directory services.
 

@@ -6,7 +6,7 @@ category: [wework]
 tags: [activation-and-setup, add-ons, account, wework]
 ---
 
-Once you have your Ooma Office set up, you can make unlimited calls to landlines and cell phonles anywhere in France and to landlines in 12 European countries as part of your basic monthly plan. Your Prepaid Account provides funds to support international calling and calls to paid services. You can add funds to your Prepaid Account balance whenever you want, and with automatic balance refills you can guarantee that you will never run out of funds mid-call.
+Once you have your Ooma Office set up, you can make unlimited calls to landlines and cell phones anywhere in Australia as part of your basic monthly plan. Your Prepaid Account provides funds to support international calling and calls to paid services. You can add funds to your Prepaid Account balance whenever you want, and with automatic balance refills you can guarantee that you will never run out of funds mid-call.
 
 1. Table of Contents
 {:toc}
@@ -41,7 +41,7 @@ You can set up automatic refills to ensure that your employees never run out of 
 
 ## What can I do with my Prepaid Account?
 
-You can use your Prepaid Account to make international phone calls outside of France and the other European countries included in your calling plan. You can also use this account to pay for premium services.
+You can use your Prepaid Account to make international phone calls outside of Australia. You can also use this account to pay for premium services such as directory services.
 
 ## I've accidentally added too much money to my Prepaid Account. What can I do?
 
