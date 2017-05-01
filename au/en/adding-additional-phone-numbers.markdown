@@ -6,15 +6,15 @@ category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, calling, ooma-office-manager, add-ons, wework]
 ---
 
-With more than one business phone number, it becomes possible to fine-tune and customize your telephone setup. Additional phone numbers can be assigned to your employees so that they have multiple direct numbers, to give high-volume ring groups such as Support and Billing their own numbers, to map multiple area codes to the virtual receptionist or the conference server, and more.
+With more than one business phone number, it becomes possible to fine-tune and customise your telephone setup. Additional phone numbers can be assigned to your employees so that they have multiple direct numbers, to give high-volume ring groups such as Support and Billing their own numbers, to map multiple area codes to the virtual receptionist or the conference server, and more.
 
 Ooma Office for WeWork comes with a complimentary phone number, and each user extension comes bundled with an additional phone number. Virtual fax extensions that are associated with a user extension and conference server extensions also each come with their own dedicated phone numbers. 
 
-If you find that you need additional numbers then you can add them for a monthly fee of just $10.00, which includes GST.
+If you find that you need additional numbers, then you can add them for a monthly fee of just $10.00, which includes GST.
 
 You can add new phone numbers to your Ooma Office setup by following these instructions:
 
-1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to "[Numbers]({{ site.office_link.au }}/#manage_phone_number)" under the "Setup" tab
+1. Log in to your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to "[Numbers]({{ site.office_link.au }}/#manage_phone_number)" under the "Setup" tab
 2. Click "+Add Number" and choose the option to add a regular number
 3. Choose the area code of the phone number to which you would like to assign the phone number. \\
    ![area code]({{ site.baseurl }}/assets/images/ooma_office_wework/add_number_wework_1.png)

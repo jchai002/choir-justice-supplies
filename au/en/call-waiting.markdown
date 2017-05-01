@@ -26,4 +26,4 @@ You can conference two calls together by following the instructions in our [IP p
 
 ## How can I disable call waiting on my extension?
 
-You can disable call waiting for a single phone call by dialing [*70] before you dial your number.
+You can disable call waiting for a single phone call by dialling [*70] before you dial your number.

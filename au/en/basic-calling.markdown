@@ -14,15 +14,15 @@ The Ooma Office for WeWork system has several different calling options to choos
 
 ## Receiving incoming calls
 
-An extension will ring when the number that has been assigned to it has been dialed directly, or when the Virtual Receptionist redirects an incoming call to that extension. You can answer a call by picking up the IP phone when it rings.
+An extension will ring when the number that has been assigned to it has been dialled directly, or when the Virtual Receptionist redirects an incoming call to that extension. You can answer a call by picking up the IP phone when it rings.
 
-## Dialing internal numbers
+## Dialling internal numbers
 
-You can call another extension by dialing the extension number (2XXX). Calling a virtual extension places a call to the external forwarding number.
+You can call another extension by dialling the extension number (2XXX). Calling a virtual extension places a call to the external forwarding number.
 
-## Dialing out
+## Dialling out
 
-You can make an external call by picking up your phone and dialing the outbound number as you normally would:
+You can make an external call by picking up your phone and dialling the outbound number as you normally would:
 
 * 0X XX XX XX XX for domestic calls
 * XX or XXX for emergency numbers
@@ -36,6 +36,6 @@ In addition to the calling options listed above, your Account Administrator can 
 
 ## Calling international numbers
 
-If there are sufficient funds in your Prepaid Account, you can take advantage of the low international calling rates that Ooma offers by dialing 00, followed by the country code and phone number.
+If there are sufficient funds in your Prepaid Account, you can take advantage of the low international calling rates that Ooma offers by dialling 00, followed by the country code and phone number.
 
 You will hear the Prepaid Account balance before your call is connected, letting you know that sufficient funds are available to complete your call.

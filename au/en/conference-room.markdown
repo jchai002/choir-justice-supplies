@@ -12,7 +12,7 @@ A conference room allows many parties to use their own phones to dial in and sta
 {:toc}
 * * *
 
-## Dialing in to a conference room
+## Dialling in to a conference room
 
 All you need to get started is the extension number and PIN for the conference room that has been set up by your Network Administrator.
 
@@ -22,7 +22,7 @@ To connect to a conference room from an internal Ooma Office extension, pick up 
 
 ### Connecting from outside of the Ooma Office system
 
-You can connect to a conference room by dialing the Virtual Receptionist and then entering the extension that has been assigned to the bridge. When you are prompted, enter the conference ID and the optional PIN provided by your Network Administrator to connect to the group call.
+You can connect to a conference room by dialling the Virtual Receptionist and then entering the extension that has been assigned to the bridge. When you are prompted, enter the conference ID and the optional PIN provided by your Network Administrator to connect to the group call.
 
 If your System Administrator has assigned a direct phone number to the conference room, you may dial it from outside to connect to the conference room and bypass the Virtual Receptionist. Connecting via a direct line is the most convenient option for your customers.
 
