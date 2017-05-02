@@ -12,7 +12,7 @@ Changing the caller-ID name through Ooma Office Manager will change the caller-I
 
 To change the caller-ID name follow these instructions:
 
-1. Log in to your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to the Account tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to the Account tab.
 2. Click "Edit" to edit your Business Information under the "Settings" tab, as shown below: \\
    ![business info]({{ site.baseurl }}/assets/images/ooma_office_manager/business_info_edit.png)
 

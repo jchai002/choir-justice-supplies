@@ -123,7 +123,7 @@ From the Call Forwarding Preferences interface you can do the following:
 * Check the Enable Call Forwarding checkbox if you wish to enable call forwarding for your extension.
 * Enter the phone number that calls will be forwarded to in the Forwarding number field. You must supply a phone number to enable call forwarding.
 * Check the Simultaneously ring local extension checkbox if you want your office phone extension and your forwarding number to ring at the same time when calls are forwarded. You can answer from either location when this option is enabled.
-* Check the Require key press on answer checkbox if you want to be prompted to press 1 to answer a forwarded call. Turning this option on prevents your calls from being sent to your cell phone's voicemail if you don't answer, if your cell is turned off, or if you do not have a signal.
+* Check the Require key press on answer checkbox if you want to be prompted to press 1 to answer a forwarded call. Turning this option on prevents your calls from being sent to your mobile phone's voicemail if you don't answer, if your cell is turned off, or if you do not have a signal.
 
 Click the Save button to save your settings.
 

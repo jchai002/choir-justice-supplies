@@ -14,7 +14,7 @@ If you find that you need additional numbers, then you can add them for a monthl
 
 You can add new phone numbers to your Ooma Office setup by following these instructions:
 
-1. Log in to your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to "[Numbers]({{ site.office_link.au }}/#manage_phone_number)" under the "Setup" tab
+1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to "[Numbers]({{ site.office_link.au }}/#manage_phone_number)" under the "Setup" tab
 2. Click "+Add Number" and choose the option to add a regular number
 3. Choose the area code of the phone number to which you would like to assign the phone number. \\
    ![area code]({{ site.baseurl }}/assets/images/ooma_office_wework/add_number_wework_1.png)

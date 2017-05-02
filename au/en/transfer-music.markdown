@@ -14,7 +14,7 @@ Sometimes it takes longer than we would like to get to the phone when a call is 
 
 ## How can I upload transfer music?
 
-1. Log in to your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to "[Preferences]({{ site.office_link.au }}/#preferences)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to "[Preferences]({{ site.office_link.au }}/#preferences)" under the "Setup" tab.
 2. Under the "Transfer Music" option, choose whether you would like to use the standard ringback tone or if you would like to upload an audio file. If you would like to upload an audio file, you will be taken to a new screen where you can browse your computer to find the .wav or .mp3 file: \\
    ![transfer music]({{ site.baseurl }}/assets/images/ooma_office_manager/transfer_music.png)
 

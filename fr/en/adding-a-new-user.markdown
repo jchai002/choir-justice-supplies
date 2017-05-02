@@ -6,7 +6,7 @@ category: [wework]
 tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, user-management, wework]
 ---
 
-After your initial setup you may wish to continue expanding your Ooma Office fir WeWork system beyond your first users. Each new user comes bundled with a phone number, private voicemail box, and personalized access to the Ooma Office End User Portal.
+After your initial setup you may wish to continue expanding your Ooma Office for WeWork system beyond your first users. Each new user comes bundled with a phone number, private voicemail box, and personalized access to the Ooma Office End User Portal.
 
 Keep in mind that when you are opening the webpages indicated in this article you will need to log in as an administrator.
 
@@ -23,7 +23,7 @@ You can set up a new user by following these instructions:
 3. Fill out the required information for the new extension, including selecting a new phone number and choosing a new extension number.
 4. Click "Proceed" to create your new user.
 
-Once your extension is set up, you can add direct access phone numbers and extension access methods. In addition to an IP phone, Ooma Office for WeWork can also forward to a remote number. This can be a cell phone or a landline number that will receive forwarded calls from the Ooma Office extension.
+Once your extension is set up, you can add direct access phone numbers and extension access methods. In addition to an IP phone, Ooma Office for WeWork can also forward to a remote number. This can be a mobile phone or a landline number that will receive forwarded calls from the Ooma Office extension.
 
 ## How much does it cost to add a new user?
 

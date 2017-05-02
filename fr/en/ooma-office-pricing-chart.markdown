@@ -33,7 +33,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <td style="text-align:center;">Included</td>
 </tr>
 <tr>
-<td class="indent">Unlimited calls to cell phones and landlines in France</td>
+<td class="indent">Unlimited calls to mobile phones and landlines in France</td>
 <td style="text-align:center;">Included</td>
 </tr>
 <tr>

@@ -6,7 +6,7 @@ category: [wework]
 tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, user-management, wework]
 ---
 
-After your initial setup you may wish to continue expanding your Ooma Office fir WeWork system beyond your first users. Each new user comes bundled with a phone number, private voicemail box, and personalized access to the Ooma Office End User Portal.
+After your initial setup you may wish to continue expanding your Ooma Office for WeWork system beyond your first users. Each new user comes bundled with a phone number, private voicemail box, and personalized access to the Ooma Office End User Portal.
 
 Keep in mind that when you are opening the webpages indicated in this article you will need to log in as an administrator.
 
@@ -26,7 +26,7 @@ You can set up a new user by following these instructions:
 Once your extension is set up, you can add direct access phone numbers and extension access methods. In addition to an IP phone, Ooma Office for WeWork supports two different devices that can be assigned to a user:
 
 * **Ooma Office mobile app:** A smartphone app that allows users to make and receive phone calls over their Wi-Fi or cellular data Internet connection.
-* **Remote number:** A cell phone or landline number where calls to the Ooma Office extension will be forwarded.
+* **Remote number:** A mobile phone or landline number where calls to the Ooma Office extension will be forwarded.
 
 A user can use multiple devices, but only one of each type. For example, you can set up a user so that calls will ring on their Mobile App and Ooma Linx simultaneously, but a user cannot have two Ooma Linx devices.
 

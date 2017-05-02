@@ -6,7 +6,7 @@ category: [wework]
 tags: [end-user-features, calling, wework]
 ---
 
-With Ooma Office you can set up any extension to forward calls to a cell phone or landline. Call forwarding can be set up online by an Account Administrator, and it can be set up by the extension's owner using star codes on the extension telephone.
+With Ooma Office you can set up any extension to forward calls to a mobile phone or landline. Call forwarding can be set up online by an Account Administrator, and it can be set up by the extension's owner using star codes on the extension telephone.
 
 1. Table of Contents
 {:toc}

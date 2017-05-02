@@ -46,7 +46,7 @@ You can remove a conference room by following these directions:
 
 ## How many conference rooms can I have set up at a time?
 
-You can set up up to ten conference rooms.
+You can have up to ten conference rooms.
 
 ## How many people can use a conference room at a time?
 

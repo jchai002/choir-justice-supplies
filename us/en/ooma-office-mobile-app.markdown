@@ -107,7 +107,7 @@ Yes, Ooma Office Mobile supports Bluetooth headsets on the iPhone and Android de
 
 ## Can I make emergency 911 calls using Ooma Office Mobile?
 
-Ooma Office Mobile does not support calling 911. To call 911, you'll need to use your home phone or your cell phone (using your standard mobile carrier).
+Ooma Office Mobile does not support calling 911. To call 911, you'll need to use your home phone or your mobile phone (using your standard mobile carrier).
 
 **Reference:** For more information about 911 calling with Ooma, please see [our FAQ](/us/en/e-911).
 

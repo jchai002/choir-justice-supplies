@@ -14,7 +14,7 @@ One of the most important steps in establishing your business's identity is sele
 
 ## What are the options for selecting a phone number?
 
-During the second step of the activation process you will be asked to select phone numbers, as shown in the screen shot below. You will also repeat this process when you add additional capacity to your Ooma Office account. You can take this opportunity to select a new permanent phone number that will become part of your business's identity. You will also select a phone number to associate with each of your user extensions. Once you have finished the signup process, you can log in to select and assign a phone number for each user extension. You can also add additional numbers to assign to ring groups and other special extension types.
+During the second step of the activation process you will be asked to select phone numbers, as shown in the screen shot below. You will also repeat this process when you add additional capacity to your Ooma Office account. You can take this opportunity to select a new permanent phone number that will become part of your business's identity. You will also select a phone number to associate with each of your user extensions. Once you have finished the signup process, you can log into select and assign a phone number for each user extension. You can also add additional numbers to assign to ring groups and other special extension types.
 
 <p align="center"><img alt="select number" src="{{ site.baseurl }}/assets/images/ooma_office_wework/select_phone_number_wework_1.png" /></p> 
 

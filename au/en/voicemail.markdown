@@ -44,7 +44,7 @@ Your personal voicemail can be personalized as much or as little as you would li
 
 ### Recording or updating a personal greeting
 
-The first time you log in to your voicemail you will be prompted to record a greeting for your extension.
+The first time you log into your voicemail you will be prompted to record a greeting for your extension.
 
 You can update your personal greeting at any time by selecting **option 5** from the main voicemail menu. Select **option 1** from the submenu.
 

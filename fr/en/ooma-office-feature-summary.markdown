@@ -12,7 +12,7 @@ Ooma Office for WeWork includes a full suite of features to grow with your small
 
 ### Unlimited domestic calling
 
-Calls to French cell phones and landlines are free and unlimited.
+Calls to French mobile phones and landlines are free and unlimited.
 
 ### Unlimited calls to 12 European countries
 
@@ -100,7 +100,7 @@ Ooma Office supports attended and unattended call transfers to user extensions. 
 
 ### Call forwarding
 
-Incoming calls to a user's extension can be forwarded to a cell phone or landline phone number with call forwarding. [Learn more](/fr/en/call-forwarding).
+Incoming calls to a user's extension can be forwarded to a mobile phone or landline phone number with call forwarding. [Learn more](/fr/en/call-forwarding).
 
 ### Caller-ID blocking
 

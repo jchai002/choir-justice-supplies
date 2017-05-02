@@ -45,7 +45,7 @@ Once you've decided to take the plunge and port your number, you'll need to foll
 1. Log into Ooma Office Manager and navigate to the Add-Ons tab. Select the "[Number Porting](https://office.ooma.com/number_porting)" option.
 2. Read the instructions carefully, and then click "Start Number Porting."
 3. Fill in the Number Port Request with the following account information:
-   * The type of phone number you want to port (landline or cell phone)
+   * The type of phone number you want to port (landline or mobile phone)
    * Your current telephone service provider
    * Your current provider's account number
    * The type of Internet connection you are using

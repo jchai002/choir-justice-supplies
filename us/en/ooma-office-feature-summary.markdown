@@ -12,7 +12,7 @@ Ooma Office for WeWork includes a full suite of features to grow with your small
 
 ### Unlimited domestic calling
 
-Unlimited calls to cell phones and landlines in the United States and Canada are free.
+Unlimited calls to mobile phones and landlines in the United States and Canada are free.
 
 ### IP phone included
 
@@ -104,7 +104,7 @@ Ooma Office supports attended and unattended call transfers to user extensions. 
 
 ### Call forwarding
 
-Incoming calls to a user's extension can be forwarded to a cell phone or landline phone number with call forwarding. [Learn more](/us/en/call-forwarding).
+Incoming calls to a user's extension can be forwarded to a mobile phone or landline phone number with call forwarding. [Learn more](/us/en/call-forwarding).
 
 ### Caller-ID blocking
 

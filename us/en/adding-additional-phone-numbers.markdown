@@ -10,7 +10,7 @@ With more than one business phone number, it becomes possible to fine-tune and c
 
 Ooma Office for WeWork comes with a complimentary phone number, and each user extension comes bundled with an additional phone number. Virtual fax extensions that are associated with a user extension and conference server extensions also each come with their own dedicated phone numbers. 
 
-If you find that you need additional numbers then you can add them for a monthly fee of just $9.95 for US users or CAD $14.95 for Canadian users, plus applicable tax and fees.
+If you find that you need additional numbers, then you can add them for a monthly fee of just $9.95 for US users or CAD $14.95 for Canadian users, plus applicable tax and fees.
 
 You can add new phone numbers to your Ooma Office setup by following these instructions:
 
