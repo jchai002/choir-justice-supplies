@@ -22,7 +22,7 @@ To log in, navigate to [office.ooma.com]({{ site.office_link.au }}/), and follow
    ![End User Portal Login]({{ site.baseurl }}/assets/images/end_user_portal/login_screen.png)
 2. Enter the main phone number for your business in the "Phone number" field
 3. Enter your extension number in the "Extension number" field
-4. Ener your password in the "Password" field
+4. Enter your password in the "Password" field
 5. Click "Login" to log in
 
 Once you are logged in, you will see the Voicemail screen as your landing page:
@@ -43,7 +43,7 @@ To use the Click to Call feature, enter any phone number that you want to call i
 
 Your Ooma Office extension will start to ring. Answer your extension to connect the call.
 
-You can dial internal extension numbers, French phone numbers, or international numbers (e.g., 00 followed by country code and phone number). Keep in mind that if you dial international numbers additional charges may apply.
+You can dial internal extension numbers, Australian phone numbers, or international numbers (e.g., 00 followed by country code and phone number). Keep in mind that if you dial international numbers additional charges may apply.
 
 ## Voicemail
 
@@ -129,7 +129,7 @@ Click the Save button to save your settings.
 
 ### Caller-ID Preferences
 
-If your extension can be reached by dialing multiple phone numbers, then you can manage your caller ID preferences by navigating to the Caller-ID option beneath the Preferences tab.
+If your extension can be reached by dialling multiple phone numbers, then you can manage your caller ID preferences by navigating to the Caller-ID option beneath the Preferences tab.
 
 <p align="center"><img alt="caller ID preferences" src="{{ site.baseurl }}/assets/images/end_user_portal/caller_id_preference.png" /></p>
 

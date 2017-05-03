@@ -6,7 +6,7 @@ category: [wework]
 tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, wework]
 ---
 
-The Ooma Office web portal is where you will manage your Ooma Office for WeWork setup. Everything you need is brought together in one place that you can access from anywhere that you have an Internet connection. Whether you would like to update your Virtual Receptionist, add capacity to your Ooma Office system, or personalize your setup, your Ooma Office account is where you'll find all the tools you need!
+The Ooma Office web portal is where you will manage your Ooma Office for WeWork setup. Everything you need is brought together in one place that you can access from anywhere that you have an Internet connection. Whether you would like to update your Virtual Receptionist, add capacity to your Ooma Office system, or personalise your setup, your Ooma Office account is where you'll find all the tools you need!
 
 1. Table of Contents
 {:toc}
@@ -14,10 +14,10 @@ The Ooma Office web portal is where you will manage your Ooma Office for WeWork 
 
 ## What can I do with my Ooma Office account?
 
-Your Ooma Office account allows you to personalize your Ooma Office for WeWork setup so that it meets the specific needs of your business. When you are logged in to the Ooma Office web portal as an administrator, you can do the following:
+Your Ooma Office account allows you to personalise your Ooma Office for WeWork setup so that it meets the specific needs of your business. When you are logged in to the Ooma Office web portal as an administrator, you can do the following:
 
 * Set up your Virtual Receptionist
-* Configure extension dialing
+* Configure extension dialling
 * Put together ring groups
 * Upload an .mp3 or .wav file for Music on Hold
 * Add a conference bridge
@@ -73,7 +73,7 @@ You can manage the following items in the "Settings" section:
 
 ## What settings are located under the Add-ons tab?
 
-If you are interested in adding additional service, you will visit the "Add-ons" tab. There you can do the following:
+If you are interested in adding additional services, visit the "Add-ons" tab. There you can do the following:
 
 * Rent additional [IP phones]({{ site.office_link.au }}/ip_phones/yealink_t23g) that can help you grow your Ooma Office setup
 * Add funds to and manage your [Prepaid Account]({{ site.office_link.au }}/#prepaid_account)

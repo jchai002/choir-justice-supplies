@@ -12,11 +12,7 @@ Ooma Office for WeWork includes a full suite of features to grow with your small
 
 ### Unlimited domestic calling
 
-Calls to French cell phones and landlines are free and unlimited.
-
-### Unlimited calls to 12 European countries
-
-Ooma Office includes unlimited calls to landlines in 12 other European countries: Austria, Belgium, Denmark, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, Switzerland, and United Kingdom.
+Calls to Australian cell phones and landlines are free and unlimited.
 
 ### IP phone included
 
@@ -66,7 +62,7 @@ Users can send faxes electronically using the Ooma Office web portal, and receiv
 
 ### Music on Hold
 
-Share information about your products, play out favorable reviews and testimonials, or give your customers music to listen to while they wait with Music on Hold. [Learn more](/au/en/music-on-hold).
+Share information about your products, play out favourable reviews and testimonials, or give your customers music to listen to while they wait with Music on Hold. [Learn more](/au/en/music-on-hold).
 
 ### Transfer music
 
@@ -80,7 +76,7 @@ Each user has his or her own login to the End User Portal so that they can manag
 
 ### Private voicemail
 
-Every user extension comes with its own voicemail box that supports a personalized greeting. [Learn more](/au/en/voicemail).
+Every user extension comes with its own voicemail box that supports a personalised greeting. [Learn more](/au/en/voicemail).
 
 ### Call waiting
 

@@ -19,7 +19,7 @@ If you would like to use the speakerphone, press the **speakerphone** key while 
 
 ### Redial
 
-Press the **History** softkey to bring up a list of recently dialed numbers. Select the desired number, and then press the **Send** softkey or the **speakerphone** key.
+Press the **History** softkey to bring up a list of recently dialled numbers. Select the desired number, and then press the **Send** softkey or the **speakerphone** key.
 
 ### Receiving calls
 
@@ -145,7 +145,7 @@ Turn on Do Not Disturb by pressing the **DND** softkey. Your phone will not ring
 
 While Do Not Disturb is enabled, you will see a **DND** icon in the upper-right corner of the LCD display.
 
-## Phone customization
+## Phone customisation
 
 ### Directory
 

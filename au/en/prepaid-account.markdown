@@ -6,7 +6,7 @@ category: [wework]
 tags: [activation-and-setup, account, add-ons, admin-features, wework]
 ---
 
-Unlimited calls to cell phones and landlines in Australia is included as part of your Ooma Office basic monthly plan. When calls to premium services or to countries outside of your calling area are part of your business needs, the Prepaid Account that you set up during the account activation process will cover any expenses that are incurred.
+Unlimited calls to mobile phones and landlines in Australia are included as part of your Ooma Office basic monthly plan. When calls to premium services or to countries outside of your calling area are part of your business needs, the Prepaid Account that you set up during the account activation process will cover any expenses that are incurred.
 
 1. Table of Contents
 {:toc}

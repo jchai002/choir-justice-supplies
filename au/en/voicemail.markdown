@@ -6,7 +6,7 @@ category: [wework]
 tags: [end-user-features, calling, voicemail, wework]
 ---
 
-One of the benefits of having your own extension is that it comes with personalized voicemail. You can record your own greeting and check your voicemail messages in a variety of ways.
+One of the benefits of having your own extension is that it comes with personalised voicemail. You can record your own greeting and check your voicemail messages in a variety of ways.
 
 1. Table of Contents
 {:toc}
@@ -24,9 +24,9 @@ If you would like to check your voicemail, just pick up the phone press the mess
 
 ### From another Ooma Office phone or from an outside phone line
 
-Wait until the call rolls to voicemail, and then press [*] and enter your PIN. If this is the first time you access your voicemail, you will need the PIN that was emailed to you when your extension was created. If you do not have this PIN, contact your System Administrator to have him set a new PIN so that you can log in the first time.
+Wait until the call rolls to voicemail, and then press [*] and enter your PIN. If this is the first time you access your voicemail, you will need the PIN that was emailed to you when your extension was created. If you do not have this PIN, contact your System Administrator to have him/her set a new PIN so that you can log in the first time.
 
-### Dialing through the virtual receptionist
+### Dialling through the virtual receptionist
 
 If you are out of the office and do not have a direct phone number to reach your extension, you can dial in to your Voicemail through the virtual receptionist. Simply call the Ooma Office number that is answered by the Virtual Receptionist and press [*] when the call connects. Next, dial your extension number and then enter your PIN.
 
@@ -40,7 +40,7 @@ If you need to change the email address that your messages are being sent to, yo
 
 ## Updating your voicemail options
 
-Your personal voicemail can be personalized as much or as little as you would like. The options below outline the changes you can make and tell you how to make them.
+Your personal voicemail can be personalised as much or as little as you would like. The options below outline the changes you can make and tell you how to make them.
 
 ### Recording or updating a personal greeting
 
@@ -50,7 +50,7 @@ You can update your personal greeting at any time by selecting **option 5** from
 
 ### Recording or updating your name
 
-You can choose to use a computerized voicemail prompt with just your recorded name instead of a full recorded greeting. To do this, select **option 5** from the main voicemail menu. Select **option 2** from the submenu.
+You can choose to use a computerised voicemail prompt with just your recorded name instead of a full recorded greeting. To do this, select **option 5** from the main voicemail menu. Select **option 2** from the submenu.
 
 ### Changing your PIN
 

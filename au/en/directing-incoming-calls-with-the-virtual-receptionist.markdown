@@ -48,5 +48,5 @@ Yes! You can choose which extensions are available to both the "Dial-By-Extensio
 3. You can decide for each extension whether it will be reachable via "Dial-By-Extension" and "Dial-By-Name": \\
    ![customize directory]({{ site.baseurl }}/assets/images/ooma_office_wework/customize_directory_settings_wework.png)
 
-4. Customize your directory dialing preferences.
+4. Customise your directory dialling preferences.
 5. Save your changes.

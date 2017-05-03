@@ -6,7 +6,7 @@ category: [wework]
 tags: [account, wework]
 ---
 
-Every second is important in an emergency. It is important for the business address on file with Ooma be accurate. When you dial emergency services, this information is forwarded to emergency personnel to make sure that you are directed to the closest routing center and that first responders know where to find you.
+Every second is important in an emergency. It is important for the business address on file with Ooma to be accurate. When you dial emergency services, this information is forwarded to emergency personnel to make sure that you are directed to the closest routing centre and that first responders know where to find you.
 
 1. Table of Contents
 {:toc}
@@ -14,9 +14,9 @@ Every second is important in an emergency. It is important for the business addr
 
 ## Does emergency calling work accurately with Ooma Office?
 
-When you register your Ooma Office device, your business address is also used as your service address. When you call emergency services, this information helps to route your call to the nearest response center. It is important that you keep your business address up to date.
+When you register your Ooma Office device, your business address is also used as your service address. When you call emergency services, this information helps to route your call to the nearest response centre. It is important that you keep your business address up to date.
 
-**Note:** If your physical location cannot be determined by your service address on file, you will be routed to a national call center to confirm your location so that your call can be forwarded to the appropriate local authority.
+**Note:** If your physical location cannot be determined by your service address on file, you will be routed to a national call centre to confirm your location so that your call can be forwarded to the appropriate local authority.
 
 **Important:** Ooma cannot provide emergency services without both power and a working broadband Internet connection.
 

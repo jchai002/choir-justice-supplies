@@ -8,7 +8,7 @@ tags: [activation-and-setup, getting-started, phone-number, porting, wework]
 
 If you have already established your business identity using an existing telephone number, it can be inconvenient to change to a new number when you change carriers. With Ooma Office, you have the option to keep your existing phone number or numbers when you say goodbye to your old carrier. Best of all, porting is free for Ooma Office customers.
 
-**Important:** Please note that it takes an average of three to four weeks to complete the porting process. Number porting is supported in the Paris calling area. We cannot guarantee that numbers from outside of the Paris calling area will work at this time. 
+**Important:** Please note that it takes an average of three to four weeks to complete the porting process. Number porting is supported in the Sydney region. We cannot guarantee that numbers from outside of the Sydney region will work at this time.
 
 If you have DSL Internet service, please keep in mind that porting your number may disrupt your DSL service.
 
@@ -38,7 +38,7 @@ You can port the telephone number from your residential Ooma device (Telo or Hub
 
 ### From an outside carrier
 
-The process of porting your number away from your current phone provider to Ooma is simple. Number porting is supported by most outside carriers, but before you initiate this process you will want to confirm that your phone number is eligible for porting. You can check whether your phone number can be ported by visiting [http://www.ooma.com/business-choose-number/](http://www.ooma.com/business-choose-number).
+The process of porting your number away from your current phone provider to Ooma is simple. Number porting is supported by most outside carriers, but before you initiate this process you will need to confirm that your phone number is eligible for porting. You can check whether your phone number can be ported by visiting [http://www.ooma.com/business-choose-number/](http://www.ooma.com/business-choose-number).
 
 Once you've decided to take the plunge and port your number, you'll need to follow these steps:
 
@@ -46,7 +46,7 @@ Once you've decided to take the plunge and port your number, you'll need to foll
 2. Read the instructions carefully, and then click "Start Number Porting."
 3. Fill in the Number Port Request with the following account information:
 
-   * The type of phone number you want to port (landline or cell phone)
+   * The type of phone number you want to port (landline or mobile phone)
    * Your current telephone service provider
    * Your current provider's account number
    * The type of Internet connection you are using

@@ -26,7 +26,7 @@ You can create a ring group by following these instructions:
 4. Your display will automatically populate with all of the extensions that can be assigned to your new ring group, as shown below: \\
    ![add extension]({{ site.baseurl }}/assets/images/ooma_office_wework/add_ring_group_wework_2.png)
 
-   Check all of the extensions that should ring when this ring group is dialed.
+   Check all of the extensions that should ring when this ring group is dialled.
 5. Fill in the ring group's name and choose the way you would like the group's extensions to ring. You can choose between the following options:
    * **Simultaneous:** The phones of all users in the ring group will ring simultaneously until someone answers.
    * **Sequential:** The phones of users in the ring group will ring one at a time until the call is answered.

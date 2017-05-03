@@ -6,7 +6,7 @@ category: [wework]
 tags: [activation-and-setup, add-ons, account, wework]
 ---
 
-Once you have your Ooma Office set up, you can make unlimited calls to landlines and cell phones anywhere in Australia as part of your basic monthly plan. Your Prepaid Account provides funds to support international calling and calls to paid services. You can add funds to your Prepaid Account balance whenever you want, and with automatic balance refills you can guarantee that you will never run out of funds mid-call.
+Once you have your Ooma Office set up, you can make unlimited calls to landlines and mobile phones anywhere in Australia as part of your basic monthly plan. Your Prepaid Account provides funds to support international calling and calls to paid services. You can add funds to your Prepaid Account balance whenever you want, and with automatic balance refills you can guarantee that you will never run out of funds mid-call.
 
 1. Table of Contents
 {:toc}
@@ -26,7 +26,7 @@ You can check your Prepaid Account balance at any time by visiting "[Prepaid Acc
 
 ## Who can check the balance of the Prepaid Account?
 
-Anyone with access to the Ooma Office Manager portal can check the balance on the Prepaid Account. In addition, anytime an employee makes a call that will tap into the Prepaid Account's funds they will hear the remaining account balance before the call connects.
+Anyone with access to the Ooma Office Manager portal can check the balance on the Prepaid Account. In addition, any time an employee makes a call that will tap into the Prepaid Account's funds they will hear the remaining account balance before the call connects.
 
 ## How do I automatically refill my Prepaid Account balance when it runs low?
 
