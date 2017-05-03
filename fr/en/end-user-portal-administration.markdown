@@ -42,7 +42,7 @@ If a user needs to have his or her password reset manually, you can do so by fol
 
 	You can delete a user's account by following these steps:
 
-	1. Navigate to the Ooma Office Portal at [office.ooma.com]({{ site.office_link.fr }}) and login as an administrator, then navigate to "[Extensions]({{ site.office_link.fr }}/extensions)" under the "Setup" tab.
+	1. Navigate to the Ooma Office Portal at [office.ooma.com]({{ site.office_link.fr }}) and log in as an administrator, then navigate to "[Extensions]({{ site.office_link.fr }}/extensions)" under the "Setup" tab.
 	2. Locate the user whose extension you would like to delete, and click on the ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) icon in that row.
 	3. Click "Confirm" to delete the extension.
 

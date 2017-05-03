@@ -38,7 +38,7 @@ You can port the telephone number from your residential Ooma device (Telo or Hub
 
 ### From an outside carrier
 
-The process of porting your number away from your current phone provider to Ooma is simple. Number porting is supported by most outside carriers, but before you initiate this process you will want to confirm that your phone number is eligible for porting. You can check whether your phone number can be ported by visiting [http://www.ooma.com/business-choose-number/](http://www.ooma.com/business-choose-number).
+The process of porting your number away from your current phone provider to Ooma is simple. Number porting is supported by most outside carriers, but before you initiate this process you will need to confirm that your phone number is eligible for porting. You can check whether your phone number can be ported by visiting [http://www.ooma.com/business-choose-number/](http://www.ooma.com/business-choose-number).
 
 Once you've decided to take the plunge and port your number, you'll need to follow these steps:
 

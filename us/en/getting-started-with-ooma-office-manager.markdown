@@ -73,7 +73,7 @@ You can manage the following items in the "Settings" section:
 
 ## What settings are located under the Add-ons tab?
 
-If you are interested in adding additional service, you will visit the "Add-ons" tab. There you can do the following:
+If you are interested in adding additional services, visit the "Add-ons" tab. There you can do the following:
 
 * Rent additional [IP phones](https://office.ooma.com/ip_phones/yealink_t23g) that can help you grow your Ooma Office setup
 * Add funds to and manage your [Prepaid Account](https://office.ooma.com/#prepaid_account)

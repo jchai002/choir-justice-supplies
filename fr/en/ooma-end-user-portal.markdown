@@ -22,7 +22,7 @@ To log in, navigate to [office.ooma.com]({{ site.office_link.fr }}/), and follow
    ![End User Portal Login]({{ site.baseurl }}/assets/images/end_user_portal/login_screen.png)
 2. Enter the main phone number for your business in the "Phone number" field
 3. Enter your extension number in the "Extension number" field
-4. Ener your password in the "Password" field
+4. Enter your password in the "Password" field
 5. Click "Login" to log in
 
 Once you are logged in, you will see the Voicemail screen as your landing page:

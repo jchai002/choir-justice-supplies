@@ -14,7 +14,7 @@ Sending and receiving faxes is a necessity for most businesses. Ooma offers an a
 
 ## What is virtual faxing?
 
-Virtual faxing is a process through which users can send and receive faxes through the Internet. Users can upload a PDF file and send it through the End User Portal. Incoming faxes are received as PDFs sent to a direct phone number, received as PDF files, and sent to the user's email address.
+Virtual faxing is a process through which users can send and receive faxes through the Internet. Users can upload a PDF file and send it through the End User Portal. Incoming faxes are sent to a direct phone number, received as PDF files, and sent to the user's email address.
 
 ## What do I get with virtual fax?
 

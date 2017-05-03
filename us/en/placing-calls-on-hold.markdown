@@ -6,7 +6,7 @@ category: [wework]
 tags: [end-user-features, calling, wework]
 ---
 
-Putting a call on hold while you check on a customer's request or make another quick phone call is a snap' Simply follow these instructions to get started:
+Putting a call on hold while you check on a customer's request or make another quick phone call is a snap. Simply follow these instructions to get started:
 
 1. Table of Contents
 {:toc}

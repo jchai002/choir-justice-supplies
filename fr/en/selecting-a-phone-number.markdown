@@ -18,4 +18,4 @@ During the second step of the activation process you will be asked to select pho
 
 <p align="center"><img alt="select number" src="{{ site.baseurl }}/assets/images/ooma_office_wework/select_phone_number_wework_1.png" /></p> 
 
-If you have already established a business presence with an existing phone number you can choose to port that number to Ooma. Even if you are planning to port your current number, however, you must select a temporary number during the activation process to use while you wait for the porting process to be completed.
+If you have already established a business presence with an existing phone number, you can choose to port that number to Ooma. Even if you are planning to port your current number, however, you must select a temporary number during the activation process to use while you wait for the porting process to be completed.
