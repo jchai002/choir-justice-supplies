@@ -2,6 +2,9 @@
 layout: post
 title:  Mapper les numéros de téléphone
 date:   2017-01-24 11:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [admin-features, ooma-office-manager, calling, phone-number, wework]
 ---

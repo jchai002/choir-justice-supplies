@@ -2,6 +2,9 @@
 layout: post
 title:  Call Forwarding
 date:   2017-02-07 09:00:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [user-management, end-user-features, admin-features, calling, mobility, ooma-office-manager, wework]
 ---

@@ -2,6 +2,9 @@
 layout: post
 title:  Setting Up your Prepaid Account
 date:   2017-02-06 10:00:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [activation-and-setup, add-ons, account, wework]
 ---

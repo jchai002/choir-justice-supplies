@@ -2,6 +2,9 @@
 layout: post
 title:  Présentation des fonctionnalités Ooma Office
 date:   2017-02-06 04:15:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [getting-started, admin-features, end-user-features]
 ---

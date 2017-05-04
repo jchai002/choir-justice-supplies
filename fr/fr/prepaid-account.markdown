@@ -2,6 +2,9 @@
 layout: post
 title:  Utiliser votre Compte Prépayé
 date:   2017-02-06 13:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [activation-and-setup, account, add-ons, admin-features, wework]
 ---

@@ -2,6 +2,9 @@
 layout: post
 title:  Setting up Call Forwarding From a Phone
 date:   2017-02-07 08:30:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [end-user-features, calling, wework]
 ---

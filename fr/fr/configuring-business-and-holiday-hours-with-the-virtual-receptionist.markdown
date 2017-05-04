@@ -2,6 +2,9 @@
 layout: post
 title:  Modifier les horaires de travail et les jours fériés du réceptionniste virtuel
 date:   2017-02-07 09:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, wework]
 ---

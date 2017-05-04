@@ -2,6 +2,9 @@
 layout: post
 title:  Directing Incoming Calls with the Virtual Receptionist
 date:   2017-02-07 09:00:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, calling, wework]
 ---

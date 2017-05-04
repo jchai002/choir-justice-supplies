@@ -2,6 +2,9 @@
 layout: post
 title:  Récupérer un mot de passe perdu
 date:   2017-02-06 15:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [account, admin-features, user-management, wework]
 ---

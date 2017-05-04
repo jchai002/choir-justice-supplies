@@ -2,6 +2,9 @@
 layout: post
 title:  Basic Calling
 date:   2017-02-07 12:30:00
+country: [US]
+language: [English]
+locale: [en-us]
 category: [wework]
 tags: [end-user-features, calling, wework]
 ---

@@ -2,6 +2,9 @@
 layout: post
 title:  Modifier le mot de passe de votre compte
 date:   2017-02-06 15:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [activation-and-setup, account, admin-features, wework]
 ---

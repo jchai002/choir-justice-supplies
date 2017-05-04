@@ -2,6 +2,9 @@
 layout: post
 title:  Conference Room
 date:   2017-02-07 10:45:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [end-user-features, calling, add-ons, wework]
 ---

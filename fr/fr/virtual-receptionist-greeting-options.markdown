@@ -2,6 +2,9 @@
 layout: post
 title:  Options d'accueil du réceptionniste virtuel
 date:   2017-02-07 08:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, wework]
 ---

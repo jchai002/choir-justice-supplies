@@ -2,6 +2,9 @@
 layout: post
 title:  Mettre à jour les informations d'un poste
 date:   2017-01-24 08:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [user-management, admin-features, wework]
 ---

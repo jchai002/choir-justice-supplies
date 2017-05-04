@@ -2,6 +2,9 @@
 layout: post
 title:  Guide d'administration du portail Ooma Office
 date:   2017-02-07 13:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [ooma-office-manager, wework]
 ---

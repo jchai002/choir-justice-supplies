@@ -2,6 +2,9 @@
 layout: post
 title:  Mettre en place un renvoi automatique
 date:   2017-02-07 08:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [end-user-features, calling, wework]
 ---

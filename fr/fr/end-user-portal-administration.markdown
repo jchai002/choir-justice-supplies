@@ -2,6 +2,9 @@
 layout: post
 title:  Administration du Portail Utilisateurs
 date:   2017-02-07 11:45:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [end-user-portal, wework]
 ---

@@ -2,6 +2,9 @@
 layout: post
 title:  Changing Extension Numbers
 date:   2017-01-24 11:01:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [admin-features, ooma-office-manager, user-management, wework]
 ---

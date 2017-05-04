@@ -2,6 +2,9 @@
 layout: post
 title:  Mapping Phone Numbers
 date:   2017-01-24 11:30:00
+country: [US]
+language: [English]
+locale: [en-us]
 category: [wework]
 tags: [admin-features, ooma-office-manager, calling, phone-number, wework]
 ---

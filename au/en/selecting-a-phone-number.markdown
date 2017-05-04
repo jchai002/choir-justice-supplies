@@ -2,6 +2,9 @@
 layout: post
 title:  Selecting a Phone Number
 date:   2017-01-14 09:00:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [calling, activation-and-setup, getting-started, phone-number, wework]
 ---

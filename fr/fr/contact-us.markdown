@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  Contactez-nous
+country: [France]
+language: [French]
+locale: [fr-fr]
+category: [wework]
 date:   2016-12-13 14:00:00
 ---
 

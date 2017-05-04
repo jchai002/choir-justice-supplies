@@ -2,6 +2,9 @@
 layout: post
 title:  Adding a Toll-Free Number
 date:   2017-01-24 10:30:00
+country: [US]
+language: [English]
+locale: [en-us]
 category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, add-ons, calling, wework]
 ---

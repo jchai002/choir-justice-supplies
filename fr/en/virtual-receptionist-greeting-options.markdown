@@ -2,6 +2,9 @@
 layout: post
 title:  Virtual receptionist greeting options
 date:   2017-02-07 08:30:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, wework]
 ---

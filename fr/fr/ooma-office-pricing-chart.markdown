@@ -2,6 +2,9 @@
 layout: post
 title:  Tableau des tarifs
 date:   2017-01-23 12:15:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [add-ons, basic-setup, personalization, phone-number, porting, wework]
 ---

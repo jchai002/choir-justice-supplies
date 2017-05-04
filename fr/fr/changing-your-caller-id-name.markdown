@@ -2,6 +2,9 @@
 layout: post
 title: Modifier l'identifiant de l'appelant
 date:   2017-02-06 08:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [ooma-office-manager, admin-features, calling, wework]
 ---

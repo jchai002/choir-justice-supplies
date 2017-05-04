@@ -2,6 +2,9 @@
 layout: post
 title:  Ooma Office for WeWork pricing chart
 date:   2017-01-23 12:15:00
+country: [US]
+language: [English]
+locale: [en-us]
 category: [wework]
 tags: [add-ons, basic-setup, personalization, phone-number, porting, wework]
 ---

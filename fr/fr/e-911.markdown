@@ -2,6 +2,9 @@
 layout: post
 title:  Appel d'urgence
 date:   2017-02-06 11:00:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [account, wework]
 ---

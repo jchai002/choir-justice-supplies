@@ -2,6 +2,9 @@
 layout: post
 title:  Groupes d'appel
 date:   2017-02-07 09:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [user-management, admin-features, calling, wework]
 ---

@@ -2,6 +2,9 @@
 layout: post
 title:  Modifier les numéros de poste
 date:   2017-01-24 11:01:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [admin-features, ooma-office-manager, user-management, wework]
 ---

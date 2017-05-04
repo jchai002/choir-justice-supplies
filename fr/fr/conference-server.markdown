@@ -2,6 +2,9 @@
 layout: post
 title:  Serveur de conférences
 date:   2017-02-05 10:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [admin-features, add-ons, wework]
 ---

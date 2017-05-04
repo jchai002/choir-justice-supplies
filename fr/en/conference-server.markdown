@@ -2,6 +2,9 @@
 layout: post
 title:  Conference Server
 date:   2017-02-05 10:30:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [admin-features, add-ons, wework]
 ---

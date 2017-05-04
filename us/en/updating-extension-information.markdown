@@ -2,6 +2,9 @@
 layout: post
 title:  Updating Extension Information
 date:   2017-01-24 08:30:00
+country: [US]
+language: [English]
+locale: [en-us]
 category: [wework]
 tags: [user-management, admin-features, wework]
 ---

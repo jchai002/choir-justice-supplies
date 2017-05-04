@@ -2,6 +2,9 @@
 layout: post
 title:  Selecting a Phone Number
 date:   2017-01-14 09:00:00
+country: [US]
+language: [English]
+locale: [en-us]
 category: [wework]
 tags: [calling, activation-and-setup, getting-started, phone-number, wework]
 redirect_from: "/app/support/selecting-phone-number-0/"

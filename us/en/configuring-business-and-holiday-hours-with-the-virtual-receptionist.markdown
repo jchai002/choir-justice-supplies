@@ -2,6 +2,9 @@
 layout: post
 title:  Configuring Business and Holiday Hours with the Virtual Receptionist
 date:   2017-02-07 09:30:00
+country: [US]
+language: [English]
+locale: [en-us]
 category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, wework]
 ---

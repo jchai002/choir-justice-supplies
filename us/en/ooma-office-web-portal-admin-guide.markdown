@@ -2,6 +2,9 @@
 layout: post
 title:  Ooma Office web portal admin guide
 date:   2017-02-07 13:30:00
+country: [US]
+language: [English]
+locale: [en-us]
 category: [wework]
 tags: [ooma-office-manager, wework]
 ---

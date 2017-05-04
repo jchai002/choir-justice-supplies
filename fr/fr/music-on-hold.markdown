@@ -2,6 +2,9 @@
 layout: post
 title:  Musique d'attente
 date:   2017-02-07 11:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [admin-features, calling, ooma-office-manager, personalization, wework]
 ---

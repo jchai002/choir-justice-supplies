@@ -2,6 +2,9 @@
 layout: post
 title:  Emergency calling
 date:   2017-02-06 11:00:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [account, wework]
 ---

@@ -2,6 +2,9 @@
 layout: post
 title:  Setting up extensions
 date:   2017-01-24 08:00:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, user-management, wework]
 ---

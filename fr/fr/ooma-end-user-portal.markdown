@@ -2,6 +2,9 @@
 layout: post
 title:  Portail Utilisateur final
 date:   2017-02-07 09:00:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [end-user-features, end-user-portal, voicemail, account, wework]
 ---

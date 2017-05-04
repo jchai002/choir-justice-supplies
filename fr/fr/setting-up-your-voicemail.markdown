@@ -2,6 +2,9 @@
 layout: post
 title:  Administration de la messagerie vocale
 date:   2017-02-07 10:00:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [user-management, admin-features, voicemail, wework]
 ---

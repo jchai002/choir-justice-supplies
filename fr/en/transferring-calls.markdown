@@ -2,6 +2,9 @@
 layout: post
 title:  Transferring Calls
 date:   2017-02-07 09:30:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [end-user-features, calling, wework]
 ---

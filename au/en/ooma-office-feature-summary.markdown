@@ -2,6 +2,9 @@
 layout: post
 title:  Ooma Office feature summary
 date:   2017-02-06 04:15:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [getting-started, admin-features, end-user-features]
 ---

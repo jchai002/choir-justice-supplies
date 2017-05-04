@@ -2,6 +2,9 @@
 layout: post
 title:  Musique de transfert
 date:   2017-02-08 08:00:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [admin-features, calling, ooma-office-manager, personalization, wework]
 ---

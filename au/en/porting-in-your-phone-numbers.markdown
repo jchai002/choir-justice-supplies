@@ -2,6 +2,9 @@
 layout: post
 title:  Porting in your phone numbers
 date:   2017-02-03 15:30:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [activation-and-setup, getting-started, phone-number, porting, wework]
 ---

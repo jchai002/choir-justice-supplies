@@ -2,6 +2,9 @@
 layout: post
 title:  Placer un appel en attente
 date:   2017-02-07 09:15:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [end-user-features, calling, wework]
 ---

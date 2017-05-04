@@ -2,6 +2,9 @@
 layout: post
 title:  Adding Additional Phone Numbers
 date:   2017-01-24 10:01:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [activation-and-setup, getting-started, admin-features, calling, ooma-office-manager, add-ons, wework]
 ---

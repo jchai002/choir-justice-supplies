@@ -2,6 +2,9 @@
 layout: post
 title:  End User Portal administration
 date:   2017-02-07 11:45:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [end-user-portal, wework]
 ---

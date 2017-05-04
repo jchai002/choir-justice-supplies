@@ -2,6 +2,9 @@
 layout: post
 title:  Setting and Updating your Security Question
 date:   2017-02-06 15:00:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [account, admin-features, wework]
 ---

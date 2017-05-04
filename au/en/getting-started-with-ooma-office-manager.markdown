@@ -2,6 +2,9 @@
 layout: post
 title:  Getting Started with Ooma Office Web Portal
 date:   2015-05-18 08:30:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, wework]
 ---

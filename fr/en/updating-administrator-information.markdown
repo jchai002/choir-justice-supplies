@@ -2,6 +2,9 @@
 layout: post
 title:  Updating Administrator Information
 date:   2017-02-06 14:00:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [activation-and-setup, account, add-ons, admin-features, wework]
 ---

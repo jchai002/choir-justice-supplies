@@ -2,6 +2,9 @@
 layout: post
 title:  Sélectionner un numéro de téléphone
 date:   2017-01-14 09:00:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [calling, activation-and-setup, getting-started, phone-number, wework]
 ---

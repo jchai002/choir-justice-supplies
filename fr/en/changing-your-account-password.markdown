@@ -2,6 +2,9 @@
 layout: post
 title:  Changing your Account Password
 date:   2017-02-06 15:30:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [activation-and-setup, account, admin-features, wework]
 ---

@@ -2,6 +2,9 @@
 layout: post
 title:  Ooma Office for WeWork pricing chart
 date:   2017-01-23 12:15:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [add-ons, basic-setup, personalization, phone-number, porting, wework]
 ---

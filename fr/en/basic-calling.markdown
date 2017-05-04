@@ -2,14 +2,12 @@
 layout: post
 title:  Basic Calling
 date:   2017-02-07 12:30:00
-country: France
-language: English
-locale: en-fr
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [end-user-features, calling, wework]
 ---
-
-.
 
 The Ooma Office for WeWork system has several different calling options to choose from. The article below outlines each of the different types of calls you can make and receive as part of your basic Ooma Office subscription, and explains how to perform each option.
 

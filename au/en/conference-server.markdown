@@ -2,6 +2,9 @@
 layout: post
 title:  Conference Server
 date:   2017-02-05 10:30:00
+country: [Australia]
+language: [English]
+locale: [en-au]
 category: [wework]
 tags: [admin-features, add-ons, wework]
 ---

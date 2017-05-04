@@ -2,6 +2,9 @@
 layout: post
 title:  Updating Billing Information
 date:   2017-02-06 14:30:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [account, admin-features, wework]
 ---

@@ -2,6 +2,9 @@
 layout: post
 title:  Configurer votre Compte Prépayé
 date:   2017-02-06 10:00:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [activation-and-setup, add-ons, account, wework]
 ---

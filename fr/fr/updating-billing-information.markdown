@@ -2,6 +2,9 @@
 layout: post
 title:  Mettre à jour les informations de facturation
 date:   2017-02-06 14:30:00
+country: [France]
+language: [French]
+locale: [fr-fr]
 category: [wework]
 tags: [account, admin-features, wework]
 ---

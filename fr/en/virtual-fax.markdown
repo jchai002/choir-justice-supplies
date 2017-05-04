@@ -2,6 +2,9 @@
 layout: post
 title:  Virtual fax
 date:   2017-02-06 16:45:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [admin-features, end-user-features, wework]
 ---

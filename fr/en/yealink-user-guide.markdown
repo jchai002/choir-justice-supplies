@@ -2,6 +2,9 @@
 layout: post
 title:  Yealink IP phone user guide
 date:   2016-05-18 10:30:00
+country: [France]
+language: [English]
+locale: [en-fr]
 category: [wework]
 tags: [end-user-features, add-ons, ip-phones]
 ---
