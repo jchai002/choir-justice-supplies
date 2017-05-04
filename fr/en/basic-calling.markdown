@@ -9,6 +9,8 @@ category: [wework]
 tags: [end-user-features, calling, wework]
 ---
 
+.
+
 The Ooma Office for WeWork system has several different calling options to choose from. The article below outlines each of the different types of calls you can make and receive as part of your basic Ooma Office subscription, and explains how to perform each option.
 
 1. Table of Contents
