@@ -2,9 +2,9 @@
 layout: post
 title:  Basic Calling
 date:   2017-02-07 12:30:00
-country: [France]
-language: [English]
-locale: [en-fr]
+country: France
+language: English
+locale: en-fr
 category: [wework]
 tags: [end-user-features, calling, wework]
 ---
