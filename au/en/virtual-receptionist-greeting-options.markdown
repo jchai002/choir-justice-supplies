@@ -24,7 +24,7 @@ Your Ooma Office virtual receptionist can greet incoming calls in one of two way
 
 When you activate your Ooma Office account, your virtual receptionist will automatically be set up with a Text-to-speech greeting that links to your first extension. You can update your greeting or switch between the two options at any time by following these instructions:
 
-1. Log into your Ooma Office Manager at [office.ooma.au]({{ site.office_link.au }}) and navigate to "[Receptionist]({{ site.office_link.au }}/#virtual_receptionist)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [({{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to "[Receptionist]({{ site.office_link.au }}/#virtual_receptionist)" under the "Setup" tab.
 2. Click on the content of the "Text-to-speech" box to open the "Initial Greeting" box: \\
    ![initial greeting]({{ site.baseurl }}/assets/images/ooma_office_manager/virtual_receptionist_initial_greeting.png)
 
