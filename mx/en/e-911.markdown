@@ -1,0 +1,63 @@
+---
+layout: post
+title:  Emergency calling
+date:   2017-02-06 11:00:00
+country: [Mexico]
+language: [English]
+locale: [en-mx]
+category: [wework]
+tags: [account, wework]
+---
+
+Every second is important in an emergency. It is important for the business address on file with Ooma be accurate. When you dial emergency services, this information is forwarded to emergency personnel to make sure that you are directed to the closest routing center and that first responders know where to find you.
+
+1. Table of Contents
+{:toc}
+* * *
+
+## Does emergency calling work accurately with Ooma Office?
+
+When you register your Ooma Office device, your business address is also used as your service address. When you call emergency services, this information helps to route your call to the nearest response center. It is important that you keep your business address up to date.
+
+**Note:** If your physical location cannot be determined by your service address on file, you will be routed to a national call center to confirm your location so that your call can be forwarded to the appropriate local authority.
+
+**Important:** Ooma cannot provide emergency services without both power and a working broadband Internet connection.
+
+## What emergency numbers can Ooma Office dial?
+
+Ooma Office can be used to dial the following emergency services:
+
+* **15**: Medical help/SAMU
+* **17**: Police
+* **18**: Fire and accident
+* **112**: SOS (all services)
+* **114**: SOS (all services, hearing assisted)
+* **115**: Emergency shelter
+* **116 000**: Missing child
+* **116 117**: Out-of-hours doctors
+* **119**: Mistreated child
+* **191**: Emergency in the air
+* **196**: Emergency at sea (calling from land)
+* **197**: Terror/kidnapping hotline
+
+## How can I update my business address?
+
+You can keep your business address up to date by following these instructions:
+
+1. Log into your Ooma Office Manager at [{{ site.office_link.mx }}]({{ site.office_link.mx }}/) and navigate to the "[Account]({{ site.office_link.mx }}/settings)" tab.
+2. Click "Edit" to edit your "Business Information" under the "Settings" tab, as shown below: \\
+   ![edit business info]({{ site.baseurl }}/assets/images/ooma_office_manager/business_info_edit.png)
+
+3. On the next screen, update your full business street address in the highlighted fields: \\
+   ![business address]]({{ site.baseurl }}/assets/images/ooma_office_manager/eemergency services_address.png)
+
+4. Update your business address to ensure that your emergency services calls will be routed correctly.
+5. Save your changes.
+
+## If the power is out, can I still call emergency services?
+
+Your Ooma Office system is dependent on power to function, so if there is no power you won't be able to use your office phone to place or receive calls including emergency services calls.
+
+## If my Ooma Office device has no Internet connection, can I still call emergency services?
+
+Your Ooma Office system is dependent on power and Internet connection to function, so if either is down, you won't be able to use your office phone to place or receive calls, including emergency services calls. In a situation such as this, you can still dial emergency services from any cellular phone that has a charge in the event of an emergency.

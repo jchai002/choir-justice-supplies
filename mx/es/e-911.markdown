@@ -1,0 +1,63 @@
+---
+layout: post
+title:  Llamadas de Emergencia
+date:   2017-02-06 11:00:00
+country: [Mexico]
+language: [Spanish]
+locale: [mx-es]
+category: [wework]
+tags: [account, wework]
+---
+
+Cada segundo es importante en una emergencia. Es importante que esté correcta la dirección de la compañía en expediente con Ooma. Cuando marcas los servicios de emergencia, ésta información es reenviada al personal de emergencia para asegurarse de que seas enviado al centro más cercano y que los primeros que respondan sepan en donde encontrarte.
+
+1. Tabla de Contenidos
+{:toc}
+* * *
+
+## ¿Funciona adecuadamente la llamada de emergencia con Ooma Office?
+
+Cuando registras tu dispositivo Ooma Office, la dirección de tu negocio también es usada como la dirección para servicios. Cuando llamas a los servicios de emergencia, ésta información ayuda a enviar tu llamada al centro de respuesta más cercano. Es importante que mantengas la dirección de tu empresa actualizada.
+
+**Nota:** Si tu ubicación física no puede determinarse por la dirección para servicios en expediente, serás enviado a un centro de atención nacional para confirmar tu ubicación para que tu llamada sea desviada a la autoridad local correspondiente.
+
+**Importante:** Ooma no puede otorgar servicios de emergencia sin luz y sin una conexión a Internet de banda ancha.
+
+## ¿Qué números de emergencia puede marcar Ooma Office?
+
+Ooma Office puede usarse para marcar los siguientes servicios de emergencia:
+
+* **15**: Asistencia médica/SAMU
+* **17**: Policía
+* **18**: Incendios y quemaduras
+* **112**: SOS (todos los servicios)
+* **114**: SOS (todos los servicios, asistencia auditiva)
+* **115**: Albergues de Emergencia
+* **116 000**: Niños desaparecidos
+* **116 117**: Doctores 24 horas
+* **119**: Niños maltratados
+* **191**: Emergencia aérea
+* **196**: Emergencia marina (llamando desde tierra firme)
+* **197**: Línea directa de Terrorismo/Secuestro
+
+## ¿Cómo puedo actualizar la dirección de mi empresa?
+
+Puedes mantener la dirección de tu empresa actualizada al seguir éstas instrucciones:
+
+1. Ingresa a tu Administrador de Ooma Office en [{{ site.office_link.mx }}]({{ site.office_link.mx }}/) y navega hacia la pstaña de "[Cuenta]({{ site.office_link.mx }}/settings)".
+2. Haz click en "Editar" para editar tu "Información de la Empresa" bajo la pestaña de "Configuración", como se muestra abajo: \\
+   ![editar la información de tu empresa]({{ site.baseurl }}/assets/images/ooma_office_manager/business_info_edit.png)
+
+3. En la siguiente pantalla, actualiza la dirección completa de tu negocio en los campos resaltados: \\
+   ![dirección del negocio]]({{ site.baseurl }}/assets/images/ooma_office_manager/eemergency services_address.png)
+
+4. Actualiza la dirección de tu negocio para asegurar que tus llamadas a servicios de emergencia sean enviadas correctamente.
+5. Guarda tus cambios.
+
+## Si no hay luz, ¿puedo todavía hablar a los servicios de emergencia?
+
+Tu sistema de Ooma Office depende de electricidad para funcionar, así que si no hay luz no podrás usar los teléfonos de la oficina para hacer o recibir llamadas incluyendo las llamadas de emergencia.
+
+## Si mi dispositivo de Ooma Office no tiene conexión a Internet, ¿puedo todavía hacer llamadas de emergencia?
+
+Tu sistema Ooma Office depende de la luz y de conexión a Internet para funcionar, así es que si alguna falla, no podrás usar tu teléfono de oficina para hacer o recibir, incluyendo las llamadas a servicios de emergencia. En una situación como esta, pueden todavía marcar a servicios de emergencia desde cualquier celular que esté cargado en el momento de la emergencia.
