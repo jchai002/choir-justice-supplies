@@ -19,7 +19,7 @@ En plus de rediriger les appels entrants et de fournir un moyen de partager des 
 
 Pour définir vos horaires de travail, suivez les étapes suivantes :
 
-1. Se connecter au Gestionnaire Ooma Office à [office.ooma.com](office.ooma.com) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
+1. Se connecter au Gestionnaire Ooma Office à [office.ooma.fr]({{ site.office_link.fr }}) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
 2. Cliquer sur ["Calendrier Horaires travaillées."]
 3. Sélectionner un jour de la semaine ou une plage de jours à partir du menu déroulant puis positionner le curseur sur vos horaires de travail comme montré ci-dessous. Si votre entreprise est ouverte sur plusieurs créneaux différents selon les jours de la semaine, vous pouvez ajouter de nouvelles lignes en cliquant sur le bouton ["+Ajouter nouvelle intervalle"] : \\
    ![business hours]({{ site.baseurl }}/assets/images/ooma_office_manager/business_hours.png)
@@ -33,7 +33,7 @@ Maintenant votre Réceptionniste virtual utilisera la configuration que vous dé
 
 Vous pouvez préciser les jours durant lesquels votre entreprise sera fermée, tels que les jours fériés. Pour définir les jours non travaillés, suivez les étapes suivantes :
 
-1. Se connecter au Gestionnaire Ooma Office à [office.ooma.com](office.ooma.com) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
+1. Se connecter au Gestionnaire Ooma Office à [office.ooma.fr]({{ site.office_link.fr }}) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
 2. Cliquer sur ["Calendrier congés."]
 3. Cliquer sur les jours durant lesquels votre entreprise sera fermée et marquez les comme des jours de congés récurrents.
 4. Cliquer sur la date d'un jour de congés récurrent (en rouge). Cliquer à nouveau pour rétablir la date comme jour travaillé normal.

@@ -19,7 +19,7 @@ Le Portail d'Utilisateur Final d'Ooma vous permet d'écouter votre messagerie vo
 
 ### Se Connecter
 
-Pour vous connecter, aller à [office.ooma.com]({{ site.office_link.fr }}/), et suivre les étapes ci-dessous pour accéder à votre compte:
+Pour vous connecter, aller à [office.ooma.fr]({{ site.office_link.fr }}/), et suivre les étapes ci-dessous pour accéder à votre compte:
 
 1. Cliquer sur "Pour Utilisateurs" pour afficher l'écran ci-dessous:\\
 

@@ -45,7 +45,7 @@ The process of porting your number away from your current phone provider to Ooma
 
 Once you've decided to take the plunge and port your number, you'll need to follow these steps:
 
-1. Log into Ooma Office Manager and navigate to the Add-Ons tab. Select the "[Number Porting](https://office.ooma.com/number_porting)" option.
+1. Log into Ooma Office Manager and navigate to the Add-Ons tab. Select the "[Number Porting](({{ site.office_link.us }}/number_porting)" option.
 2. Read the instructions carefully, and then click "Start Number Porting."
 3. Fill in the Number Port Request with the following account information:
    * The type of phone number you want to port (landline or mobile phone)
@@ -61,7 +61,7 @@ Once you've decided to take the plunge and port your number, you'll need to foll
 
 ## How can I check on my porting status?
 
-When your number port has been initiated, you can check the porting status at any time by visiting the "[Porting status](https://office.ooma.com/number_porting)" tab in Ooma Office Manager, as shown below:
+When your number port has been initiated, you can check the porting status at any time by visiting the "[Porting status](({{ site.office_link.us }}/number_porting)" tab in Ooma Office Manager, as shown below:
 
 <p align="center"><img alt="call forwarding preferences" src="{{ site.baseurl }}/assets/images/ooma_office_manager/porting_status.png" /></p>
  

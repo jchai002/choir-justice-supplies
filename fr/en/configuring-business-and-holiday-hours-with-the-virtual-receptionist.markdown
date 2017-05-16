@@ -19,7 +19,7 @@ In addition to directing incoming calls and providing an avenue for sharing usef
 
 You can set your business operating hours by following these instructions:
 
-1. Log into your Ooma Office Manager at [office.ooma.com](office.ooma.com) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [office.ooma.fr]({{ site.office_link.fr }}) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
 2. Click on "Business Hours Schedule."
 3. Select a day of the week, or a range of days from the drop-down menu and then set each end of the slider to your business's hours, as shown below. If your business is open at different times on different days of the week, you can add new lines by clicking the "+Add new time interval" button: \\
    ![business hours]({{ site.baseurl }}/assets/images/ooma_office_manager/business_hours.png)
@@ -33,7 +33,7 @@ Now your Virtual Receptionist will use the configuration that you set up under y
 
 You can identify days when your business will be closed as holidays. To set up a holiday schedule, follow these steps:
 
-1. Log into your Ooma Office Manager at [office.ooma.com](office.ooma.com) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [office.ooma.fr]({{ site.office_link.fr }}) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
 2. Click on "Holiday Schedule".
 3. Click on the days that your business will be closed to tag them as recurring holidays. .
 4. Click on a date for a recurring holiday (red). Click again to reset the date as a normal business day.

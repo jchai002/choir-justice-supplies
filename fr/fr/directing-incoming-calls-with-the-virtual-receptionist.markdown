@@ -27,7 +27,7 @@ Vous pouvez choisir à partir de trois options pour chacune des 10 touches du t�
 
 Pour modifier les [Attributions de pression de touche], suivez les étapes suivantes :
 
-1. Se connecter au Gestionnaire Ooma Office à [office.ooma.com](office.ooma.com) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
+1. Se connecter au Gestionnaire Ooma Office à [office.ooma.fr]({{ site.office_link.fr }}) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
 2. Choisir un numéro non attribué pour lequel vous voulez modifier l'[Attribution de pression de touche] et cliquer n'importe où sur la boîte bleue.
 3. Décider si vous voulez attribuer à cette touche un ["Composer nom"], ["Jouer annonce"], ou ["Transférer appel"] et sélectionner cette option à partir du menu déroulant.
 4. Remplir les informations demandées puis cliquer sur "Enregistrer".
@@ -38,7 +38,7 @@ Les informations concernant votre [Attribution de pression de touche] apparaîtr
 
 Vous pouvez permettre à vos clients d'entrer le numéro de poste dès le décrochage. Pour activer cette option, suivez les étapes suivantes :
 
-1. Se connecter au Gestionnaire Ooma Office à [office.ooma.com](office.ooma.com) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
+1. Se connecter au Gestionnaire Ooma Office à [office.ooma.fr]({{ site.office_link.fr }}) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
 2. Cliquer sur l'onglet "Paramètres".
 3. Activer ["Composer n° de poste"] selon vos préférences.
 
@@ -46,7 +46,7 @@ Vous pouvez permettre à vos clients d'entrer le numéro de poste dès le décro
 
 Oui ! Vous pouvez choisir quels sont les postes accessibles par ["Composer n° de poste"] ou ["Composer nom"] en suivant les étapes suivantes :
 
-1. Se connecter au Gestionnaire Ooma Office à [office.ooma.com](office.ooma.com) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
+1. Se connecter au Gestionnaire Ooma Office à [office.ooma.fr]({{ site.office_link.fr }}) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
 2. Cliquer sur l'onglet "Paramètres" puis cliquer sur ["Personnaliser paramètres de l'annuaire"] sur l'écran affiché.
 3. Vous pouvez décider pour chaque poste s'il peut être accessible via ["Composer n° de poste"] ou ["Composer nom"] : \\
    ![customize directory]({{ site.baseurl }}/assets/images/ooma_office_wework/customize_directory_settings_wework.png)

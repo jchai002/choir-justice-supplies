@@ -35,7 +35,7 @@ You can have multiple toll-free numbers on your Ooma Office account. If you woul
 
 ## How can I assign a toll-free number to an extension?
 
-Once you have set up your toll-free number, you can assign it to any desired extension by visiting the "[Numbers](https://office.ooma.com/phone_numbers)" page under the "Setup" tab.
+Once you have set up your toll-free number, you can assign it to any desired extension by visiting the "[Numbers](({{ site.office_link.us }}/phone_numbers)" page under the "Setup" tab.
 
 ## How much does a toll-free number cost?
 
@@ -51,5 +51,5 @@ Your toll-free number includes 500 minutes of free inbound calling per month. If
 	* 1,000 additional minutes of toll-free number calling per month (1,500 minutes total) for $15 per month. Additional minutes are charged at 2.9¢ per minute.
 	* 2,500 additional minutes of toll-free number calling per month (3,000 minutes total) for $30 per month. Additional minutes are charged at 2.4¢ per minute.
 
-	If you would like to subscribe to one of these plans, you can do so by visiting the Add-Ons section of Ooma Office Manager and clicking on [Services](https://office.ooma.com/accessories/toll_free_plan).
+	If you would like to subscribe to one of these plans, you can do so by visiting the Add-Ons section of Ooma Office Manager and clicking on [Services](({{ site.office_link.us }}/accessories/toll_free_plan).
 {% endcomment %}

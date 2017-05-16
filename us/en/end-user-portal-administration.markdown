@@ -27,13 +27,13 @@ An account for the End User Portal is automatically created when an extension is
 
 When a new user extension is created, the user will receive an automated email sent to the address that was entered during extension setup. This email will contain the user's extension number and temporary account password, both of which are necessary to log into the End User Portal.
 
-Once the user has this information, he or she can log into the End User Portal by visiting [office.ooma.com/user](https://office.ooma.com/user) and following the instructions in [this FAQ](/us/en/ooma-end-user-portal).
+Once the user has this information, he or she can log into the End User Portal by visiting [({{ site.office_link.us }}/user](({{ site.office_link.us }}/user) and following the instructions in [this FAQ](/us/en/ooma-end-user-portal).
 
 ## How can I reset a user's password?
 
 If a user needs to have his or her password reset manually, you can do so by following these instructions:
 
-1. Navigate to the Ooma Office Portal at [office.ooma.com](https://office.ooma.com) and log in as an administrator.
+1. Navigate to the Ooma Office Portal at [({{ site.office_link.us }}](({{ site.office_link.us }}) and log in as an administrator.
 2. Click the ![settings]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) button that corresponds with the affected user.
 3. A pop-up window with information about the user's account will appear. Choose whether you want to reset the user's password automatically or if you would prefer to manually override the password: \\
    ![manual reset user pw]({{ site.baseurl }}/assets/images/ooma_office_wework/extension_reset_password_wework.png)
@@ -45,7 +45,7 @@ If a user needs to have his or her password reset manually, you can do so by fol
 
 	You can delete a user's account by following these steps:
 
-	1. Navigate to the Ooma Office Portal at [office.ooma.com](https://office.ooma.com) and log in as an administrator, then navigate to "[Extensions](https://office.ooma.com/extensions)" under the "Setup" tab.
+	1. Navigate to the Ooma Office Portal at [({{ site.office_link.us }}](({{ site.office_link.us }}) and log in as an administrator, then navigate to "[Extensions](({{ site.office_link.us }}/extensions)" under the "Setup" tab.
 	2. Locate the user whose extension you would like to delete, and click on the ![trash]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) icon in that row.
 	3. Click "Confirm" to delete the extension.
 

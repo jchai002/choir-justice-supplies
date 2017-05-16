@@ -19,7 +19,7 @@ The Ooma End User Portal allows you to listen to voicemail, check your call logs
 
 ### Logging In
 
-To log in, navigate to [office.ooma.com]({{ site.office_link.us }}/), and follow the steps below to access your account:
+To log in, navigate to [({{ site.office_link.us }}]({{ site.office_link.us }}/), and follow the steps below to access your account:
 
 1. Click on "For Users" to bring up the screen shown below:\\
    ![End User Portal Login]({{ site.baseurl }}/assets/images/end_user_portal/login_screen.png)

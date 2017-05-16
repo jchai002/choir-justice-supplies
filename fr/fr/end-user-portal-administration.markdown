@@ -27,13 +27,13 @@ Un compte pour le Portail Utilisateur Final est automatiquement créé lorsqu'un
 
 Lorsqu'une nouvelle extension utilisateur est créée, l'utilisateur recevra un courriel automatisé envoyé à l'adresse saisie lors de l'installation de l'extension. Ce courriel contiendra le numéro d'extension de l'utilisateur et mot de passe du compte temporaire, qui sont tous deux nécessaires pour vous connecter au Portail de l'Utilisateur Final.
 
-Une fois que l'utilisateur dispose de cette information, il peut se connecter au Portail de l'Utilisateur Final en consultant [office.ooma.com/user]({{ site.office_link.fr }}/user) et suivant les instructions de [ce FAQ](/fr/fr/ooma-end-user-portal).
+Une fois que l'utilisateur dispose de cette information, il peut se connecter au Portail de l'Utilisateur Final en consultant [office.ooma.fr/user]({{ site.office_link.fr }}/user) et suivant les instructions de [ce FAQ](/fr/fr/ooma-end-user-portal).
 
 ## Comment puis-je réinitialiser le mot de passe d'un utilisateur?
 
 Si un utilisateur doit réinitialiser manuellement son mot de passe, vous pouvez le faire en suivant les instructions ci-dessous:
 
-1. Consulter le Portail Ooma Office [office.ooma.com]({{ site.office_link.fr }}) et se connecter en tant qu'administrateur.
+1. Consulter le Portail Ooma Office [office.ooma.fr]({{ site.office_link.fr }}) et se connecter en tant qu'administrateur.
 2. Cliquer sur le bouton ![Paramètres]({{ site.baseurl }}/assets/images/ooma_office_manager/settings.png) correspondant à l'utilisateur concerné.
 3. Une fenêtre contextuelle avec des informations sur le compte de l'utilisateur apparaîtra. Choisir si vous souhaitez réinitialiser le mot de passe de l'utilisateur automatiquement ou si vous préférez le remplacer manuellement: 
    ![manual reset user pw]({{ site.baseurl }}/assets/images/ooma_office_wework/extension_reset_password_wework.png)
@@ -47,7 +47,7 @@ Si un utilisateur doit réinitialiser manuellement son mot de passe, vous pouvez
 
        Vous pouvez supprimer le compte d'un utilisateur en suivant les étapes ci-dessous:
 
-       1. Consulter le Portail Ooma Office [office.ooma.com]({{ site.office_link.fr }}) et se connecter en tant qu'administrateur, puis accéder à "[Extensions]({{ site.office_link.fr }}/extensions)" sous l'onglet "Paramètres".
+       1. Consulter le Portail Ooma Office [office.ooma.fr]({{ site.office_link.fr }}) et se connecter en tant qu'administrateur, puis accéder à "[Extensions]({{ site.office_link.fr }}/extensions)" sous l'onglet "Paramètres".
        2. Repérer l'utilisateur avec l'extension que vous souhaitez supprimer et cliquer sur l'icône [Corbeille]({{ site.baseurl }}/assets/images/ooma_office_manager/trash.png) sur cette ligne.
        3. Cliquer sur "Confirmer" pour supprimer l'extension.
 

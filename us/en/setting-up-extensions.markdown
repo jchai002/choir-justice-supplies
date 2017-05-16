@@ -26,7 +26,7 @@ You can set up a new user or ring group extension by following these instruction
 3. Fill out the required information for the new extension and choose an unused extension number. The requested information will be different depending on the type of extension you choose to create.
 4. Save your changes.
 
-If you would like to set up a conference extension, you can do so by visiting [https://office.ooma.com/conferences](https://office.ooma.com/conferences) and clicking the "Setup Conference Server" button.
+If you would like to set up a conference extension, you can do so by visiting [({{ site.office_link.us }}/conferences](({{ site.office_link.us }}/conferences) and clicking the "Setup Conference Server" button.
 
 ## What types of extensions can I set up?
 

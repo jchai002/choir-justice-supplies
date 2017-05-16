@@ -27,7 +27,7 @@ You can choose one of three options for each of the ten buttons on the phone:
 
 To get started editing the Key Press Assignments, follow these directions:
 
-1. Log into your Ooma Office Manager at [office.ooma.com](office.ooma.com) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [office.ooma.fr]({{ site.office_link.fr }}) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
 2. Choose an unassigned number for which you will make a new Key Press Assignment and click anywhere within the blue box.
 3. Decide whether you will assign that key press to "Dial by Name", "Play Announcement", or "Transfer Call" and select that option from the drop-down menu.
 4. Fill out the required information and click "Save" to commit your changes.
@@ -38,7 +38,7 @@ Information about your Key Press Assignment will now appear on the main page of 
 
 You can allow customers to dial by extension right away. To turn dial-by-extension on, follow these instructions:
 
-1. Log into your Ooma Office Manager at [office.ooma.com](office.ooma.com) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [office.ooma.fr]({{ site.office_link.fr }}) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
 2. Click on the "Settings" tab.
 3. Toggle "Enable dial-by-extension" on or off depending on your preferences.
 
@@ -46,7 +46,7 @@ You can allow customers to dial by extension right away. To turn dial-by-extensi
 
 Yes! You can choose which extensions are available to both the "Dial-By-Extension" and the "Dial-By-Name" features by following these steps:
 
-1. Log into your Ooma Office Manager at [office.ooma.com](office.ooma.com) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
+1. Log into your Ooma Office Manager at [office.ooma.fr]({{ site.office_link.fr }}) and navigate to "[Receptionist]({{ site.office_link.fr }}/#virtual_receptionist)" under the "Setup" tab.
 2. Click on the "Settings" tab and then click "Customize directory settings" on the screen that is displayed.
 3. You can decide for each extension whether it will be reachable via "Dial-By-Extension" and "Dial-By-Name": \\
    ![customize directory]({{ site.baseurl }}/assets/images/ooma_office_wework/customize_directory_settings_wework.png)

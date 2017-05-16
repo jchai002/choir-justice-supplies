@@ -88,7 +88,7 @@ You can set up your ring group to ring for up to 60 seconds before the call eith
 
 You can assign one or more direct phone numbers to give direct calling access to a ring group by following these instructions:
 
-1. Go to the Phone Numbers web page at [https://office.ooma.com/#manage_phone_number](https://office.ooma.com/#manage_phone_number). 
+1. Go to the Phone Numbers web page at [({{ site.office_link.us }}/#manage_phone_number](({{ site.office_link.us }}/#manage_phone_number). 
 2. You will see a table like the one below with one entry for each of your business's phone numbers: \\
    ![manage phone numbers]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png)
 

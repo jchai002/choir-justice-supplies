@@ -24,7 +24,7 @@ Votre réceptionniste virtuel peut accueillir les appels entrants de deux façon
 
 Lorsque vous activez votre compte Ooma, votre réceptionniste virtuel sera automatiquement configuré avec un message d'accueil texte-vers-parole lié à votre premier numéro de poste. Vous pouvez mettre à jour votre message d'accueil ou passer d'une option à l'autre à tout moment en suivant les instructions suivantes :
 
-1. Se connecter au Gestionnaire Ooma Office à [office.ooma.com](office.ooma.com) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
+1. Se connecter au Gestionnaire Ooma Office à [office.ooma.fr]({{ site.office_link.fr }}) et se rendre sur "[Réceptioniste]({{ site.office_link.fr }}/#virtual_receptionist)" sous l'onglet "Configuration".
 2. Cliquer sur le contenu de la boîte ["Texte-vers-parole"] pour ouvrir la boîte ["Accueil initial"] : \\
    ![initial greeting]({{ site.baseurl }}/assets/images/ooma_office_manager/virtual_receptionist_initial_greeting.png)
 

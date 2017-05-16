@@ -17,7 +17,7 @@ The Ooma Office for WeWork web portal is where you will go to administrate your 
 
 ## How do I sign into the Ooma Office web portal?
 
-You can sign into the Ooma Office for WeWork web portal by visiting [https://office.ooma.com/](https://office.ooma.com/) with a web browser. Your username is your business's primary phone number, and the password is the one that you chose during account creation.
+You can sign into the Ooma Office for WeWork web portal by visiting [({{ site.office_link.us }}/](({{ site.office_link.us }}/) with a web browser. Your username is your business's primary phone number, and the password is the one that you chose during account creation.
 
 If you cannot remember your Ooma Office web portal password, you can recover it by following the instructions in [this FAQ](/us/en/recovering-a-lost-password).
 
@@ -25,35 +25,35 @@ If you cannot remember your Ooma Office web portal password, you can recover it 
 
 The Use tab in the Ooma Office web portal allows you to do the following:
 
-* Review your account's incoming, outgoing, and internal [call logs](https://office.ooma.com/call_logs)
-* Check your account's incoming and outgoing [fax logs](https://office.ooma.com/fax_logs)
+* Review your account's incoming, outgoing, and internal [call logs](({{ site.office_link.us }}/call_logs)
+* Check your account's incoming and outgoing [fax logs](({{ site.office_link.us }}/fax_logs)
 * Enable the conference server
 
 ## What can I do under the Setup tab?
 
 The Setup tab in the Ooma Office web portal is where you will do the following:
 
-* Add and manage your account's [extensions](https://office.ooma.com/extensions)
-* Add and manage your account's [phone numbers](https://office.ooma.com/phone_numbers)
-* Set up your included [virtual receptionist](https://office.ooma.com/virtual_receptionist)
-* Manage the [conference server](https://office.ooma.com/conferences) (if enabled)
-* Update your account [preferences](https://office.ooma.com/preferences)
+* Add and manage your account's [extensions](({{ site.office_link.us }}/extensions)
+* Add and manage your account's [phone numbers](({{ site.office_link.us }}/phone_numbers)
+* Set up your included [virtual receptionist](({{ site.office_link.us }}/virtual_receptionist)
+* Manage the [conference server](({{ site.office_link.us }}/conferences) (if enabled)
+* Update your account [preferences](({{ site.office_link.us }}/preferences)
 
 ## What can I do under the Account tab?
 
 The Account tab in the Ooma Office web portal allows you to do the following:
 
-* View and update your [account settings](https://office.ooma.com/settings)
-* Review your account's billing history and update your [billing information](https://office.ooma.com/billing)
-* Check the status of any outstanding [number ports](https://office.ooma.com/porting_status)
+* View and update your [account settings](({{ site.office_link.us }}/settings)
+* Review your account's billing history and update your [billing information](({{ site.office_link.us }}/billing)
+* Check the status of any outstanding [number ports](({{ site.office_link.us }}/porting_status)
 
 ## What can I do under the Add-ons tab?
 
 The Add-ons tab in the Ooma Office web portal allows you to do the following:
 
-* Buy [IP phones](https://office.ooma.com/ip_phones) for Ooma Office
-* Initiate the [porting process](https://office.ooma.com/number_porting) for one or more phone numbers
-* Review the activity on your [prepaid account](https://office.ooma.com/prepaid_account) and add funds if necessary
+* Buy [IP phones](({{ site.office_link.us }}/ip_phones) for Ooma Office
+* Initiate the [porting process](({{ site.office_link.us }}/number_porting) for one or more phone numbers
+* Review the activity on your [prepaid account](({{ site.office_link.us }}/prepaid_account) and add funds if necessary
 
 ## What can I do under the Assistant tab?
 
