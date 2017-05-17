@@ -28,7 +28,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <tr>
 <td class="indent"><a href="/us/en/setting-up-extensions">Ooma Office for WeWork user extension</a></td>
 <td style="text-align:center;">$50.00</td>
-<td style="text-align:center;">$00.00</td>
+<td style="text-align:center;">$60.00</td>
 </tr>
 <tr class="subheader">
 <th style="padding-left:3px;">Features</th>
