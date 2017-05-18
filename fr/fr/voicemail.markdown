@@ -27,7 +27,7 @@ Si vous souhaitez consulter votre messagerie vocale, il suffit de décrocher le 
 
 ### D'un autre téléphone Ooma Office ou d'une ligne téléphonique externe
 
-Il faut attendre que l'appel se termine sur la messagerie vocale, puis appuyer sur [*] et saisir votre code PIN. Si c'est la première fois que vous accédez à votre messagerie vocale, vous aurez besoin du code PIN qui vous a été envoyé par courriel lorsque votre extension a été créée. Si vous ne possédez pas ce code PIN, veuillez contacter votre Administrateur Système pour lui demander de définir un nouveau code PIN afin que vous puissiez vous connecter pour la première fois.
+Il faut attendre que l'appel se termine sur la messagerie vocale, puis appuyer sur [*] et saisir votre code PIN. Si c'est la première fois que vous accédez à votre messagerie vocale, vous aurez besoin du code PIN. Si vous ne possédez pas ce code PIN, veuillez contacter votre Administrateur Système pour lui demander de définir un nouveau code PIN afin que vous puissiez vous connecter pour la première fois.
 
 ### Composer un numéro via la réceptionniste virtuelle
 

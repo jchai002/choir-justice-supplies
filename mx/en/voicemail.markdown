@@ -27,7 +27,7 @@ If you would like to check your voicemail, just pick up the phone press the mess
 
 ### From another Ooma Office phone or from an outside phone line
 
-Wait until the call rolls to voicemail, and then press [*] and enter your PIN. If this is the first time you access your voicemail, you will need the PIN that was emailed to you when your extension was created. If you do not have this PIN, contact your System Administrator to have them set a new PIN so that you can log in the first time.
+If you would like to check your voicemail from another Ooma Office phone or from an outside phone line, wait until the call rolls to voicemail and then press [*] and enter your PIN. If this is the first time you access your voicemail, you will need your PIN. If you do not have this number, contact your System Administrator to have them set a new PIN so that you can log in the first time.
 
 ### Dialing through the virtual receptionist
 
