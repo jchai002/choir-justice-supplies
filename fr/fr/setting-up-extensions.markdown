@@ -32,15 +32,15 @@ Si vous souhaitez mettre en place un poste de conférence, rendez-vous sur [{{ s
 
 Vous avez le choix entre les différents types de postes suivants :
 
-* **Utilisateur :** Les postes utilisateur sont fournis avec un numéro de téléphone et attribués à des employés individuels. Vous aurez à créer un profil d'utilisateur pour l'employé puis à configurer les dispositifs qui lui sont associés. Pour en savoir plus sur comment ajouter de nouveaux utilisateurs, rendez-vous sur notre [FAQ utilisateurs](/fr/fr//adding-a-new-user).
-* **Groupe d'appels :** Les postes de groupes d'appels vous permettent de rediriger des appels entrants vers plusieurs utilisateurs. Ceci est très pratique si vous avez un département de vente ou de support avec plusieurs employés répondant aux appels entrants. [en savoir plus](/fr/fr//ring-groups).
+* **Utilisateur :** Les postes utilisateur sont fournis avec un numéro de téléphone et attribués à des employés individuels. Vous aurez à créer un profil d'utilisateur pour l'employé puis à configurer les dispositifs qui lui sont associés. Pour en savoir plus sur comment ajouter de nouveaux utilisateurs, rendez-vous sur notre [FAQ utilisateurs](/fr/fr/adding-a-new-user).
+* **Groupe d'appels :** Les postes de groupes d'appels vous permettent de rediriger des appels entrants vers plusieurs utilisateurs. Ceci est très pratique si vous avez un département de vente ou de support avec plusieurs employés répondant aux appels entrants. [en savoir plus](/fr/fr/ring-groups).
 
 ## Quel est le coût d'un nouveau poste ?
 
-Le coût d'un nouveau poste varie selon le type de poste. Veuillez consulter notre [tableau des tarifs](/fr/fr//ooma-office-pricing-chart) pour en savoir plus.
+Le coût d'un nouveau poste varie selon le type de poste. Veuillez consulter notre [tableau des tarifs](/fr/fr/ooma-office-pricing-chart) pour en savoir plus.
 
 ## Comment puis-je attribuer des numéros d'accès directs supplémentaires à un poste ?
 
-Tous les types de poste, à part les groupes d'appels, sont fournis avec un numéro de téléphone pour un accès direct. Le nouveau numéro de téléphone sera automatiquement attribué au poste lorsqu'il est créé. Si vous avez besoin de numéros de téléphone supplémentaires en plus de ceux fournis avec vos postes, vous pouvez les acheter en suivant les instructions précisées dans notre [FAQ numéros de téléphone](/fr/fr//adding-additional-phone-numbers).
+Tous les types de poste, à part les groupes d'appels, sont fournis avec un numéro de téléphone pour un accès direct. Le nouveau numéro de téléphone sera automatiquement attribué au poste lorsqu'il est créé. Si vous avez besoin de numéros de téléphone supplémentaires en plus de ceux fournis avec vos postes, vous pouvez les acheter en suivant les instructions précisées dans notre [FAQ numéros de téléphone](/fr/fr/adding-additional-phone-numbers).
 
-Vous pouvez consulter et mettre à jour le poste auquel chaque numéro de téléphone est associé à partir de l'onglet [Numéros de téléphone] dans le Gestionnaire Ooma Office. Pour plus d'informations, veuillez consulter notre [FAQ mapping des numéros de téléphone](/fr/fr//mapping-phone-numbers). 
+Vous pouvez consulter et mettre à jour le poste auquel chaque numéro de téléphone est associé à partir de l'onglet [Numéros de téléphone] dans le Gestionnaire Ooma Office. Pour plus d'informations, veuillez consulter notre [FAQ mapping des numéros de téléphone](/fr/fr/mapping-phone-numbers). 

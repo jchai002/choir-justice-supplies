@@ -32,15 +32,15 @@ If you would like to set up a conference extension, you can do so by visiting [{
 
 You can choose from the following extension types:
 
-* **User:** User extensions come bundled with a phone number and are assigned to individual employees. You will create a user profile for the employee, and then configure the devices that are assigned to the user. To learn more about adding new users, you may visit our [users FAQ](/fr/en//adding-a-new-user).
-* **Ring group:** Ring group extensions allow you to direct incoming calls to multiple users. This is especially useful if you have a department such as sales or support with multiple employees who can handle incoming phone calls. [Learn more](/fr/en//ring-groups).
+* **User:** User extensions come bundled with a phone number and are assigned to individual employees. You will create a user profile for the employee, and then configure the devices that are assigned to the user. To learn more about adding new users, you may visit our [users FAQ](/fr/en/adding-a-new-user).
+* **Ring group:** Ring group extensions allow you to direct incoming calls to multiple users. This is especially useful if you have a department such as sales or support with multiple employees who can handle incoming phone calls. [Learn more](/fr/en/ring-groups).
 
 ## How much do new extensions cost?
 
-The cost of a new extension varies depending on the type of extension you would like to add. Please refer to our [pricing chart](/fr/en//ooma-office-pricing-chart) to learn more.
+The cost of a new extension varies depending on the type of extension you would like to add. Please refer to our [pricing chart](/fr/en/ooma-office-pricing-chart) to learn more.
 
 ## How can I assign additional direct access phone numbers to an extension?
 
-All extension types except ring groups come with a phone number for direct calling access. The new phone number will be automatically assigned to the extension when it is created. If you need additional phone numbers beyond those that are included with your extensions, you can purchase them by following the instructions in our [phone numbers FAQ](/fr/en//adding-additional-phone-numbers).
+All extension types except ring groups come with a phone number for direct calling access. The new phone number will be automatically assigned to the extension when it is created. If you need additional phone numbers beyond those that are included with your extensions, you can purchase them by following the instructions in our [phone numbers FAQ](/fr/en/adding-additional-phone-numbers).
 
-You can review and update the extension that each phone number is assigned to by visiting the Phone Numbers tab in Ooma Office Manager. For more information, please see our [mapping phone numbers FAQ](/fr/en//mapping-phone-numbers). 
+You can review and update the extension that each phone number is assigned to by visiting the Phone Numbers tab in Ooma Office Manager. For more information, please see our [mapping phone numbers FAQ](/fr/en/mapping-phone-numbers). 

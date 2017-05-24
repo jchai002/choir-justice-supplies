@@ -33,11 +33,11 @@ You can map a phone by following these instructions:
 
 ## How can I purchase additional phone numbers?
 
-You can purchase additional phone numbers by following the instructions in our [adding phone numbers FAQ](/au/en//adding-additional-phone-numbers).
+You can purchase additional phone numbers by following the instructions in our [adding phone numbers FAQ](/au/en/adding-additional-phone-numbers).
 
 ## Can I map a phone number to ring multiple extensions?
 
-You can map a single phone number to ring multiple extensions by setting up a ring group containing all of the numbers that you would like to have ring. You can learn more by visiting our [ring groups FAQ](/au/en//ring-groups).
+You can map a single phone number to ring multiple extensions by setting up a ring group containing all of the numbers that you would like to have ring. You can learn more by visiting our [ring groups FAQ](/au/en/ring-groups).
 
 ## Can I map multiple phone numbers to one extension?
 

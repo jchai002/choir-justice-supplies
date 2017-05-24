@@ -23,11 +23,11 @@ Vous pouvez mapper un téléphone en suivant les étapes suivantes :
 
 ## Comment puis-je acheter des numéros de téléphone supplémentaires ?
 
-Vous pouvez acheter des numéros de téléphone supplémentaires en suivant les instructions spécifiées dans notre [FAQ ajouter des numéros de téléphone](/fr/fr//adding-additional-phone-numbers).
+Vous pouvez acheter des numéros de téléphone supplémentaires en suivant les instructions spécifiées dans notre [FAQ ajouter des numéros de téléphone](/fr/fr/adding-additional-phone-numbers).
 
 ## Puis-je mapper un numéro de téléphone afin qu'il sonne sur plusieurs postes ?
 
-Vous pouvez mapper un numéro de téléphone afin qu'il sonne sur plusieurs postes en créant un groupe d'appels comprenant tous les numéros que vous souhaitez faire sonner. Pour en savoir plus rendez-vous sur notre [FAQ groupes d'appels](/fr/fr//ring-groups).
+Vous pouvez mapper un numéro de téléphone afin qu'il sonne sur plusieurs postes en créant un groupe d'appels comprenant tous les numéros que vous souhaitez faire sonner. Pour en savoir plus rendez-vous sur notre [FAQ groupes d'appels](/fr/fr/ring-groups).
 
 ## Puis-je mapper plusieurs numéros de téléphone vers un même poste ?
 

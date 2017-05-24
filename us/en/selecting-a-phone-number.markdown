@@ -32,4 +32,4 @@ There is a very good chance that you will be able to select a phone number withi
 
 Yes, once your Ooma Office for WeWork account has been created you may do this. To get started, log into your account and go to the [Numbers](({{ site.office_link.us }}/phone_numbers) option under the Setup tab. Click "+Add Number," and then select "Add toll-free number" from the dropdown menu. Follow the instructions on the screen to add a new toll-free number to your account.
 
-You can also [contact Ooma support](/us/en//contact-us) to port an existing toll-free phone number. Toll-free phone numbers include 500 minutes of free inbound calling with additional minutes being billed at 3.4 cents/min. You can learn more about Ooma Office for WeWork pricing by visiting our [pricing chart](/us/en/ooma-office-pricing-chart).
+You can also [contact Ooma support](/us/en/contact-us) to port an existing toll-free phone number. Toll-free phone numbers include 500 minutes of free inbound calling with additional minutes being billed at 3.4 cents/min. You can learn more about Ooma Office for WeWork pricing by visiting our [pricing chart](/us/en/ooma-office-pricing-chart).

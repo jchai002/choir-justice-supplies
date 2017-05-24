@@ -31,4 +31,4 @@ Press the **Resume** softkey to resume the call.
 
 ## What will the caller hear while they are on hold?
 
-Your customer will hear either your company's "Music on Hold" audio file, if applicable. You can learn more about "Music on Hold" by [visiting our FAQ](/office/music-on-hold).
+Your customer will hear either your company's "Music on Hold" audio file, if applicable. You can learn more about "Music on Hold" by [visiting our FAQ](/mx/en/music-on-hold).
