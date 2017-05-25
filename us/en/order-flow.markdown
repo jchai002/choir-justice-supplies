@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ordering Ooma Office for WeWork
-date:   2017-05-25 10:30:00
+date:   2017-05-25 9:30:00
 country: [US]
 language: [English]
 locale: [en-us]
