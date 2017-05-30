@@ -13,7 +13,7 @@ Congratulations on your decision to sign up for Ooma Office for WeWork! Please f
 
 **NOTE:** At this time, only a WeWork Primary member can place a phone order via the WeWork web portal. If the Primary member is not available, we might still be able to help. Please contact our [Customer Care team](us/en/contact-us) to learn more.
 
-1. Log into the WeWork member portal at [https://members.wework.com](https://members.wework.com) and navigate to "Office Needs" under the Services & Benefits menu. Alternatively, you can visit the following direct link: https://members.wework.com/our-services.
+1. Log into the WeWork member portal at [https://members.wework.com](https://members.wework.com) and navigate to "Office Needs" under the Services & Benefits menu. Alternatively, you can visit the following direct link: [https://members.wework.com/our-services](https://members.wework.com/our-services).
 
    ![wework menu]({{ site.baseurl }}/assets/images/order_flow/order_flow_menu.png)
 
