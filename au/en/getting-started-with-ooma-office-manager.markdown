@@ -6,7 +6,7 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, wework]
+tags: [getting-started, actiGSTion-and-setup, ooma-office-manager, admin-features, wework]
 ---
 
 The Ooma Office web portal is where you will manage your Ooma Office for WeWork setup. Everything you need is brought together in one place that you can access from anywhere that you have an Internet connection. Whether you would like to update your Virtual Receptionist, add capacity to your Ooma Office system, or personalise your setup, your Ooma Office account is where you'll find all the tools you need!

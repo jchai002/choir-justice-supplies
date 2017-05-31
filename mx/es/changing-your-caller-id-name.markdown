@@ -11,7 +11,7 @@ tags: [ooma-office-manager, admin-features, calling, wework]
 
 El nombre del identificador de llamadas se configura durante el proceso de activación de la cuenta. Se mostrará cuando se llame a otro suscriptor de Ooma Office, a un suscriptor residencial de Ooma y por otros teléfonos de destino externo (ver notas).
 
-Cambiar el nombre del identificador de llamadas por medio del Administrador de Ooma Office hará que se cambie el nombre del identificador de llamadas que se muestra cuando se llama a otro suscriptor de Ooma Office o a un suscriptor residencial de Ooma, pero no va a cambiar lo que se muestra en teléfonos de destino externo. Para cambiar globalmente tu identificador de llamadas, por favor [llame a Servicio al Cliente de Ooma Office](/mx/es/contact us) para solicitar el cambio.
+Cambiar el nombre del identificador de llamadas por medio del Administrador de Ooma Office hará que se cambie el nombre del identificador de llamadas que se muestra cuando se llama a otro suscriptor de Ooma Office o a un suscriptor residencial de Ooma, pero no va a cambiar lo que se muestra en teléfonos de destino externo. Para cambiar globalmente tu identificador de llamadas, por favor [llame a Servicio al Cliente de Ooma Office](/mx/es/contact-us) para solicitar el cambio.
 
 Para cambiar el nombre del identificador de llamadas sigue éstas instrucciones:
 

@@ -25,7 +25,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 </tr>
 <tr>
 <td class="indent"><a href="/au/en/setting-up-extensions">Ooma Office for WeWork user extension</a></td>
-<td style="text-align:center;">$60.00</td>
+<td style="text-align:center;">A$60.00</td>
 </tr>
 <tr class="subheader">
 <th style="padding-left:3px;">Features</th>
@@ -65,11 +65,11 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 </tr>
 <tr>
 <td class="indent"><a href="/au/en/adding-additional-phone-numbers">Additional local phone number</a></td>
-<td style="text-align:center;">AUD$11.00</td>
+<td style="text-align:center;">A$11.00</td>
 </tr>
 </table>
 </p>
-<p style="font-size: 75%;">* Phone number porting is complimentary for all regular Australian phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of $11.00 (VAT included) for each number.</p>
+<p style="font-size: 75%;">* Phone number porting is complimentary for all regular Australian phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of A$11.00 (GST included) for each number.</p>
 
 <style type="text/css">
 

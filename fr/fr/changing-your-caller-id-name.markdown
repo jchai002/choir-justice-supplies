@@ -11,7 +11,7 @@ tags: [ooma-office-manager, admin-features, calling, wework]
 
 Le nom d’dentification de l'appelant est configuré pendant le processus d'activation du compte. Il sera affiché lors d’appels d'abonnés Ooma Office, abonnés particuliers Ooma ou correspondants externes (cf. remarque).
 
-La modification du nom de l'identifiant de l'appelant via le Gestionnaire Ooma Office changera le nom de l'identifiant de l'appelant lors d’appels d'abonnés Ooma Office ou abonnés particulier Ooma, mais il ne modifiera pas ce qui est affiché pour les téléphones externes. Pour changer votre nom d’identifiant de l'appelant pour tous vos appels, veuillez [appeler le Service Client d’Ooma Office(/fr/fr/nous contacter) pour demander le changement.
+La modification du nom de l'identifiant de l'appelant via le Gestionnaire Ooma Office changera le nom de l'identifiant de l'appelant lors d’appels d'abonnés Ooma Office ou abonnés particulier Ooma, mais il ne modifiera pas ce qui est affiché pour les téléphones externes. Pour changer votre nom d’identifiant de l'appelant pour tous vos appels, veuillez [appeler le Service Client d’Ooma Office(/fr/fr/contact-us) pour demander le changement.
 
 Pour modifier le nom de l'appelant, veuillez suivre les étapes suivantes :
 

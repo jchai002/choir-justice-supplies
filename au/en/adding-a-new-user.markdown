@@ -6,10 +6,10 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, user-management, wework]
+tags: [getting-started, actiGSTion-and-setup, ooma-office-manager, admin-features, user-management, wework]
 ---
 
-After your initial setup you may wish to continue expanding your Ooma Office for WeWork system beyond your first users. Each new user comes bundled with a phone number, private voicemail box, and personalised access to the Ooma Office End User Portal.
+After your initial setup you may wish to continue expanding your Ooma Office for WeWork system beyond your first users. Each new user comes bundled with a phone number, priGSTe voicemail box, and personalised access to the Ooma Office End User Portal.
 
 Keep in mind that when you are opening the webpages indicated in this article you will need to log in as an administrator.
 
@@ -30,7 +30,7 @@ Once your extension is set up, you can add direct access phone numbers and exten
 
 ## How much does it cost to add a new user?
 
-Each new user costs $60.00. You can learn more about pricing for Ooma Office for WeWork by visiting our [pricing chart](/au/en/ooma-office-pricing-chart).
+Each new user costs A$60.00. You can learn more about pricing for Ooma Office for WeWork by visiting our [pricing chart](/au/en/ooma-office-pricing-chart).
 
 ## How can I see what devices are currently assigned to a user?
 

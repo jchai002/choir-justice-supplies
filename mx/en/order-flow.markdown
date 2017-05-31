@@ -2,16 +2,16 @@
 layout: post
 title:  Ordering Ooma Office for WeWork
 date:   2017-05-25 9:30:00
-country: [US]
+country: [Mexico]
 language: [English]
-locale: [en-us]
+locale: [en-mx]
 category: [wework]
 tags: [activation-and-setup, getting-started, wework]
 ---
 
 Congratulations on your decision to sign up for Ooma Office for WeWork! Please follow the steps below to place an order and get started.
 
-**NOTE:** At this time, only a WeWork Primary member can place a phone order via the WeWork web portal. If the Primary member is not available, we might still be able to help. Please contact our [Customer Care team](/us/en/contact-us) to learn more.
+**NOTE:** At this time, only a WeWork Primary member can place a phone order via the WeWork web portal. If the Primary member is not available, we might still be able to help. Please contact our [Customer Care team](/mx/en/contact-us) to learn more.
 
 1. Log into the WeWork member portal at [https://members.wework.com](https://members.wework.com) and navigate to "Office Needs" under the Services & Benefits menu. Alternatively, you can visit the following direct link: [https://members.wework.com/our-services](https://members.wework.com/our-services).
 
@@ -49,6 +49,6 @@ Congratulations on your decision to sign up for Ooma Office for WeWork! Please f
 
    ![confirm order]({{ site.baseurl }}/assets/images/order_flow/order_flow_confirm.png)
 
-10. Your order will ship in 2-3 business days. While you are waiting for your phones to arrive, you can set up your Ooma Office preferences by logging into the [Ooma Office Web Portal](/us/en/getting-started-with-ooma-office-manager). 
+10. Your order will ship in 2-3 business days. While you are waiting for your phones to arrive, you can set up your Ooma Office preferences by logging into the [Ooma Office Web Portal](/mx/en/getting-started-with-ooma-office-manager). 
 
 Once you receive your IP phones, simply start them up and plug them into the WeWork Internet to get started right away.

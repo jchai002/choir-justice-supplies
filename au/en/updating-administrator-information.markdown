@@ -6,7 +6,7 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [activation-and-setup, account, add-ons, admin-features, wework]
+tags: [actiGSTion-and-setup, account, add-ons, admin-features, wework]
 ---
 
 The Account Administrator is the person whose contact information is on file for the Ooma Office account. This information can be reviewed and updated at any time by following these instructions:

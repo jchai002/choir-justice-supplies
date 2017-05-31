@@ -27,9 +27,10 @@ You can call another extension by dialling the extension number (2XXX). Calling 
 
 You can make an external call by picking up your phone and dialling the outbound number as you normally would:
 
-* 0X XX XX XX XX for domestic calls
-* XX or XXX for emergency numbers
-* 00 XX ... XX for international calls
+* A full domestic number for domestic calls
+* An eight-digit local number for numbers in your local area
+* **000** for emergency numbers
+* 0011 XX...XX for international calls
 
 You do not need to dial "0" or any other special code to make an external phone call.
 
@@ -39,6 +40,6 @@ In addition to the calling options listed above, your Account Administrator can 
 
 ## Calling international numbers
 
-If there are sufficient funds in your Prepaid Account, you can take advantage of the low international calling rates that Ooma offers by dialling 00, followed by the country code and phone number.
+If there are sufficient funds in your Prepaid Account, you can take advantage of the low international calling rates that Ooma offers by dialling 0011, followed by the country code and phone number.
 
 You will hear the Prepaid Account balance before your call is connected, letting you know that sufficient funds are available to complete your call.

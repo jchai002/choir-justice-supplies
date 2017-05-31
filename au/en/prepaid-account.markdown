@@ -6,10 +6,14 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [activation-and-setup, account, add-ons, admin-features, wework]
+tags: [actiGSTion-and-setup, account, add-ons, admin-features, wework]
 ---
 
-Unlimited calls to mobile phones and landlines in Australia are included as part of your Ooma Office basic monthly plan. When calls to premium services or to countries outside of your calling area are part of your business needs, the Prepaid Account that you set up during the account activation process will cover any expenses that are incurred.
+Prepaid international calling activity is coming soon. Please call 1800 531 894 if you have questions about prepaid charges on your account.
+
+{% comment %}
+
+Unlimited calls to mobile phones and landlines in Australia are included as part of your Ooma Office basic monthly plan. When calls to premium services or to countries outside of your calling area are part of your business needs, the Prepaid Account that you set up during the account actiGSTion process will cover any expenses that are incurred.
 
 1. Table of Contents
 {:toc}
@@ -48,3 +52,5 @@ You can monitor your Prepaid Account activity by following these instructions:
 
 1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}/) and navigate to "[Prepaid Account]({{ site.office_link.au }}/#prepaid_account)" under the "Add-ons" tab.
 2. Click on the "Prepaid Activity" section of the "Prepaid Account" area.
+
+{% endcomment %}

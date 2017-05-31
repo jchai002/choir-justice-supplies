@@ -9,7 +9,7 @@ category: [wework]
 tags: [account, admin-features, wework]
 ---
 
-When calling Ooma Customer Care, you may be asked to answer the security question you have set for yourself. The account security question is originally chosen during the activation process. It can be updated at any time by following these instructions:
+When calling Ooma Customer Care, you may be asked to answer the security question you have set for yourself. The account security question is originally chosen during the actiGSTion process. It can be updated at any time by following these instructions:
 
 1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}/) and navigate to "[Settings]({{ site.office_link.au }}/#settings)" under the "Account" tab, as shown in the following illustration: \\
    ![account settings]({{ site.baseurl }}/assets/images/ooma_office_manager/account_settings.png){:width="600px"}

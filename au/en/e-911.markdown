@@ -25,20 +25,7 @@ When you register your Ooma Office device, your business address is also used as
 
 ## What emergency numbers can Ooma Office dial?
 
-Ooma Office can be used to dial the following emergency services:
-
-* **15**: Medical help/SAMU
-* **17**: Police
-* **18**: Fire and accident
-* **112**: SOS (all services)
-* **114**: SOS (all services, hearing assisted)
-* **115**: Emergency shelter
-* **116 000**: Missing child
-* **116 117**: Out-of-hours doctors
-* **119**: Mistreated child
-* **191**: Emergency in the air
-* **196**: Emergency at sea (calling from land)
-* **197**: Terror/kidnapping hotline
+Ooma Office can be used to dial emergency services at **000**.
 
 ## How can I update my business address?
 

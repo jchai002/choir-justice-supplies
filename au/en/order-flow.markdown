@@ -2,16 +2,16 @@
 layout: post
 title:  Ordering Ooma Office for WeWork
 date:   2017-05-25 9:30:00
-country: [US]
+country: [Australia]
 language: [English]
-locale: [en-us]
+locale: [en-au]
 category: [wework]
-tags: [activation-and-setup, getting-started, wework]
+tags: [actiGSTion-and-setup, getting-started, wework]
 ---
 
 Congratulations on your decision to sign up for Ooma Office for WeWork! Please follow the steps below to place an order and get started.
 
-**NOTE:** At this time, only a WeWork Primary member can place a phone order via the WeWork web portal. If the Primary member is not available, we might still be able to help. Please contact our [Customer Care team](/us/en/contact-us) to learn more.
+**NOTE:** At this time, only a WeWork Primary member can place a phone order via the WeWork web portal. If the Primary member is not available, we might still be able to help. Please contact our [Customer Care team](/au/en/contact-us) to learn more.
 
 1. Log into the WeWork member portal at [https://members.wework.com](https://members.wework.com) and navigate to "Office Needs" under the Services & Benefits menu. Alternatively, you can visit the following direct link: [https://members.wework.com/our-services](https://members.wework.com/our-services).
 

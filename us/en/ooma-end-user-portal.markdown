@@ -23,7 +23,7 @@ To log in, navigate to [({{ site.office_link.us }}]({{ site.office_link.us }}/),
 
 1. Click on "For Users" to bring up the screen shown below:\\
    ![End User Portal Login]({{ site.baseurl }}/assets/images/end_user_portal/login_screen.png)
-2. Enter the main phone number for your business in the "Phone number" field
+2. Choose your country's flag from the dropdown menu, and enter the main phone number for your business in the "Phone number" field
 3. Enter your extension number in the "Extension number" field
 4. Enter your password in the "Password" field
 5. Click "Login" to log in

@@ -6,7 +6,7 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, user-management, wework]
+tags: [getting-started, actiGSTion-and-setup, ooma-office-manager, admin-features, user-management, wework]
 ---
 
 After your initial setup you may wish to continue expanding your Ooma Office for WeWork system beyond your first extensions. In the text below, you will find a description of each of the ways in which you can create an extension to branch out and meet the needs of your business. 

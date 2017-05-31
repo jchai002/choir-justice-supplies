@@ -6,7 +6,7 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [activation-and-setup, account, admin-features, wework]
+tags: [actiGSTion-and-setup, account, admin-features, wework]
 ---
 
 If you would like to update your Ooma Office account password, you can do so by following these steps:

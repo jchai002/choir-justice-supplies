@@ -6,14 +6,14 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [activation-and-setup, getting-started, admin-features, calling, ooma-office-manager, add-ons, wework]
+tags: [actiGSTion-and-setup, getting-started, admin-features, calling, ooma-office-manager, add-ons, wework]
 ---
 
 With more than one business phone number, it becomes possible to fine-tune and customise your telephone setup. Additional phone numbers can be assigned to your employees so that they have multiple direct numbers, to give high-volume ring groups such as Support and Billing their own numbers, to map multiple area codes to the virtual receptionist or the conference server, and more.
 
 Ooma Office for WeWork comes with a complimentary phone number, and each user extension comes bundled with an additional phone number. Virtual fax extensions that are associated with a user extension and conference server extensions also each come with their own dedicated phone numbers. 
 
-If you find that you need additional numbers, then you can add them for a monthly fee of just $10.00, which includes GST.
+If you find that you need additional numbers, then you can add them for a monthly fee of just A$11.00, which includes GST.
 
 You can add new phone numbers to your Ooma Office setup by following these instructions:
 

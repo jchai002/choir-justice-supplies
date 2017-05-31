@@ -6,7 +6,7 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [activation-and-setup, getting-started, phone-number, porting, wework]
+tags: [actiGSTion-and-setup, getting-started, phone-number, porting, wework]
 ---
 
 If you have already established your business identity using an existing telephone number, it can be inconvenient to change to a new number when you change carriers. With Ooma Office, you have the option to keep your existing phone number or numbers when you say goodbye to your old carrier. Best of all, porting is free for Ooma Office customers.
@@ -27,17 +27,13 @@ Phone number porting allows you to transfer your existing telephone number or nu
 
 ## How much does porting cost?
 
-Phone number porting is complimentary for all regular phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of $10.00/month (VAT included) for each number.
+Phone number porting is complimentary for all regular phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of A$11.00/month (GST included) for each number.
 
 ## How long does porting take?
 
 Porting your phone number can take 3-4 weeks to complete. During the transitional phase you must maintain your old phone service. Failure to do this may result in the loss of your phone number.
 
 ## What information do I need to port my phone number?
-
-### From an Ooma Telo or Ooma Hub
-
-You can port the telephone number from your residential Ooma device (Telo or Hub) to your Ooma Office system by contacting Customer Care.
 
 ### From an outside carrier
 
@@ -84,4 +80,4 @@ Once your number has been successfully ported to Ooma, it will replace your temp
 
 If you would like to keep your temporary number permanently, you can contact Customer Care by emailing <a href="mailto:loa@ooma.com">loa@ooma.com</a> at any time during the number porting process to request that your temporary number be assigned as a virtual number on your account.
 
-**Note:** One phone number is included in your monthly Ooma Office subscription. Each additional number will be billed at $10.00/month (VAT included).
+**Note:** One phone number is included in your monthly Ooma Office subscription. Each additional number will be billed at A$11.00/month (GST included).

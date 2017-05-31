@@ -6,8 +6,12 @@ country: [Australia]
 language: [English]
 locale: [en-au]
 category: [wework]
-tags: [activation-and-setup, add-ons, account, wework]
+tags: [actiGSTion-and-setup, add-ons, account, wework]
 ---
+
+Prepaid international calling activity is coming soon. Please call 1800 531 894 if you have questions about prepaid charges on your account.
+
+{% comment %}
 
 Once you have your Ooma Office set up, you can make unlimited calls to landlines and mobile phones anywhere in Australia as part of your basic monthly plan. Your Prepaid Account provides funds to support international calling and calls to paid services. You can add funds to your Prepaid Account balance whenever you want, and with automatic balance refills you can guarantee that you will never run out of funds mid-call.
 
@@ -17,7 +21,7 @@ Once you have your Ooma Office set up, you can make unlimited calls to landlines
 
 ## How can I add funds to my Prepaid Account?
 
-Your Prepaid Account will draw funds from the credit card that you added to your account during the activation process. You can add funds to your Prepaid Account by following these instructions:
+Your Prepaid Account will draw funds from the credit card that you added to your account during the actiGSTion process. You can add funds to your Prepaid Account by following these instructions:
 
 1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}/) and navigate to "[Prepaid Account]({{ site.office_link.au }}/#prepaid_account)" under the "Add-Ons" tab.
 2. Click on "Add Funds" under the "Balance" tab.
@@ -64,3 +68,5 @@ You can learn more about international calling rates to specific countries by fo
 1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}/) and navigate to "[Prepaid Account]({{ site.office_link.au }}/#prepaid_account)" under the "Add-Ons" tab.
 2. Click "View rates" under "International Calling Rates."
 3. Select the country you wish to search for. You will see a list of all calling rates for that country.
+
+{% endcomment %}

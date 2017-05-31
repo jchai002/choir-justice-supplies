@@ -77,7 +77,7 @@ Give your customers an informative or musical wait instead of the traditional ri
 
 Each user has his or her own login to the End User Portal so that they can manage their extension preferences. [Learn more](/au/en/ooma-end-user-portal).
 
-### Private voicemail
+### PriGSTe voicemail
 
 Every user extension comes with its own voicemail box that supports a personalised greeting. [Learn more](/au/en/voicemail).
 
