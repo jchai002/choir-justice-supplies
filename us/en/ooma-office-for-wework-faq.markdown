@@ -54,7 +54,7 @@ The monthly price of Ooma Office for WeWork includes an exciting bundle of accou
 * Virtual Fax 
 * Call forwarding
 
-For a complete list of all Ooma Office features, please see our [feature summary](/us/en/ooma-office-feature-summary-wework).
+For a complete list of all Ooma Office features, please see our [feature summary](/us/en/ooma-office-feature-summary).
 
 ## Can I bring in my own phones to use with Ooma Office for WeWork?
 
@@ -106,7 +106,7 @@ Ooma Office offers an exclusive calling plan that gives you discounted pricing o
 
 ## Does Ooma Office for WeWork have additional services available for purchase?
 
-You can review the pricing of add-on services including new users, additional phone numbers, and more by visiting our [pricing chart](/us/en/ooma-office-pricing-chart-wework). 
+You can review the pricing of add-on services including new users, additional phone numbers, and more by visiting our [pricing chart](/us/en/ooma-office-pricing-chart). 
 
 ## Can I port my phone number to Ooma Office for WeWork?
 
