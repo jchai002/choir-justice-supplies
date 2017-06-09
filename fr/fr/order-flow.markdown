@@ -35,7 +35,7 @@ Merci de vous être inscrit à Ooma Office pour WeWork! Veuillez suivre les éta
 
 6. Ensuite, sélectionner un numéro de téléphone pour votre entreprise et un numéro de téléphone pour chaque utilisateur. Si vous prévoyez la portabilité d’un numéro de téléphone à Ooma, ce sera un numéro temporaire qui sera remplacé par le numéro que vous souhaitez conserver une fois le processus terminé.
 
-   ! [Sélectionnez les numéros de téléphone]({{site.baseurl}}/assets/images/order_flow/order_flow_select_phone_numbers.png)
+   ![Sélectionnez les numéros de téléphone]({{site.baseurl}}/assets/images/order_flow/order_flow_select_phone_numbers.png)
 
 7. Choisir quel numéro de téléphone sera attribué à quel utilisateur.
 
