@@ -11,7 +11,7 @@ tags: [activation-and-setup, getting-started, wework]
 
 ¡Felicitaciones por tu decisión de registrarte en Ooma Office para WeWork! Por favor sigue los siguientes pasos para realizar un pedido y poder empezar.
 
-**NOTA:** En este momento, solo un miembro Primario WeWork puede realizar un pedido de teléfonos por medio del portal web de WeWork. Si el miembro Primario no está disponible, es probable que todavía podamos ayudarte. Por favor ponte en contacto con nuestro [Equipo de Atención al Cliente|](/mx/es/contact-us) para más información.
+**NOTA:** En este momento, solo un miembro Primario WeWork puede realizar un pedido de teléfonos por medio del portal web de WeWork. Si el miembro Primario no está disponible, es probable que todavía podamos ayudarte. Por favor ponte en contacto con nuestro [Equipo de Atención al Cliente](/mx/es/contact-us) para más información.
 
 1. Inicia sesión en el portal del miembro WeWork en [https://members.wework.com](https://members.wework.com) y navega hacia "Necesidades de Oficina" bajo el menú de Servicios y Beneficios. Alternativamente, puedes visitar la siguiente liga directa: [https://members.wework.com/our-services](https://members.wework.com/our-services).
 
