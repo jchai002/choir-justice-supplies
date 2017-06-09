@@ -98,7 +98,7 @@ Once you place an order, your phones will be shipped the next business day. With
 
 ## What steps do I need to take to set up my Ooma Office for WeWork IP phone?
 
-Setting up the Yealink T23G IP phone is as simple as plugging it in to the WeWork network and connect the power cord. Your phone will boot up with your extension number and phone number already preconfigured. You can make your first call in just a few minutes.
+Setting up the Yealink T23G IP phone is as simple as plugging it in to the WeWork network and connecting the power cord. Your phone will boot up with your extension number and phone number already preconfigured. You can make your first call in just a few minutes.
 
 ## Does Ooma offer discounted international calling rates?
 
@@ -110,7 +110,7 @@ You can review the pricing of add-on services including new users, additional ph
 
 ## Can I port my phone number to Ooma Office for WeWork?
 
-Ooma Office for WeWork allows established businesses like yours to port (transfer) existing phone numbers to their accounts for free. Porting numbers can take anywhere from one to three weeks (depending on your current carrier) from the date that the port is requested. You will need to retain your phone number until the porting process is complete. While you wait, you can still use your Ooma service by forwarding calls from your current phone provider to your temporary Ooma number.
+Ooma Office for WeWork allows businesses to port (transfer) existing phone numbers to their accounts for free. Porting numbers can take anywhere from one to three weeks (depending on your current carrier) from the date that the port is requested. You will need to retain your phone number until the porting process is complete. While you wait, you can still use your Ooma service by forwarding calls from your current phone provider to Ooma.
 
 ## What is the porting process like?
 

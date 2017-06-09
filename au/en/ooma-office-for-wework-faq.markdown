@@ -96,7 +96,7 @@ Once you place an order, your phones will be shipped the next business day. With
 
 ## What steps do I need to take to set up my Ooma Office for WeWork IP phone?
 
-Setting up the Yealink T23G IP phone is as simple as plugging it in to the WeWork network and connect the power cord. Your phone will boot up with your extension number and phone number already preconfigured. You can make your first call in just a few minutes.
+Setting up the Yealink T23G IP phone is as simple as plugging it in to the WeWork network and connecting the power cord. Your phone will boot up with your extension number and phone number already preconfigured. You can make your first call in just a few minutes.
 
 ## Does Ooma offer discounted international calling rates?
 
@@ -108,7 +108,7 @@ You can review the pricing of add-on services including new users, additional ph
 
 ## Can I port my phone number to Ooma Office for WeWork?
 
-Ooma Office for WeWork allows established businesses like yours to port (transfer) existing phone numbers to their accounts for free. Porting numbers can take anywhere from one to three weeks (depending on your current carrier) from the date that the port is requested. You will need to retain your phone number until the porting process is complete. While you wait, you can still use your Ooma service by forwarding calls from your current phone provider to your temporary Ooma number.
+Ooma Office for WeWork allows businesses to port (transfer) existing phone numbers to their accounts for free. Porting numbers can take anywhere from one to three weeks (depending on your current carrier) from the date that the port is requested. You will need to retain your phone number until the porting process is complete. While you wait, you can still use your Ooma service by forwarding calls from your current phone provider to Ooma.
 
 ## What is the porting process like?
 
@@ -119,12 +119,15 @@ The number porting process has the following steps:
 3. *Review request*: Your current phone provider will review the information and provide a port date (also known as an FOC date). 
 4. *Port complete*: On the FOC date, Ooma will test your account and complete the porting request for all numbers.
 
+## Does Ooma Office for WeWork have a mobile app?
+
+An app for calling is currently unavailable, but you won't have to wait long! The official Ooam Office for WeWork app will be coming soon to iTunes and Google Play in Australia. 
+
 ## What support options are available?
 
 Ooma Office has the following support options for WeWork customers: 
 
 * Phone support at 1800 531 894
-* Live chat inside Ooma Office Manager
 * Open a ticket in the WeWork member portal
 * Search our [knowledge base](http://wework-support.ooma.com/au/en/) 
 
@@ -134,4 +137,4 @@ Ooma Office for WeWork can be transferred between WeWork locations. Simply conta
 
 ## Can I continue to use Ooma Office for WeWork if I leave WeWork?
 
-Unfortunately, the Ooma Office for WeWork service is only available for use within WeWork facilities. You can, however, choose to use the regular Ooma Office service and continue using your phone numbers.
+Unfortunately, the Ooma Office for WeWork service is only available for use within WeWork facilities.
