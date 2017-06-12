@@ -92,7 +92,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 </tr>
 </table>
 </p>
-<p style="font-size: 75%;">* Phone number porting is complimentary for all regular US and Canada phone numbers, and for any applicable toll-free numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of $9.99/month for US users, or CAD $14.95/month for Canadian users, for each number.</p>
+<p style="font-size: 75%;">* Phone number porting is complimentary for all regular US and Canada phone numbers, and for any applicable toll-free numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of $9.95/month for US users, or CAD $14.95/month for Canadian users, for each number.</p>
 
 <style type="text/css">
 
