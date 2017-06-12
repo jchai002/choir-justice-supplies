@@ -101,7 +101,7 @@ Setting up the Yealink T23G IP phone is as simple as plugging it in to the WeWor
 
 ## Does Ooma offer discounted international calling rates?
 
-Ooma Office offers an exclusive calling plan that gives you discounted pricing on international calling. 
+Ooma Office offers an exclusive calling plan that gives you discounted pricing on international calling for 10,00 € per month. The plan applies to calls made by all Ooma Office users on the account.
 
 ## Does Ooma Office for WeWork have additional services available for purchase?
 
@@ -122,7 +122,7 @@ The number porting process has the following steps:
 
 ## Does Ooma Office for WeWork have a mobile app?
 
-An app for calling is currently unavailable, but you won't have to wait long! The official Ooam Office for WeWork app will be coming soon to iTunes and Google Play in France. 
+An app for calling is currently unavailable, but you won't have to wait long! The official Ooma Office for WeWork app will be coming soon to iTunes and Google Play in France. 
 
 ## What support options are available?
 

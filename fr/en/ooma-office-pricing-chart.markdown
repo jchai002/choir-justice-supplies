@@ -48,6 +48,10 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <td style="text-align:center;"><a href="{{ site.office_link.fr }}/prepaid_account">View calling rates</a></td>
 </tr>
 <tr>
+<td class="indent">International calling plan</td>
+<td style="text-align:center;">10,00 €</td>
+</tr>
+<tr>
 <td class="indent"><a href="/fr/en/conference-server">Conference bridge</a> (includes phone number)</td>
 <td style="text-align:center;">Included</td>
 </tr>

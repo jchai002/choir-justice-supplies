@@ -48,6 +48,10 @@ Avec Ooma Office pour WeWork, vous ne payez que ce que vous utilisez. Nous avons
 <td style="text-align:center;"><a href="{{ site.office_link.fr }}/prepaid_account">Se reporter aux tarifs des appels</a></td>
 </tr>
 <tr>
+<td class="indent">Plan d'appel international</td>
+<td style="text-align:center;">10,00 €</td>
+</tr>
+<tr>
 <td class="indent"><a href="/fr/fr/conference-server">Pont de conférence</a> (comprend le numéro de téléphone)</td>
 <td style="text-align:center;">Inclus</td>
 </tr>

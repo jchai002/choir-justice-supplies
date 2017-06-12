@@ -102,7 +102,7 @@ Setting up the Yealink T23G IP phone is as simple as plugging it in to the WeWor
 
 ## Does Ooma offer discounted international calling rates?
 
-Ooma Office offers an exclusive calling plan that gives you discounted pricing on international calling. 
+Ooma Office offers an exclusive calling plan that gives you discounted pricing on international calling for $9.99 USD / $14.99 CAD per month. The plan applies to calls made by all Ooma Office users on the account.
 
 ## Does Ooma Office for WeWork have additional services available for purchase?
 
