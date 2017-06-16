@@ -10,7 +10,7 @@ tags: [faq, wework]
 ---
 
 1. Sommaire
-{:} toc
+{:toc}
 * * *
 
 ## Qu'est-ce que Ooma Office pour WeWork?
