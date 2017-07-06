@@ -17,7 +17,7 @@ Adding a toll-free number to your business just makes sense. A toll-free number 
 
 ## How do I set up a toll-free number?
 
-You can set up a toll-free number by following these instructions:
+The instructions below will walk you through setting up your account's first toll-free number. You can set up additional toll-free numbers by contacting a Customer Support representative.
 
 1. Log into your Ooma Office Manager at [{{ site.office_link.us }}]({{ site.office_link.us }}) and navigate to "[Numbers]({{ site.office_link.us }}/#manage_phone_number)" under the "Setup" tab, and then click "+Add Number." Choose "Add toll-free number" as shown in the image below: \\
    ![add number]({{ site.baseurl }}/assets/images/ooma_office_manager/add_phone_number.png)
