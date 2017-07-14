@@ -82,17 +82,9 @@ Enter the extension or number that you wish to transfer to, and then hit the #se
 
 ### Call Forward
 
-Turn on call forward by following these instructions:
+Turn on call forward by picking up the phone and dialing __*72#__ Wait for the prompt, and then dial the phone number that will receive forwarded calls, followed by the **#** button. The system will confirm the number you have entered.
 
-1. Press the **Menu** softkey
-2. Select **Features** (option 2)
-3. Select **Call Forward** (option 1)
-
-Call forward has the following options:
-
-* *Always Forward:* Calls will always be forwarded to a number that you choose
-* *Busy Forward:* Calls will be forwarded to a number that you choose when the phone is busy
-* *No Answer Forward:* Calls will be forwarded to a number that you choose when the phone is not answered within a specified number of seconds
+Disable call forwarding by picking up the phone and dialing __*73#__. You will hear a prompt to confirm that call forwarding has been turned off.
 
 ### Call Waiting
 
