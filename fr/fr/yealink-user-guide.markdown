@@ -83,17 +83,9 @@ Saisir l'extension ou le numéro vers lequel vous souhaitez transférer l'appel,
 
 ### Transfert d'appel
 
-Activer le transfert d'appel en suivant les instructions ci-dessous:
+Activer le transfert d'appel en décrochez le téléphone et en composant __*72#__ Attendez l'instruction vocale, puis composez le numéro de téléphone qui va recevoir les appels renvoyés, suivi du **#**. Le système confirmera le numéro que vous avez entré.
 
-1. Appuyer sur la touche de fonction **Menu**
-2. Sélectionner Fonctionnalités **Annuaire** (option 2)
-3. Sélectionner Transfert d'Appel **Transfert d'Appel** (option 1)
-
-Le transfert d'appel dispose des options suivantes:
-
-* *Toujours Transférer: Les appels sont toujours envoyés à un numéro que vous choisissez
-* *Transfert Occupé: les appels sont transférés vers un numéro que vous choisissez lorsque le téléphone est occupé
-* *Transfert Pas de Réponse: les appels sont transférés vers un numéro que vous choisissez lorsque personne ne répond au téléphone après un nombre de secondes spécifié
+Désactivez le transfert d'appel en décrochez le téléphone et en composant __*73 #__. Attendez la confirmation vocale.
 
 ### Appel en Attente
 

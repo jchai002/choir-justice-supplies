@@ -82,7 +82,7 @@ Enter the extension or number that you wish to transfer to, and then hit the #se
 
 ### Call Forward
 
-Turn on call forward by picking up the phone and dialing __*72#__ Wait for the prompt, and then dial the phone number that will receive forwarded calls, followed by the **#** button. The system will confirm the number you have entered.
+Turn on call forward by picking up the phone and dialing __*72#__ Wait for the prompt, and then dial the phone number that will receive forwarded calls, followed by the **#** key. The system will confirm the number you have entered.
 
 Disable call forwarding by picking up the phone and dialing __*73#__. You will hear a prompt to confirm that call forwarding has been turned off.
 
