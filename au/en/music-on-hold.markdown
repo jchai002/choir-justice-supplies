@@ -24,7 +24,7 @@ You can add Music on Hold to your Ooma Office setup by following these instructi
    ![choose music]({{ site.baseurl }}/assets/images/ooma_office_manager/music_on_hold_choose.png)
 
 3. Select "Audio File" under "Music on Hold", click "Change file" and then navigate to the audio file that you'd like to open.
-4. Select the "Disclaimer" check box once you've sure that you have the rights to use the audio file you are uploading!
+4. Select the "Disclaimer" check box once you're sure that you have the rights to use the audio file you are uploading!
 5. Click Save to save the audio file to the system. Once your audio file has uploaded, the next time you place a customer on hold they won't wait in silence.
 6. When your upload has finished, you can test your audio file by clicking the ![listen]({{ site.baseurl }}/assets/images/ooma_office_manager/listen.png) button next to the file's name.
 7. Click "Save" when you're done.

@@ -41,7 +41,7 @@ You can check what devices are assigned to a user by following these instruction
 3. Click on the "Devices" tab in the pop-up to get a list of devices that are currently assigned to the user's profile: \\
    ![devices tab]({{ site.baseurl }}/assets/images/ooma_office_wework/user_devices_wework.png){:height="250px"}
 
-## How can I update the voicemail preferences for a user?
+## How can I update a user's voicemail preferences?
 
 Each extension will have its own voicemail settings that can be configured to the user's preference. You can set up these preferences by following these instructions:
 
@@ -64,7 +64,7 @@ Each extension will have its own voicemail settings that can be configured to th
 
 4. Save your changes.
 
-## How can I update the call forwarding settings for a user?
+## How can I update a user's call forwarding settings?
 
 Each user will have their own call forwarding settings that can be configured to the user's preference. You can set up call forwarding by following these instructions:
 
@@ -99,7 +99,7 @@ You can assign or change the direct phone number(s) assigned to a user by follow
 1. Log into your Ooma Office Manager at [{{ site.office_link.au }}]({{ site.office_link.au }}) and navigate to "[Phone Numbers]({{ site.office_link.au }}/#extensions)" under the "Setup" tab. You will see a table like the one below with one entry for each of your business's phone numbers: \\
    ![manage phone numbers]({{ site.baseurl }}/assets/images/ooma_office_wework/manage_phone_numbers_wework.png){:height="250px"}
 
-2. You can change the extension that a phone number will connect to by selecting a new user from the dropdown menu under Extensions.
+2. To change the extension that a phone number connects to, select a new user from the dropdown menu under Extensions.
 3. Click "Save" to update your phone number mapping.
 
 ## Can a user have more than one direct access phone number?

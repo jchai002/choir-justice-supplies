@@ -9,7 +9,7 @@ category: [wework]
 tags: [ooma-office-manager, admin-features, calling, wework]
 ---
 
-The caller-ID name is configured during the account activation process. It will be displayed when calling another Ooma Office subscriber, an Ooma residential subscriber, and by other external destination phones (see note).
+The caller-ID name is configured during the account activation process. It will be displayed when calling another Ooma Office subscriber, an Ooma residential subscriber, and other external destination phones (see note).
 
 Changing the caller-ID name through Ooma Office Manager will change the caller-ID name shown when calling another Ooma Office subscriber or an Ooma residential subscriber, but it will not change what is shown to external destination phones. To change your caller-ID globally, please [call Ooma Office Customer Care](/fr/en/contact-us) to request the change.
 
@@ -26,4 +26,4 @@ To change the caller-ID name follow these instructions:
    The "Caller-ID Name" field will be your business's new display name (up to 15 characters).
 4. Click "Save" to save your changes.
 
-**Note:** When you set your caller-ID name, that information is provisioned in a national database. Destination phones will always see your phone number, but they may not show your caller-ID name if they do not subscribe to the national database used by Ooma.
+**Note:** When you set your caller-ID name, that information is  made available in a national database. Destination phones will always see your phone number, but they may not show your caller-ID name if they do not subscribe to the national database used by Ooma.

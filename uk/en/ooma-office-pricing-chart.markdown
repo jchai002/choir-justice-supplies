@@ -1,0 +1,130 @@
+---
+layout: post
+title:  Ooma Office for WeWork pricing chart
+date:   2017-01-23 12:15:00
+country: [UK]
+language: [English]
+locale: [en-uk]
+category: [wework]
+tags: [add-ons, basic-setup, personalization, phone-number, porting, wework]
+---
+
+With Ooma Office for WeWork, you only need to pay for the capacity that you use. We've created the chart below to help you understand our pricing structure so that you can make informed decisions. All prices include GST.
+
+<p style="width:700px; margin-left:auto; margin-right:auto">
+<table id="pricingTable">
+<thead>
+<tr>
+<td></td>
+<th style="text-align:center; width:150px;">Price per month</th>
+</tr>
+</thead>
+<tr class="subheader">
+<th style="padding-left:3px;">User Type</th>
+<td></td>
+</tr>
+<tr>
+<td class="indent"><a href="/uk/en/setting-up-extensions">Ooma Office for WeWork user extension</a></td>
+<td style="text-align:center;">£60.00</td>
+</tr>
+<tr class="subheader">
+<th style="padding-left:3px;">Features</th>
+<td></td>
+</tr>
+<tr>
+<td class="indent">IP phone rental</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent">Unlimited calls to fixed lines and mobile numbers in the UK</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent">Other international calling destinations</td>
+<td style="text-align:center;"><a href="http://ooma.com/au">View calling rates</a></td>
+</tr>
+<tr>
+<td class="indent">International calling plan</td>
+<td style="text-align:center;">£11.00</td>
+</tr>
+<tr>
+<td class="indent"><a href="/uk/en/conference-server">Conference bridge</a> (includes phone number)</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent"><a href="/uk/en/virtual-fax">Virtual fax</a> (includes phone number)</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent"><a href="/uk/en/ring-groups">Ring groups</a></td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent"><a href="/uk/en/virtual-receptionist">Virtual receptionist</a></td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent"><a href="/uk/en/porting-in-your-phone-numbers">Number porting</a></td>
+<td style="text-align:center;">Included*</td>
+</tr>
+<tr>
+<td class="indent"><a href="/uk/en/adding-additional-phone-numbers">Additional local phone number</a></td>
+<td style="text-align:center;">£11.00</td>
+</tr>
+</table>
+</p>
+<p style="font-size: 75%;">* Phone number porting is complimentary for all regular UK phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of £11.00 (GST included) for each number.</p>
+
+<style type="text/css">
+
+table#pricingTable {
+
+width:85%;
+
+border-top:1px solid #e5eff8;
+
+border-right:1px solid #e5eff8;
+
+margin-right:2px;
+
+margin-left:3px;
+
+border-collapse:collapse;
+
+}
+
+table#pricingTable td.indent {
+
+padding-left:15px;
+
+}
+
+table#pricingTable tr {
+
+border:1px solid #e5eff8;
+
+}
+
+table#pricingTable tr > td {
+
+padding-top:2px;
+
+padding-bottom:2px;
+
+}
+
+table#pricingTable tr.subheader {
+
+background:#F5F5F5;
+
+text-align:left;
+
+}
+
+table#pricingTable tr.subheader td {
+
+padding-left:5px;
+
+}
+
+</style>

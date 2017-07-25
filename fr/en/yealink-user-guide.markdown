@@ -144,7 +144,7 @@ While Do Not Disturb is enabled, you will see a **DND** icon in the upper-right 
 
 ### Directory
 
-At this time, the company directory (accessed with the **dir** softkey) are not compatible with Ooma Office. This directory will be available at a future date.
+At this time, the company directory (accessed with the **dir** softkey) is not compatible with Ooma Office. This directory will be available at a future date.
 
 ### Key as send
 

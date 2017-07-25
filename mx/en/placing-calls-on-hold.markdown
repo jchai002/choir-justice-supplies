@@ -17,7 +17,7 @@ Putting a call on hold while you check on a customer's request or make another q
 
 ## Put a call on hold
 
-Press the **Hold** softkey during a call to place a call on hold. 
+Press the **Hold** softkey during a call to place the call on hold. 
 
 If there are multiple calls on hold, use the up and down navigation buttons to select the desired call and then press the **Resume** softkey.
 
@@ -31,4 +31,4 @@ Press the **Resume** softkey to resume the call.
 
 ## What will the caller hear while they are on hold?
 
-Your customer will hear either your company's "Music on Hold" audio file, if applicable. You can learn more about "Music on Hold" by [visiting our FAQ](/mx/en/music-on-hold).
+Your customer will hear your company's "Music on Hold" audio file, if applicable. You can learn more about "Music on Hold" by [visiting our FAQ](/mx/en/music-on-hold).

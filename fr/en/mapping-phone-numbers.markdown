@@ -11,7 +11,7 @@ tags: [admin-features, ooma-office-manager, calling, phone-number, wework]
 
 The basic Ooma Office for WeWork package comes with one phone number that is assigned to the Virtual Receptionist by default, and a second phone number that is assigned to the first user. Each user and most extension types (except for ring groups) come bundled with their own phone number that is automatically assigned to that extension when it is created. 
 
-Having multiple phone numbers allows your customers to bypass the virtual receptionist and reach out directly to the employee or extension that they wish to contact with. You can also purchase additional phone numbers if you need to map multiple phone numbers from different area codes to one or more extensions.
+Having multiple phone numbers allows your customers to bypass the virtual receptionist and reach out directly to the employee or extension that they wish to contact. You can also purchase additional phone numbers if you need to map multiple phone numbers from different area codes to one or more extensions.
 
 You can update the default destination for all phone numbers with phone number mapping.
 

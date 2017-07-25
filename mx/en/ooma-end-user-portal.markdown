@@ -81,7 +81,7 @@ You can perform the following actions from the Call Logs interface:
 * Click ![incoming]({{ site.baseurl }}/assets/images/end_user_portal/incoming.png) to view your incoming call logs.
 * Click ![outgoing]({{ site.baseurl }}/assets/images/end_user_portal/outgoing.png) to view your outgoing call logs.
 * Click ![missed]({{ site.baseurl }}/assets/images/end_user_portal/missed.png) to view your missed call logs.
-Enter a date range within the From and To fields, and then click Search, to display a list of call logs for that date range.
+   Enter a date range within the From and To fields, and then click Searchto display a list of call logs for that date range.
 * To export your call logs, click the Export button. Your call logs will be saved to your computer as a CSV file (which can be opened in Microsoft Excel and other spreadsheet programs).
 
 ## Faxing
@@ -111,7 +111,7 @@ From the Voicemail Preferences interface, you can do the following:
 * Uncheck the Voicemail enabled checkbox if you wish to disable voicemail on your extension.
 * Adjust how long you want your extension to ring before sending an incoming call to voicemail.
 * Change your voicemail PIN by entering a 4 to 8-digit number. This PIN is used when you access your voicemail remotely.
-* Check the "Include audio file in in voicemail notification" checkbox to attach an MP3 audio file of each new voicemail message to voicemail notification emails.
+* Check the "Include audio file in voicemail notification" checkbox to attach an MP3 audio file of each new voicemail message to voicemail notification emails.
 
 Click the Save button to save your settings.
 
@@ -152,7 +152,7 @@ To update your user profile, select the Profile option on the menu bar.
 
 From the Profile interface, you can do the following:
 
-* Enter the email address associated with your extension in the "Email address" field. This email address will be used for Voicemail Notification emails.
+* Enter the email address associated with your extension in the Email address field. This email address will be used for Voicemail Notification emails.
 * If you want to update your password, enter it into the Password and the Confirm Password fields.
 
 Click the Save button to save your settings.

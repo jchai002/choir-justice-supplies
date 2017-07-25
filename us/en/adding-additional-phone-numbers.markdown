@@ -27,6 +27,6 @@ You can add new phone numbers to your Ooma Office setup by following these instr
 4. Select a city from the "Select a City drop-down menu," and then click "Search." \\
    ![city]({{ site.baseurl }}/assets/images/ooma_office_wework/add_number_wework_2.png)
 
-5. Select a phone number on the screen that is displayed.
+5. Select a phone number displayedfrom the list on the screen.
 6. Select the extension to which you would like to associate the new phone number, and then click "Confirm:" \\
    ![extension]({{ site.baseurl }}/assets/images/ooma_office_wework/add_number_wework_3.png)

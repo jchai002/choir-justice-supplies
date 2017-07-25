@@ -21,15 +21,15 @@ If you have an extension mapped to your phone, then you have access to a Voicema
 
 ### From your Ooma Office IP phone
 
-If you would like to check your voicemail, just pick up the phone and press the messages button or dial your own extension number.
+If you would like to check your voicemail, pick up the phone, press the messages button, or just dial your own extension number.
 
 **Note:** The first time you access your voicemail, you will be prompted to select a new PIN during the initial setup process for your voicemail box.
 
 ### From another Ooma Office phone or from an outside phone line
 
-If you would like to check your voicemail from another Ooma Office phone or from an outside phone line, wait until the call rolls to voicemail and then press [*] and enter your PIN. If this is the first time you access your voicemail, you will need your PIN. If you do not have this number, contact your System Administrator to have them set a new PIN so that you can log in the first time.
+If you would like to check your voicemail from another Ooma Office phone or from an outside phone line, wait until the call rolls to voicemail and then press [*] and enter your PIN. If you are accessing your voicemail for the first time, you will need your PIN. If you do not have this number, contact your System Administrator to have them set a new PIN so that you can log in the first time.
 
-### Dialing through the virtual receptionist
+### Dialling through the virtual receptionist
 
 If you are out of the office and do not have a direct phone number to reach your extension, you can dial in to your Voicemail through the virtual receptionist. Simply call the Ooma Office number that is answered by the Virtual Receptionist and press [*] when the call connects. Next, dial your extension number and then enter your PIN.
 
@@ -43,18 +43,18 @@ If you need to change the email address that your messages are being sent to, yo
 
 ## Updating your voicemail options
 
-Your personal voicemail can be personalized as much or as little as you would like. The options below outline the changes you can make and tell you how to make them.
+Your personal voicemail can be personalised as much or as little as you would like. The options below outline the changes you can make and tell you how to make them.
 
 ### Recording or updating a personal greeting
 
-The first time you log in to your voicemail you will be prompted to record a greeting for your extension.
+The first time you log into your voicemail you will be prompted to record a greeting for your extension.
 
-You can update your personal greeting at any time by selecting **option 5** from the main voicemail menu. Select **option 1** from the submenu.
+You can update your personal greeting at any time by selecting **option 5** from the main voicemail menu, then selecting **option 1** from the submenu.
 
 ### Recording or updating your name
 
-You can choose to use a computerized voicemail prompt with just your recorded name instead of a full recorded greeting. To do this, select **option 5** from the main voicemail menu. Select **option 2** from the submenu.
+You can choose to use a computerised voicemail prompt with just your recorded name instead of a full recorded greeting. To do this, select **option 5** from the main voicemail menu, the selecting **option 2** from the submenu.
 
 ### Changing your PIN
 
-Once you get your voicemail account set up, you can update your PIN at any time. To do this, select **option 5** from the main voicemail menu. Select **option 3** from the submenu.
+Once you get your voicemail account set up, you can update your PIN at any time. To do this, select **option 5** from the main voicemail menu, the selecting **option 3** from the submenu.
