@@ -180,4 +180,31 @@ $(document).ready(function() {
     {
         anchor.addClass('active');
     }
+
+    // language popup
+    if (window.location.pathname == '/') {
+      var rootpath = Cookies.get('rootpath');
+      if (rootpath) {
+        window.location = "/"+rootpath;
+      } else {
+        $('#choose-locale').addClass('md-show');
+      }
+    }
+
+    if (window.location.pathname == '/us/en/') {
+      Cookies.set('rootpath', 'us/en/');
+    }
+
+    if (window.location.pathname == '/au/en/') {
+      Cookies.set('rootpath', 'au/en/');
+    }
+
+    if (window.location.pathname == '/fr/en/') {
+      Cookies.set('rootpath', 'fr/en/');
+    }
+
+    if (window.location.pathname == '/fr/fr/') {
+      Cookies.set('rootpath', 'fr/fr/');
+    }
+
 });
