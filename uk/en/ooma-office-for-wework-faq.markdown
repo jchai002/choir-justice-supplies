@@ -30,7 +30,7 @@ Ooma Office for WeWork is a special Ooma service that is tailored specifically t
 
 ## How much does Ooma Office for WeWork cost?
 
-Ooma Office for WeWork costs £$60.00 per month per user, including GST. 
+Ooma Office for WeWork costs £33.00 per month per user, including VAT. 
 
 ## What features are included in the monthly price?
 
@@ -100,7 +100,7 @@ Setting up the Yealink T23G IP phone is as simple as plugging it in to the WeWor
 
 ## Does Ooma offer discounted international calling rates?
 
-Ooma Office offers an exclusive calling plan that gives you discounted pricing on international calling for £$11.00 per month. The plan applies to calls made by all Ooma Office users on the account.
+Ooma Office offers an exclusive calling plan that gives you discounted pricing on international calling for £10.00 per month. The plan applies to calls made by all Ooma Office users on the account.
 
 You can check out our international rates with and without the calling plan [here](http://www.ooma.com/uk/).
 

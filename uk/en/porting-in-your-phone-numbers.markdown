@@ -6,7 +6,7 @@ country: [UK]
 language: [English]
 locale: [en-uk]
 category: [wework]
-tags: [actiGSTion-and-setup, getting-started, phone-number, porting, wework]
+tags: [activation-and-setup, getting-started, phone-number, porting, wework]
 ---
 
 If you have already established your business identity using an existing telephone number, it can be inconvenient to change to a new number when you change carriers. With Ooma Office, you have the option to keep your existing phone number or numbers when you say goodbye to your old carrier. Best of all, porting is free for Ooma Office customers.
@@ -80,4 +80,4 @@ Once your number has been successfully ported to Ooma, it will replace your temp
 
 If you would like to keep your temporary number permanently, you can contact Customer Care by emailing <a href="mailto:loa@ooma.com">loa@ooma.com</a> at any time during the number porting process to request that your temporary number be assigned as a virtual number on your account.
 
-**Note:** One phone number is included in your monthly Ooma Office subscription. Each additional number will be billed at £11.00/month (GST included).
+**Note:** One phone number is included in your monthly Ooma Office subscription. Each additional number will be billed at £11.00/month (VAT included).

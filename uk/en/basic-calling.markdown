@@ -33,7 +33,20 @@ You can make an external call by picking up your phone and dialling the outbound
 
 You do not need to dial "0" or any other special code to make an external phone call.
 
-Calls to landlines and mobile phones in the UK are included in your regular plan. 
+Calls to fixed and mobile phones in the UK are included in your regular plan. You can also make unlimited calls to non-premium landlines in the following countries:
+
+* Austria
+* Belgium
+* Denmark
+* France
+* Germany
+* Italy
+* Ireland
+* Luxembourg
+* Netherlands
+* Portugal
+* Spain
+* Switzerland
 
 In addition to the calling options listed above, your Account Administrator can activate a Prepaid Account that all end-user employees can use to make calls to international numbers and to directory services.
 

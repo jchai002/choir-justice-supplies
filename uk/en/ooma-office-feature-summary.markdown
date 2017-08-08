@@ -17,6 +17,10 @@ Ooma Office for WeWork includes a full suite of features to grow with your small
 
 Calls to UK mobile phones and landlines are free and unlimited.
 
+### Unlimited calls to 12 European countries
+
+Ooma Office includes unlimited calls to landlines in 12 other European countries: Austria, Belgium, Denmark, France, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, and Switzerland.
+
 ### IP phone included
 
 The monthly fee for each Ooma Office user includes an IP phone rental. IP phones are shipped directly to the WeWork facility of your choice, and are preconfigured with all of the user's information. All you need to do is plug the phone in at a WeWork facility.
@@ -77,7 +81,7 @@ Give your customers an informative or musical wait instead of the traditional ri
 
 Each user has his or her own login to the End User Portal so that they can manage their extension preferences. [Learn more](/uk/en/ooma-end-user-portal).
 
-### PriGSTe voicemail
+### Private voicemail
 
 Every user extension comes with its own voicemail box that supports a personalised greeting. [Learn more](/uk/en/voicemail).
 

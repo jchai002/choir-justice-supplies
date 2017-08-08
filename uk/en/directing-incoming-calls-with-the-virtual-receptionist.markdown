@@ -6,7 +6,7 @@ country: [UK]
 language: [English]
 locale: [en-uk]
 category: [wework]
-tags: [actiGSTion-and-setup, getting-started, admin-features, ooma-office-manager, calling, wework]
+tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, calling, wework]
 ---
 
 The virtual receptionist can make it easy for your customers and business associates to get crucial information or to reach the right person when they dial your company's primary number. In addition to allowing users to dial the extension they wish to reach without waiting, you can also assign a different function to each button on the phone. This gives you many different options to make the best possible connection with your incoming callers.

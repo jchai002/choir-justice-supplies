@@ -9,7 +9,7 @@ category: [wework]
 tags: [add-ons, basic-setup, personalization, phone-number, porting, wework]
 ---
 
-With Ooma Office for WeWork, you only need to pay for the capacity that you use. We've created the chart below to help you understand our pricing structure so that you can make informed decisions. All prices include GST.
+With Ooma Office for WeWork, you only need to pay for the capacity that you use. We've created the chart below to help you understand our pricing structure so that you can make informed decisions. All prices include VAT.
 
 <p style="width:700px; margin-left:auto; margin-right:auto">
 <table id="pricingTable">
@@ -25,7 +25,7 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 </tr>
 <tr>
 <td class="indent"><a href="/uk/en/setting-up-extensions">Ooma Office for WeWork user extension</a></td>
-<td style="text-align:center;">£60.00</td>
+<td style="text-align:center;">£33.00</td>
 </tr>
 <tr class="subheader">
 <th style="padding-left:3px;">Features</th>
@@ -40,12 +40,28 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 <td style="text-align:center;">Included</td>
 </tr>
 <tr>
+<td class="indent">Unlimited calls to mobile phones and landlines in the UK</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
+<td class="indent">Unlimited calls to landlines in Austria, Belgium, Denmark, France, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, and Switzerland</td>
+<td style="text-align:center;">Included</td>
+</tr>
+<tr>
 <td class="indent">Other international calling destinations</td>
 <td style="text-align:center;"><a href="http://ooma.com/au">View calling rates</a></td>
 </tr>
 <tr>
 <td class="indent">International calling plan</td>
-<td style="text-align:center;">£11.00</td>
+<td style="text-align:center;">£10.00</td>
+</tr>
+<tr>
+<td class="indent">Calls to directory assistance</td>
+<td style="text-align:center;">£1.50</td>
+</tr>
+<tr>
+<td class="indent">Unlimited calls to landlines in Austria, Belgium, Denmark, Germany, Italy, Ireland, Luxembourg, Netherlands, Portugal, Spain, Switzerland, and UK</td>
+<td style="text-align:center;">Included</td>
 </tr>
 <tr>
 <td class="indent"><a href="/uk/en/conference-server">Conference bridge</a> (includes phone number)</td>
@@ -69,11 +85,11 @@ With Ooma Office for WeWork, you only need to pay for the capacity that you use.
 </tr>
 <tr>
 <td class="indent"><a href="/uk/en/adding-additional-phone-numbers">Additional local phone number</a></td>
-<td style="text-align:center;">£11.00</td>
+<td style="text-align:center;">£5.00</td>
 </tr>
 </table>
 </p>
-<p style="font-size: 75%;">* Phone number porting is complimentary for all regular UK phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of £11.00 (GST included) for each number.</p>
+<p style="font-size: 75%;">* Phone number porting is complimentary for all regular UK phone numbers. Once your number or numbers have been ported to your account, they can be assigned to a user. The first phone number that is assigned to each user is complimentary. Additional phone numbers will be billed at the standard rate of £5.00 (VAT included) for each number.</p>
 
 <style type="text/css">
 
