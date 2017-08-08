@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Contact Us
-category: [country: [Australia]
+country: [Australia]
 language: [English]
 locale: [en-au]
-category: [wework]]
+category: [wework]
 date:   2016-12-13 14:00:00
 ---
 
