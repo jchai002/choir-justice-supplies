@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Actualizando la Información de la Extensión
+title:  Actualizando la InformaciÃ³n de la ExtensiÃ³n
 date:   2017-01-24 08:30:00
 country: [Colombia]
 language: [Spanish]
@@ -9,25 +9,25 @@ category: [wework]
 tags: [user-management, admin-features, wework]
 ---
 
-Ya que cada extensión tiene su propia información personal, es importante asegurarnos que cada extensión esté actualizada con la información del empleado que la esté usando.
+Ya que cada extensiÃ³n tiene su propia informaciÃ³n personal, es importante asegurarnos que cada extensiÃ³n estÃ© actualizada con la informaciÃ³n del empleado que la estÃ© usando.
 
 1. Tabla de Contenido
 {:toc}
 * * *
 
-## ¿Cómo puedo actualizar la información para una extensión?
+## Â¿CÃ³mo puedo actualizar la informaciÃ³n para una extensiÃ³n?
 
-Puedes actualizar la información para una extensión al seguir estos pasos:
+Puedes actualizar la informaciÃ³n para una extensiÃ³n al seguir estos pasos:
 
-1. Inicia sesión en tu Administrador de Ooma Office en [{{ site.office_link.co }}]({{ site.office_link.co }}) y navega a "[Extensiones]({{ site.office_link.co }}/#extensions)" bajo la pestaña de "Configuración".
-2. Haz clic en el botón de "Configuración" junto a la extensión a la que le quieres cambiar el número: \\
+1. Inicia sesiÃ³n en tu Administrador de Ooma Office en [{{ site.office_link.co }}]({{ site.office_link.co }}) y navega a "[Extensiones]({{ site.office_link.co }}/#extensions)" bajo la pestaÃ±a de "ConfiguraciÃ³n".
+2. Haz clic en el botÃ³n de "ConfiguraciÃ³n" junto a la extensiÃ³n a la que le quieres cambiar el nÃºmero: \\
    ![administra extensiones]({{ site.baseurl }}/assets/images/ooma_office_wework/edit_extension_wework.png)
 
-3. En la pestaña de "Básicos" puedes actualizar la información del usuario.
+3. En la pestaÃ±a de "BÃ¡sicos" puedes actualizar la informaciÃ³n del usuario.
 4. Cuando acabes, guarda tus cambios para salir de la pantalla.
 
-## ¿Qué información personal puede tener una extensión?
+## Â¿QuÃ© informaciÃ³n personal puede tener una extensiÃ³n?
 
-Una extensión puede tener el nombre, apellido, correo electrónico y  contraseña.
+Una extensiÃ³n puede tener el nombre, apellido, correo electrÃ³nico y  contraseÃ±a.
 
-**Nota:** Cada extensión debe tener un nombre único.
+**Nota:** Cada extensiÃ³n debe tener un nombre Ãºnico.
