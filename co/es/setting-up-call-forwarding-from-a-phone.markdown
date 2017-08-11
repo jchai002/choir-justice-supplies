@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Configurar el Desvío de Llamadas desde un Teléfono
+title:  Configurar el DesvÃ­o de Llamadas desde un TelÃ©fono
 date:   2017-02-07 08:30:00
 country: [Colombia]
 language: [Spanish]
@@ -9,26 +9,26 @@ category: [wework]
 tags: [end-user-features, calling, wework]
 ---
 
-Con Ooma Office puedes configurar cualquier extensión para que desvíe llamadas a un teléfono celular o a uno fijo. El desvío de llamadas puede configurarse por internet por el Administrador de la Cuenta, y puede configurarse por el dueño de la extensión usando códigos de asterisco en el teléfono de la extensión.
+Con Ooma Office puedes configurar cualquier extensiÃ³n para que desvÃ­e llamadas a un telÃ©fono celular o a uno fijo. El desvÃ­o de llamadas puede configurarse por internet por el Administrador de la Cuenta, y puede configurarse por el dueÃ±o de la extensiÃ³n usando cÃ³digos de asterisco en el telÃ©fono de la extensiÃ³n.
 
 1. Tabla de Contenido
 {:toc}
 * * *
 
-## Configurando el desvío de llamadas
+## Configurando el desvÃ­o de llamadas
 
-Para apagar o habilitar el desvío de llamadas desde tu teléfono IP, sigue estas instrucciones:
+Para apagar o habilitar el desvÃ­o de llamadas desde tu telÃ©fono IP, sigue estas instrucciones:
 
-1. Presiona el botón programable de **Menú**
-2. Selecciona **Funciones** (opción 2)
-3. Selecciona **Desvío de Llamadas** (opción 1)
+1. Presiona el botÃ³n programable de **MenÃº**
+2. Selecciona **Funciones** (opciÃ³n 2)
+3. Selecciona **DesvÃ­o de Llamadas** (opciÃ³n 1)
 
-Si el desvío de llamadas ha sido previamente configurado en línea por un Administrador de Cuenta, esto va a invalidar el número de desvío que se ha guardado para tu extensión.
+Si el desvÃ­o de llamadas ha sido previamente configurado en lÃ­nea por un Administrador de Cuenta, esto va a invalidar el nÃºmero de desvÃ­o que se ha guardado para tu extensiÃ³n.
 
-## Opciones de desvío de llamadas
+## Opciones de desvÃ­o de llamadas
 
-El desvío de llamadas tiene las siguientes opciones:
+El desvÃ­o de llamadas tiene las siguientes opciones:
 
-* *Siempre Desviar*: Las llamadas siempre serán desviadas al número que escojas
-* *Desvío Ocupado*: Las llamadas serán desviadas al número que escojas cuando el teléfono esté ocupado
-* *Desvío No Contestado*: Las llamadas serán desviadas al número que escojas cuando el teléfono no sea contestado dentro de un número determinado de segundos
+* *Siempre Desviar*: Las llamadas siempre serÃ¡n desviadas al nÃºmero que escojas
+* *DesvÃ­o Ocupado*: Las llamadas serÃ¡n desviadas al nÃºmero que escojas cuando el telÃ©fono estÃ© ocupado
+* *DesvÃ­o No Contestado*: Las llamadas serÃ¡n desviadas al nÃºmero que escojas cuando el telÃ©fono no sea contestado dentro de un nÃºmero determinado de segundos
