@@ -69,7 +69,7 @@ Con Ooma Office para WeWork, solo tienes que pagar por los recursos que usas. He
 </tr>
 <tr>
 <td class="indent"><a href="/co/es/adding-additional-phone-numbers">Número telefónico local adicional</a></td>
-<td style="text-align:center;">COP 10,00¬</td>
+<td style="text-align:center;">COP 10,00</td>
 </tr>
 </table>
 </p>
