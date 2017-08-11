@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Configurando tu Cuenta Prepago
 date:   2017-02-06 10:00:00

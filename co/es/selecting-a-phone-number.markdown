@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Seleccionando un Número Telefónico
 date:   2017-01-14 09:00:00

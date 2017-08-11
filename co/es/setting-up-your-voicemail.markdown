@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Configurando tu buzón de mensajes
 date:   2017-02-07 10:00:00

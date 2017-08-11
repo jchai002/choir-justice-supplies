@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Configurando las extensiones
 date:   2017-01-24 08:00:00
@@ -32,15 +32,15 @@ Si desear configurar una extensión de conferencia, puedes hacerlo visitando [{{
 
 Puedes escoger de los siguientes tipos de extensiones:
 
-* **Usuario:** Las extensiones de usuarios vienen en paquete con un número telefónico y son asignados a empleados de forma individual. Crearás un perfil de usuario para el empleado, y luego configurarás los dispositivos que están asignados al usuario. Para saber más sobre cómo agregar nuevos usuarios, puedes visitar nuestras [FAQ de usuarios](/co/es//adding-a-new-user).
-* **Grupo de Extensión:** Las extensiones de grupo de extensión te permiten dirigir las llamadas entrantes a varios usuarios. Esto es especialmente útil si tienes un departamento como ventas o soporte que tienen varios empleados que puedan atender las llamadas telefónicas entrantes. [Más información](/co/es//ring-groups).
+* **Usuario:** Las extensiones de usuarios vienen en paquete con un número telefónico y son asignados a empleados de forma individual. Crearás un perfil de usuario para el empleado, y luego configurarás los dispositivos que están asignados al usuario. Para saber más sobre cómo agregar nuevos usuarios, puedes visitar nuestras [FAQ de usuarios](/co/es/adding-a-new-user).
+* **Grupo de Extensión:** Las extensiones de grupo de extensión te permiten dirigir las llamadas entrantes a varios usuarios. Esto es especialmente útil si tienes un departamento como ventas o soporte que tienen varios empleados que puedan atender las llamadas telefónicas entrantes. [Más información](/co/es/ring-groups).
 
 ## ¿Cuánto cuestan las nuevas extensiones?
 
-El costo de una nueva extensión varía dependiendo del tipo de extensión que desees agregar. Por favor consulta nuestra [tabla de tarifas](/co/es//ooma-office-pricing-chart) para más informes.
+El costo de una nueva extensión varía dependiendo del tipo de extensión que desees agregar. Por favor consulta nuestra [tabla de tarifas](/co/es/ooma-office-pricing-chart) para más informes.
 
 ## ¿Cómo puedo asignar números telefónicos adicionales de acceso directo a una extensión?
 
-Todos los tipos de extensiones excepto los grupos de extensiones vienen con un número telefónico para tener acceso de llamadas directas. El nuevo número telefónico será asignado automáticamente a la extensión cuando sea creada. Si necesitas más números telefónicos de los que están incluidos con tus extensiones, puedes comprarlos al seguir las instrucciones en nuestras [FAQ de números telefónicos](/co/es//adding-additional-phone-numbers).
+Todos los tipos de extensiones excepto los grupos de extensiones vienen con un número telefónico para tener acceso de llamadas directas. El nuevo número telefónico será asignado automáticamente a la extensión cuando sea creada. Si necesitas más números telefónicos de los que están incluidos con tus extensiones, puedes comprarlos al seguir las instrucciones en nuestras [FAQ de números telefónicos](/co/es/adding-additional-phone-numbers).
 
-Puedes revisar y actualizar la extensión que a cada número telefónico se le asigna visitando la pestaña de Números Telefónicos en el Administrador de Ooma Office. Para más información, por favor revisa nuestras [FAQ de mapeo de números telefónicos](/co/es//mapping-phone-numbers).
+Puedes revisar y actualizar la extensión que a cada número telefónico se le asigna visitando la pestaña de Números Telefónicos en el Administrador de Ooma Office. Para más información, por favor revisa nuestras [FAQ de mapeo de números telefónicos](/co/es/mapping-phone-numbers).

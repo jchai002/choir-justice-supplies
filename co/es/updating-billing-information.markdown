@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Actualizando la Información de Facturación
 date:   2017-02-06 14:30:00

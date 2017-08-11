@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Actualizando la Información del Administrador
 date:   2017-02-06 14:00:00

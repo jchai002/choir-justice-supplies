@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Guía del administrador del portal web de Ooma Office
 date:   2017-02-07 13:30:00

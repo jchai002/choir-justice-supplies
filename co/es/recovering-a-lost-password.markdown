@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Recuperar una Contraseña perdida
 date:   2017-02-06 15:30:00

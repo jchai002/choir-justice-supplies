@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Resumen de funciones de Ooma Office
 date:   2017-02-06 04:15:00
