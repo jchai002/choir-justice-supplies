@@ -25,7 +25,7 @@ Con Ooma Office para WeWork, solo tienes que pagar por los recursos que usas. He
 </tr>
 <tr>
 <td class="indent"><a href="/co/es/setting-up-extensions">Extensión de usuario de Ooma Office para WeWork</a></td>
-<td style="text-align:center;">50,00 â‚¬</td>
+<td style="text-align:center;">COP 50,00</td>
 </tr>
 <tr class="subheader">
 <th style="padding-left:3px;">Funciones</th>
@@ -57,19 +57,19 @@ Con Ooma Office para WeWork, solo tienes que pagar por los recursos que usas. He
 </tr>
 <tr>
 <td class="indent"><a href="/co/es/ring-groups">Grupos de extensiones</a></td>
-<td style="text-align:center;">Included</td>
+<td style="text-align:center;">Incluido</td>
 </tr>
 <tr>
 <td class="indent"><a href="/co/es/virtual-receptionist">Recepcionista virtual</a></td>
-<td style="text-align:center;">Included</td>
+<td style="text-align:center;">Incluido</td>
 </tr>
 <tr>
 <td class="indent"><a href="/co/es/porting-in-your-phone-numbers">Portabilidad de números</a></td>
-<td style="text-align:center;">Included*</td>
+<td style="text-align:center;">Incluido*</td>
 </tr>
 <tr>
 <td class="indent"><a href="/co/es/adding-additional-phone-numbers">Número telefónico local adicional</a></td>
-<td style="text-align:center;">10,00 â‚¬</td>
+<td style="text-align:center;">COP 10,00¬</td>
 </tr>
 </table>
 </p>
