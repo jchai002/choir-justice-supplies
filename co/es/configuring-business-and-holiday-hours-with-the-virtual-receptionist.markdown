@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Configurando Horarios de Oficina y Días festivos con el Recepcionista Virtual
 date:   2017-02-07 09:30:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Administración del Portal del Usuario Final
 date:   2017-02-07 11:45:00

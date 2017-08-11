@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Sala de Conferencias
 date:   2017-02-07 10:45:00

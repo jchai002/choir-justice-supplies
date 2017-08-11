@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Empezando con el Portal Web de Ooma Office
 date:   2015-05-18 08:30:00

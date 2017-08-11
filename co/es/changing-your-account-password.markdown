@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Cambiando la Contraseña de tu Cuenta
 date:   2017-02-06 15:30:00
