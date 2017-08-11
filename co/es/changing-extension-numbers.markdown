@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Cambiando los Números de Extensión
 date:   2017-01-24 11:01:00
