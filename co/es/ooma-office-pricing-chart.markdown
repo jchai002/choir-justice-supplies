@@ -24,7 +24,7 @@ Con Ooma Office para WeWork, solo tienes que pagar por los recursos que usas. He
 <td></td>
 </tr>
 <tr>
-<td class="indent"><a href="/co/es/setting-up-extensions">Extensión de usuario de Ooma Office para WeWork</a></td>
+<td class="indent"><a href="/co/es/setting-up-extensions">ExtensiÃ³n de usuario de Ooma Office para WeWork</a></td>
 <td style="text-align:center;">COP 50,00</td>
 </tr>
 <tr class="subheader">
@@ -32,15 +32,15 @@ Con Ooma Office para WeWork, solo tienes que pagar por los recursos que usas. He
 <td></td>
 </tr>
 <tr>
-<td class="indent">Alquiler de teléfono IP</td>
+<td class="indent">Alquiler de telÃ©fono IP</td>
 <td style="text-align:center;">Incluido</td>
 </tr>
 <tr>
-<td class="indent">Llamadas ilimitadas a teléfonos celulares y a teléfonos fijos en  Colombia</td>
+<td class="indent">Llamadas ilimitadas a telÃ©fonos celulares y a telÃ©fonos fijos en  Colombia</td>
 <td style="text-align:center;">Incluido</td>
 </tr>
 <tr>
-<td class="indent">Llamadas ilimitadas a teléfonos fijos en Austria, Bélgica, Dinamarca, Alemania, Italia, Irlanda, Luxemburgo, Holanda, Portugal, España, Suiza, and Reino Unido</td>
+<td class="indent">Llamadas ilimitadas a telÃ©fonos fijos en Austria, BÃ©lgica, Dinamarca, Alemania, Italia, Irlanda, Luxemburgo, Holanda, Portugal, EspaÃ±a, Suiza, and Reino Unido</td>
 <td style="text-align:center;">Incluido</td>
 </tr>
 <tr>
@@ -64,16 +64,16 @@ Con Ooma Office para WeWork, solo tienes que pagar por los recursos que usas. He
 <td style="text-align:center;">Incluido</td>
 </tr>
 <tr>
-<td class="indent"><a href="/co/es/porting-in-your-phone-numbers">Portabilidad de números</a></td>
+<td class="indent"><a href="/co/es/porting-in-your-phone-numbers">Portabilidad de nÃºmeros</a></td>
 <td style="text-align:center;">Incluido*</td>
 </tr>
 <tr>
-<td class="indent"><a href="/co/es/adding-additional-phone-numbers">Número telefónico local adicional</a></td>
-<td style="text-align:center;">COP 10,00¬</td>
+<td class="indent"><a href="/co/es/adding-additional-phone-numbers">NÃºmero telefÃ³nico local adicional</a></td>
+<td style="text-align:center;">COP 10,00Â¬</td>
 </tr>
 </table>
 </p>
-<p style="font-size: 75%;">* La portabilidad de números telefónicos es gratuita para todos los números telefónicos regulares en Colombia. Una vez que tu número o números hayan sido portados a tu cuenta, pueden ser asignados a un usuario. El primer número telefónico que es asignado a cada usuario es gratuito. Números telefónicos adicionales serán facturados a una cuota estándar de COP 35.095/mes (IVA incluido) por cada número.</p>
+<p style="font-size: 75%;">* La portabilidad de nÃºmeros telefÃ³nicos es gratuita para todos los nÃºmeros telefÃ³nicos regulares en Colombia. Una vez que tu nÃºmero o nÃºmeros hayan sido portados a tu cuenta, pueden ser asignados a un usuario. El primer nÃºmero telefÃ³nico que es asignado a cada usuario es gratuito. NÃºmeros telefÃ³nicos adicionales serÃ¡n facturados a una cuota estÃ¡ndar de COP 35.095/mes (IVA incluido) por cada nÃºmero.</p>
 
 <style type="text/css">
 
