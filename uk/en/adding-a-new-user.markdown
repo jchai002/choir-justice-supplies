@@ -6,7 +6,7 @@ country: [UK]
 language: [English]
 locale: [en-uk]
 category: [wework]
-tags: [getting-started, actiGSTion-and-setup, ooma-office-manager, admin-features, user-management, wework]
+tags: [getting-started, activation-and-setup, ooma-office-manager, admin-features, user-management, wework]
 ---
 
 
@@ -31,7 +31,7 @@ Once your extension is set up, you can add direct access phone numbers and exten
 
 ## How much does it cost to add a new user?
 
-Each new user costs $60.00. You can learn more about pricing for Ooma Office for WeWork by visiting our [pricing chart](/uk/en/ooma-office-pricing-chart).
+Each new user costs £33.00. You can learn more about pricing for Ooma Office for WeWork by visiting our [pricing chart](/uk/en/ooma-office-pricing-chart).
 
 ## How can I see what devices are currently assigned to a user?
 

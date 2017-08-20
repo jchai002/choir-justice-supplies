@@ -6,7 +6,7 @@ country: [UK]
 language: [English]
 locale: [en-uk]
 category: [wework]
-tags: [actiGSTion-and-setup, getting-started, wework]
+tags: [activation-and-setup, getting-started, wework]
 ---
 
 Congratulations on your decision to sign up for Ooma Office for WeWork! Please follow the steps below to place an order and get started.

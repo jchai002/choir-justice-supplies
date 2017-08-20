@@ -6,7 +6,7 @@ country: [UK]
 language: [English]
 locale: [en-uk]
 category: [wework]
-tags: [actiGSTion-and-setup, getting-started, admin-features, ooma-office-manager, wework]
+tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, wework]
 ---
 
 The virtual receptionist is a versatile tool that can do everything from directing incoming calls to sharing important information such as your business operating hours and weekly specials. Best of all, it is included as part of your Ooma Office account.

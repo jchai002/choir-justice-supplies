@@ -6,7 +6,7 @@ country: [UK]
 language: [English]
 locale: [en-uk]
 category: [wework]
-tags: [actiGSTion-and-setup, getting-started, admin-features, ooma-office-manager, wework]
+tags: [activation-and-setup, getting-started, admin-features, ooma-office-manager, wework]
 ---
 
 In addition to directing incoming calls and providing an avenue for sharing useful information with your customers and business associates, the Virtual Receptionist supports an "After Hours Menu" that will play whenever your business is closed. You can choose your operating hours and identify business holidays, giving you fine-tuned control that you can use to make your Virtual Receptionist as efficient as possible.
